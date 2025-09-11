@@ -1,0 +1,17 @@
+Die Einstufung der Lehrveranstaltung "MACHINE LEARNING & DEEP LEARNING" nach dem DigiComp 2.2 Rahmen erfordert eine Interpretation, da die Kompetenzbeschreibungen im JSON-File eher allgemein gehalten sind und die konkreten Lernergebnisse der Lehrveranstaltung detaillierter beschrieben werden müssen, um eine präzise Zuordnung zu ermöglichen.  Meine Einschätzung basiert auf den gegebenen Lernergebnissen und der Annahme, dass die Kompetenzstufen aufeinander aufbauen.  Eine genauere Einstufung wäre mit dem vollständigen Lehrplan und den detaillierten Lernzielen möglich.
+
+
+| Kompetenzbereich (inkl. Kompetenz ID) | Dimension | Einstufung | Begründung |
+|---|---|---|---|
+| **Kompetenzbereich 1:  Informationskompetenz (IK)** | Informationsbeschaffung und -bewertung | Stufe 3: Analysieren | Studierende können Werkzeuge vergleichen und hinsichtlich ihrer Eignung für konkrete Problemstellungen bewerten. Dies geht über das reine Finden von Informationen hinaus und beinhaltet deren kritische Analyse. |
+| **IK** | Informationsverarbeitung und -synthese | Stufe 3: Synthetisieren | Studierende konzipieren und führen Ende-zu-Ende Machine Learning Projekte durch. Dies erfordert die Verarbeitung und Synthese von Informationen aus verschiedenen Quellen und die Entwicklung eigener Lösungen. |
+| **Kompetenzbereich 2:  Kommunikationskompetenz (KK)** |  Kommunikation und Zusammenarbeit | Stufe 2: Anwenden |  Die Beschreibung impliziert keine explizite Zusammenarbeit.  Stufe 2 wird angenommen, da die Durchführung von Projekten implizit Kommunikation erfordert (z.B. Dokumentation, Präsentation).  Eine höhere Stufe wäre mit expliziter Teamarbeit belegt. |
+| **Kompetenzbereich 3:  Problemlösekompetenz (PK)** | Problemerkennung und -analyse | Stufe 3: Analysieren | Studierende können Ende-zu-Ende Machine Learning Projekte konzipieren, was eine umfassende Analyse des Problems erfordert. |
+| **PK** | Lösungsentwicklung und -bewertung | Stufe 3: Bewerten | Studierende entwickeln Lösungen (Projekte) und bewerten diese implizit durch die Durchführung und den Vergleich verschiedener Werkzeuge. |
+| **Kompetenzbereich 4:  Datenkompetenz (DK)** | Datenanalyse und -interpretation | Stufe 3: Interpretieren | Die Durchführung von Machine Learning Projekten impliziert die Analyse und Interpretation von Daten. Stufe 3 wird aufgrund der Komplexität von Machine Learning Projekten angenommen.  |
+| **DK** | Datenmanagement | Stufe 2: Anwenden | Studierende nutzen Werkzeuge für Machine Learning, was den Umgang mit Daten impliziert.  Eine höhere Stufe wäre mit expliziter Datenmodellierung oder -verwaltung belegt.  |
+| **Kompetenzbereich 5:  Softwarekompetenz (SK)** | Softwareanwendung und -entwicklung | Stufe 3: Entwickeln | Studierende nutzen und wenden Werkzeuge an und führen komplexe Projekte durch, was über die reine Anwendung hinausgeht. |
+| **SK** | Softwareauswahl und -bewertung | Stufe 3: Bewerten | Studierende können Werkzeuge vergleichen und ihre Eignung bewerten. |
+
+
+**Wichtiger Hinweis:** Diese Einstufung ist eine Schätzung und könnte sich basierend auf dem detaillierten Lehrplan und den tatsächlich gelehrten Inhalten ändern.  Insbesondere die  Stufe 2 in Kommunikationskompetenz und Datenmanagement könnte höher sein, wenn Gruppenarbeit und explizite Datenmanagement-Aufgaben Bestandteil der Lehrveranstaltung sind.  Die Stufen 3 in mehreren Bereichen setzen voraus, dass die Studierenden nicht nur die Werkzeuge anwenden, sondern sie auch kritisch reflektieren und eigenständig in komplexen Projekten einsetzen.

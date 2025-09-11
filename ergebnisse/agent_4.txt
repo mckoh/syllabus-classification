@@ -1,0 +1,18 @@
+Die Einstufung der Lehrveranstaltung "MACHINE LEARNING & DEEP LEARNING" gemäß DigiComp 2.2 erfordert eine Interpretation der beschriebenen Lernergebnisse im Kontext der Kompetenzbeschreibungen.  Da die Kompetenzstufen aufeinander aufbauen, wird die höchste erreichte Stufe pro Dimension angegeben.  Eine exakte Einstufung ohne detailliertere Informationen zur Lehrveranstaltung (z.B. Umfang, Tiefe der behandelten Themen, Art der Bewertung) ist jedoch schwierig.  Die folgende Tabelle stellt daher eine *mögliche* Einstufung dar.
+
+
+| Kompetenzbereich (inkl. Kompetenz ID) | Dimension | Einstufung | Begründung |
+|---|---|---|---|
+| **Datenkompetenz (Data Literacy)** | Verständnis von Daten | Kompetenzstufe 3: Daten kritisch bewerten und interpretieren | Studierende können Machine Learning Projekte durchführen, was implizit das Verstehen und die Interpretation von Daten voraussetzt. Sie vergleichen Werkzeuge und bewerten deren Eignung für Problemstellungen, was eine kritische Auseinandersetzung mit Daten impliziert. |
+|  | Datenmanagement | Kompetenzstufe 3: Daten effizient verwalten und aufbereiten |  Das Konzipieren und Durchführen von Ende-zu-Ende ML Projekten erfordert Datenmanagement, inklusive Aufbereitung und Auswahl relevanter Daten. |
+|  | Datenanalyse | Kompetenzstufe 2: Daten analysieren und visualisieren |  Die beschriebenen Lernergebnisse konzentrieren sich stärker auf die Anwendung von ML als auf die explorative Datenanalyse.  Visualisierung wird nicht explizit erwähnt.  Kompetenzstufe 3 wäre möglich, falls explizit Datenanalysemethoden im Lehrinhalt enthalten sind. |
+| **Informationskompetenz (Information Literacy)** | Informationssuche | Kompetenzstufe 2: Relevante Informationen identifizieren und bewerten | Studierende lernen Werkzeuge kennen und vergleichen diese, was eine Auswahl und Bewertung von Informationen über diese Werkzeuge impliziert. |
+|  | Informationsverarbeitung | Kompetenzstufe 3: Informationen synthetisieren und anwenden | Studierende konzipieren und führen ML Projekte durch, was eine Synthese von Informationen und deren Anwendung voraussetzt. |
+| **Medienkompetenz (Media Literacy)** |  Medienauswahl | Kompetenzstufe 2: Geeignete Medien für die Kommunikation auswählen | Die Lehrveranstaltung fokussiert sich nicht primär auf die Medienauswahl, jedoch impliziert das Arbeiten mit verschiedenen Werkzeugen und Plattformen eine Auswahlentscheidung. |
+|  | Medienproduktion | Kompetenzstufe 2:  Einfache Medienprodukte erstellen |  Das Erstellen eines ML-Projekts kann als Erstellung eines "Produkts" betrachtet werden, jedoch liegt der Fokus auf der Anwendung von ML, nicht der Gestaltung des finalen Output-Mediums.  |
+|  | Medienrezeption | Kompetenzstufe 2: Medieninhalte kritisch beurteilen |  Die Bewertung der Eignung von Werkzeugen impliziert ein kritisches Beurteilen von Informationen, die mit diesen Medien vermittelt werden.  |
+| **Kommunikationskompetenz (Communication Skills)** | Kommunikation | Kompetenzstufe 2:  Informationen effektiv vermitteln |  Nicht explizit genannt, aber implizit notwendig für die Zusammenarbeit an Projekten. |
+| **Problemlösekompetenz (Problem Solving Skills)** | Problemlösung | Kompetenzstufe 3: Komplexe Probleme analysieren und lösen |  Das eigenständige Durchführen von Ende-zu-Ende ML Projekten erfordert die Analyse und Lösung komplexer Probleme. |
+
+
+**Hinweis:** Diese Einstufung ist eine Interpretation und kann je nach konkretem Lehrveranstaltungsinhalt und -gestaltung variieren.  Ein detaillierter Lehrplan würde eine präzisere Einstufung ermöglichen.  Besonders die Abstufungen innerhalb der Kompetenzstufen 2 und 3 sind fließend und erfordern eine genauere Betrachtung des tatsächlichen Lerninhalts und der Lernziele.

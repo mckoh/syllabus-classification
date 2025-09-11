@@ -1,0 +1,18 @@
+Die Einstufung einer Lehrveranstaltung "Machine Learning & Deep Learning" nach dem DigiComp 2.2 Rahmen erfordert eine Interpretation der gegebenen Kompetenzen im Kontext der Kompetenzstufen.  Da die genauen Inhalte der Lehrveranstaltung nicht vollständig bekannt sind,  handelt es sich um eine Schätzung basierend auf den angegebenen Lernergebnissen.  Ein genaueres Ergebnis wäre mit detaillierten Lehrinhalten möglich.
+
+Hier eine mögliche Einschätzung in Tabellenform:
+
+
+| Kompetenzbereich (inkl. Kompetenz ID) | Dimension | Einstufung | Begründung |
+|---|---|---|---|
+| **Kompetenzbereich 1: Datenliteracy (D1)** | Datenverständnis | Kompetenzstufe 3 (Analysieren) | Studierende können ML-Projekte konzipieren und durchführen. Dies impliziert ein tiefes Verständnis von Daten, ihrer Beschaffenheit und ihren Limitationen im Kontext von ML-Modellen.  Sie analysieren Daten, um passende ML-Methoden auszuwählen. |
+| **Kompetenzbereich 1: Datenliteracy (D1)** | Datenrepräsentation | Kompetenzstufe 2 (Anwenden) | Studierende kennen und wenden verschiedene Werkzeuge und Bibliotheken an, die unterschiedliche Datenrepräsentationen (z.B. Vektoren, Tensoren) verwenden.  Sie wählen geeignete Repräsentationen für ihre Projekte. |
+| **Kompetenzbereich 1: Datenliteracy (D1)** | Datenanalyse | Kompetenzstufe 3 (Analysieren) | Die Fähigkeit, ML-Projekte zu konzipieren und durchzuführen, erfordert die Analyse von Daten, um passende Algorithmen und Modelle auszuwählen und zu bewerten. |
+| **Kompetenzbereich 2: Algorithmisches Denken (A1)** | Algorithmen verstehen | Kompetenzstufe 3 (Analysieren) | Die Studierenden arbeiten mit ML-Algorithmen (einschließlich Deep Learning), verstehen deren Funktionsweise und können diese für verschiedene Problemstellungen auswählen und anpassen. |
+| **Kompetenzbereich 2: Algorithmisches Denken (A1)** | Algorithmen entwickeln | Kompetenzstufe 2 (Anwenden) |  Obwohl sie nicht explizit Algorithmen *entwickeln*, wenden sie vorgefertigte Algorithmen und Modelle in komplexen Projekten an und passen diese an.  Eine eigenständige Entwicklung komplexer Algorithmen ist hier nicht zwingend vorausgesetzt. |
+| **Kompetenzbereich 3: Programmierung (P1)** | Programmierkenntnisse | Kompetenzstufe 3 (Analysieren) | Das eigenständige Durchführen von Ende-zu-Ende ML-Projekten impliziert die Fähigkeit, Code zu verstehen, zu debuggen und zu erweitern, oft mit komplexen Bibliotheken und Frameworks. |
+| **Kompetenzbereich 4: Problemlösen (PL1)** | Problemlösungsfähigkeiten | Kompetenzstufe 3 (Analysieren) |  Die Konzeption und Durchführung von ML-Projekten erfordert die systematische Analyse von Problemen, die Entwicklung von Lösungen und die Bewertung der Ergebnisse.  Dies beinhaltet das Vergleichen von Werkzeugen und deren Eignung für konkrete Problemstellungen. |
+| **Kompetenzbereich 5: Zusammenarbeit (C1)** | Zusammenarbeit | Kompetenzstufe 2 (Anwenden) |  Die Beschreibung legt keinen expliziten Fokus auf Zusammenarbeit.  Studierende könnten in Gruppenprojekten zusammenarbeiten (implizit), aber eine explizite Bewertung der Zusammenarbeit ist nicht aus den gegebenen Informationen ersichtlich.  Daher eine vorsichtige Einschätzung auf Stufe 2. |
+
+
+**Wichtige Anmerkung:**  Diese Einstufung ist eine Interpretation der beschriebenen Lernergebnisse und könnte je nach konkretem Lehrveranstaltungsumfang und -inhalt variieren.  Die Kompetenzstufen bauen aufeinander auf, daher ist das Erreichen einer höheren Stufe immer mit dem Erreichen der darunterliegenden Stufen verbunden.  Ein genauere Einstufung erfordert detaillierte Einblicke in den Lehrplan und die Bewertungskriterien.
