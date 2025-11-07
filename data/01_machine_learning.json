@@ -1,0 +1,14 @@
+{
+    "name": "Machine Learning & Deep Learning (E)",
+    "niveau": "Masterstudium",
+    "learning_objectives": "Folgende Kompetenzen werden in der Lehrveranstaltung erarbeitet:\n- Die Studierenden kennen Werkzeuge (z.B. Bibliotheken, Cloud Plattformen oder Softwarewerkzeuge), mit deren Hilfe Machine Learning unterstützt werden kann.\n- Die Studierenden können die erarbeiteten Werkzeuge hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen.\n- Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren.\n- Die Studierenden können Ende-zu-Ende Machine Learning Projekte selbstständig durchführen",
+    "prerequesits": "1. Semester: Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS und kennen daher einfache statistische Maßzahlen, sowie grundlegende statistische Testverfahren (z.B. t-Test). / 2. Semester: Keine Voraussetzungen / 2. Semester: Modulprüfung MLAL.A1 (Algorithmik 1)",
+    "content": "Folgende Inhalte werden in der Lehrveranstaltung besprochen:\n- Klassische neuronale Netze als Ergänzung zu klassischen Algorithmen der Data Science (z.B. Random Forests, SCM, usw.)\n- Gefaltete, künstliche neuronale Netze (CNN)\n- Rekursive, künstliche neuronale Netze (RNN, LSTM)\n- Weiterführende, künstliche neuronale Netze (GAN, FARM, BERT, CGAN usw.)\n\nDie besprochenen Netztypen unterliegen einem ständigen Wandel. Darum werden hier nur einige Netztypen exemplarisch genannt. In der LV werden insbesondere aber auch aktuelle Netztypen besprochen und angewendet",
+    "literatur": "PRIMÄRLITERATUR:\n- Géron, A. (2017): Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems (Ed. 1), O´Reilly, Farnham (ISBN: 978-1491962299)",
+    "assessment": "Projektdokumentation- und Präsentation",
+    "language": "Englisch",
+    "ects": 10,
+    "sws": 5,
+    "methods": "Folgende Methoden kommen zum Einsatz:\n\n- Bearbeitung von Übungsaufgaben\n- Interaktiver Workshop",
+    "semester": 2
+}
