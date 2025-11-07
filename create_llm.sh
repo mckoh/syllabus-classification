@@ -1,0 +1,1 @@
+ollama create digicomp -f ./Modelfile
