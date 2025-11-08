@@ -1,0 +1,15 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 1.2.1 - Werkzeuge und Tools | Fähigkeit zur Nutzung von Technologien | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden kennen Werkzeuge, mit denen Machine Learning unterstützt werden kann, aber es wird nicht klar, dass sie diese Werkzeuge selbstständig einsetzen können. |
+| 1.2.2 - Datenmodellierung und -analyse | Fähigkeit zur Nutzung von Technologien | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden kennen Bibliotheken und Cloud-Plattformen, aber es wird nicht klar, dass sie diese Werkzeuge hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen können. |
+| 2.1.1 - Problemlösung | Fähigkeit zur Lösung von Problemen | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren, aber es wird nicht klar, dass sie diese Projekte selbstständig durchführen können. |
+| 2.1.2 - Projektmanagement | Fähigkeit zur Lösung von Problemen | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden können Ende-zu-Ende Machine Learning Projekte selbstständig durchführen, aber es wird nicht klar, dass sie diese Projekte hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen können. |
+| 3.1.1 - Kognitive Fähigkeit | Kognitive Fähigkeit | D2 - Verständnis der grundlegenden Konzepte | Die Studierenden kennen klassische neuronale Netze, gefaltete künstliche neuronale Netze und rekursive künstliche neuronale Netze, aber es wird nicht klar, dass sie diese Netztypen selbstständig anwenden können. |
+| 3.1.2 - Kognitive Fähigkeit | Kognitive Fähigkeit | D2 - Verständnis der grundlegenden Konzepte | Die Studierenden kennen aktuelle Netztypen, aber es wird nicht klar, dass sie diese Netztypen selbstständig anwenden können. |
+| 4.1.1 - Kommunikationsfähigkeit | Fähigkeit zur Kommunikation | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden müssen Projektdokumentation und Präsentation erstellen, aber es wird nicht klar, dass sie diese Ergebnisse selbstständig präsentieren können. |
+
+Bemerkung: Ich habe mich auf die bereitgestellten Informationen beschränkt und keine Annahmen getroffen. Die Einstufungen basieren auf der Annahme, dass die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+
+Es ist zu beachten, dass die Lehrveranstaltung in einigen Bereichen (z.B. Fähigkeit zur Nutzung von Technologien) nur eine Einstufung D3 erreicht hat, was bedeutet, dass die Studierenden noch nicht über das erforderliche Verständnis der grundlegenden Funktionen verfügen. In anderen Bereichen (z.B. Kognitive Fähigkeit) ist die Einstufung D2 erreicht worden, was bedeutet, dass die Studierenden ein Verständnis der grundlegenden Konzepte haben, aber noch nicht über das erforderliche Verständnis der komplexeren Konzepte verfügen.

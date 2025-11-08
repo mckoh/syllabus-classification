@@ -1,0 +1,15 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis des Rahmens bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 1.2.1 - Projektmanagement | 1.2 - Projektmanagement und Zeitmanagement | C3 - Fähigkeit, komplexe Projekte zu planen und durchzuführen | Die Studierenden entwerfen selbstständig eine Projektidee für die eigene Masterarbeit und bearbeiten das Thema. Dies zeigt ein Verständnis für Projektmanagement und Zeitmanagement. |
+| 1.2.2 - Projektorganisation | 1.2 - Projektmanagement und Zeitmanagement | C3 - Fähigkeit, komplexe Projekte zu planen und durchzuführen | Die Studierenden reichen das Exposé bei der Studiengangsleitung zur Genehmigung ein und bearbeiten das Thema. Dies zeigt ein Verständnis für Projektorganisation. |
+| 2.1.1 - Wissenschaftliches Arbeiten | 2.1 - Wissenschaftliche Methoden und Techniken | C3 - Fähigkeit, komplexe Projekte zu planen und durchzuführen | Die Studierenden verfassen eine Masterarbeit, die zur Begutachtung abgegeben wird. Dies zeigt ein Verständnis für wissenschaftliches Arbeiten. |
+| 2.1.2 - Forschungsdesign | 2.1 - Wissenschaftliche Methoden und Techniken | C3 - Fähigkeit, komplexe Projekte zu planen und durchzuführen | Die Studierenden entwerfen selbstständig eine Projektidee für die eigene Masterarbeit und bearbeiten das Thema. Dies zeigt ein Verständnis für Forschungsdesign. |
+| 2.1.3 - Datenanalyse | 2.1 - Wissenschaftliche Methoden und Techniken | C2 - Fähigkeit, komplexe Probleme zu lösen und wissenschaftlich fundierte Entscheidungen zu treffen | Die Studierenden verfassen eine Masterarbeit im Bereich Data Science. Dies zeigt ein Verständnis für Datenanalyse. |
+| 3.1.1 - Kommunikation | 3.1 - Kommunikation und Teamwork | C2 - Fähigkeit, komplexe Probleme zu lösen und wissenschaftlich fundierte Entscheidungen zu treffen | Die Studierenden reichen das Exposé bei der Studiengangsleitung zur Genehmigung ein und bearbeiten das Thema. Dies zeigt ein Verständnis für Kommunikation. |
+| 3.1.2 - Teamarbeit | 3.1 - Kommunikation und Teamwork | C2 - Fähigkeit, komplexe Probleme zu lösen und wissenschaftlich fundierte Entscheidungen zu treffen | Die Studierenden bearbeiten das Thema selbstständig. Dies zeigt ein Verständnis für Teamarbeit. |
+
+Hinweis: Die Einstufung erfolgt auf Basis der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis des Rahmens bewertet. Die Einstufung erfolgt in den Dimensionen Projektmanagement, Wissenschaftliches Arbeiten, Forschungsdesign, Datenanalyse, Kommunikation und Teamarbeit. Die Studierenden erreichen das Niveau C3 in einigen Bereichen und C2 in anderen Bereichen.

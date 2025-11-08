@@ -1,0 +1,18 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| Datenmodellierung und -analyse (D1) | Verständnis von Datenmodellen | 2 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden Datenmodelle analysieren oder entwickeln sollen. |
+| Datenmodellierung und -analyse (D1) | Verwendung von Datenmodellen in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
+| Datenbankdesign und -entwicklung (D2) | Verständnis von Datenbanksystemen | 3 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten und Datenbanksystemen, aber es wird nicht explizit erwähnt, dass die Studierenden diese Systeme konzipieren oder entwickeln sollen. |
+| Datenbankdesign und -entwicklung (D2) | Verwendung von Datenbanksystemen in der Praxis | 3 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
+| Datenbankmanagement (D3) | Verständnis von Datenbanksystemen und -konzepten | 3 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten und Datenbanksystemen, aber es wird nicht explizit erwähnt, dass die Studierenden diese Systeme konzipieren oder entwickeln sollen. |
+| Datenbankmanagement (D3) | Verwendung von Datenbanksystemen in der Praxis | 3 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
+| Datenanalyse und -visualisierung (D4) | Verständnis von Datenmodellen und -analysen | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Datenanalyse oder -visualisierung, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
+| Datenanalyse und -visualisierung (D4) | Verwendung von Datenmodellen und -analysen in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Datenanalyse oder -visualisierung, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
+| Programmieren (D5) | Verständnis von Programmiersprachen und -konzepten | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Programmieren, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
+| Programmieren (D5) | Verwendung von Programmiersprachen und -konzepten in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Programmieren, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
+
+Die Einstufung basiert auf der Annahme, dass die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+
+Hinweis: Die Lehrveranstaltung kann nicht vollständig auf Basis des DigiComp 2.2 Rahmens bewertet werden, da einige Kompetenzbereiche (z.B. Datenanalyse und -visualisierung) nicht explizit erwähnt werden. Es ist möglich, dass die Lehrveranstaltung auch diese Kompetenzen vermittelt, aber dies wird nicht ausdrücklich erwähnt.

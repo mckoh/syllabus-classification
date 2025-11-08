@@ -1,0 +1,21 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| Datenwissenschaftliche Grundlagen (D1) | Verständnis von Daten und Informationen | 2 | Die Lehrveranstaltung beschäftigt sich mit der Vorstellung unterschiedlicher Analyseplattformen, aber es wird nicht explizit erwähnt, dass die Studierenden ein grundlegendes Verständnis von Daten und Informationen erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Verwendung von Daten und Informationen | 2 | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Analyseplattformen, aber es wird nicht erwähnt, dass die Studierenden ein grundlegendes Verständnis der Verwendung von Daten und Informationen erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Bewertung von Daten und Informationen | 2 | Die Lehrveranstaltung beschäftigt sich mit der Vergleichbarkeit von Analyseplattformen, aber es wird nicht erwähnt, dass die Studierenden ein grundlegendes Verständnis der Bewertung von Daten und Informationen erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Entwicklung von Lösungen für komplexe Probleme | 2 | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Analyseplattformen, aber es wird nicht erwähnt, dass die Studierenden ein grundlegendes Verständnis der Entwicklung von Lösungen für komplexe Probleme erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Kommunikation von Ergebnissen | 2 | Die Lehrveranstaltung beschäftigt sich mit der Diskussion von Analyseplattformen, aber es wird nicht erwähnt, dass die Studierenden ein grundlegendes Verständnis der Kommunikation von Ergebnissen erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Zusammenarbeit in einem Team | 2 | Die Lehrveranstaltung beschäftigt sich mit der Anwendung von Analyseplattformen, aber es wird nicht erwähnt, dass die Studierenden ein grundlegendes Verständnis der Zusammenarbeit in einem Team erwerben. |
+| Datenwissenschaftliche Grundlagen (D1) | Verantwortung für ethische und rechtliche Aspekte | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit ethischen und rechtlichen Aspekten. |
+| Datenanalytische Fähigkeiten (A1) | Analyse von Daten | 3 | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Analyseplattformen, aber es wird erwähnt, dass die Studierenden erste Anwendungserfahrung mit den vorgestellten Plattformen sammeln. |
+| Datenanalytische Fähigkeiten (A1) | Visualisierung von Daten | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit der Visualisierung von Daten. |
+| Datenanalytische Fähigkeiten (A1) | Bewertung von Modellen und Ergebnissen | 3 | Die Lehrveranstaltung konzentriert sich auf die Vergleichbarkeit von Analyseplattformen, aber es wird erwähnt, dass die Studierenden erste Anwendungserfahrung mit den vorgestellten Plattformen sammeln. |
+| Datenanalytische Fähigkeiten (A1) | Entwicklung von Lösungen für komplexe Probleme | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit der Entwicklung von Lösungen für komplexe Probleme. |
+| Datenanalytische Fähigkeiten (A1) | Kommunikation von Ergebnissen | 3 | Die Lehrveranstaltung konzentriert sich auf die Diskussion von Analyseplattformen, aber es wird erwähnt, dass die Studierenden erste Anwendungserfahrung mit den vorgestellten Plattformen sammeln. |
+| Datenanalytische Fähigkeiten (A1) | Zusammenarbeit in einem Team | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit der Zusammenarbeit in einem Team. |
+
+Bemerkung: Die Einstufungen basieren auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+
+Es ist zu beachten, dass die Lehrveranstaltung sich hauptsächlich mit der Anwendung von Analyseplattformen beschäftigt und nicht explizit auf die Entwicklung von Lösungen für komplexe Probleme oder die Kommunikation von Ergebnissen fokussiert. Daher sind einige Einstufungen als 2 klassifiziert, was bedeutet, dass die Lehrveranstaltung die grundlegenden Fähigkeiten in diesen Bereichen nicht explizit vermittelt.

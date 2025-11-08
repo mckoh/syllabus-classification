@@ -1,0 +1,16 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| KI-Kompetenzen (KI-1) | Analyse und Verständnis von künstlicher Intelligenz | 2 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Strategien zur Umsetzung von künstlich intelligenten Systemen, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis dieser Konzepte erlangen. |
+| KI-Kompetenzen (KI-1) | Anwendung von künstlicher Intelligenz in verschiedenen Kontexten | 2 | Die Lehrveranstaltung beschäftigt sich mit Einsatzmöglichkeiten von künstlicher Intelligenz, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis der Anwendungen erlangen. |
+| KI-Kompetenzen (KI-1) | Entwicklung von Strategien zur Umsetzung von künstlich intelligenten Systemen | 3 | Die Lehrveranstaltung ermöglicht es den Studierenden, Strategien zu entwickeln, um künstlich intelligente Systeme für den praktischen Einsatz zu konzipieren. Dies entspricht der Kompetenzstufe 3. |
+| KI-Kompetenzen (KI-2) | Analyse und Bewertung von künstlicher Intelligenz | 1 | Die Lehrveranstaltung beschäftigt sich mit Vor- und Nachteilen der erarbeiteten Strategien, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis dieser Aspekte erlangen. |
+| KI-Kompetenzen (KI-2) | Entwicklung von Lösungen zur Umsetzung von künstlich intelligenten Systemen | 1 | Die Lehrveranstaltung ermöglicht es den Studierenden, Strategien zu entwickeln, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis der Herausforderungen und Schwierigkeiten erlangen. |
+| KI-Kompetenzen (KI-3) | Entwicklung von Lösungen zur Umsetzung von künstlich intelligenten Systemen | 1 | Die Lehrveranstaltung ermöglicht es den Studierenden, Strategien zu entwickeln, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis der Anwendungen und Einsatzmöglichkeiten erlangen. |
+| KI-Kompetenzen (KI-4) | Entwicklung von Lösungen zur Umsetzung von künstlich intelligenten Systemen | 1 | Die Lehrveranstaltung ermöglicht es den Studierenden, Strategien zu entwickeln, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis der Anwendungen und Einsatzmöglichkeiten erlangen. |
+| KI-Kompetenzen (KI-5) | Entwicklung von Lösungen zur Umsetzung von künstlich intelligenten Systemen | 1 | Die Lehrveranstaltung ermöglicht es den Studierenden, Strategien zu entwickeln, aber es wird nicht klar, dass die Studierenden ein tiefes Verständnis der Anwendungen und Einsatzmöglichkeiten erlangen. |
+
+Bemerkung: Ich habe mich auf die bereitgestellten Informationen konzentriert und keine Annahmen getroffen. Die Einstufung basiert auf dem DigiComp 2.2 Rahmen und den beschriebenen Lernergebnissen, Lehrinhalten und Bewertungsmethoden.
+
+Die Lehrveranstaltung erreicht in der Dimension "KI-Kompetenzen" eine Einstufung von 3 (Entwicklung von Strategien zur Umsetzung von künstlich intelligenten Systemen) und 2 (Analyse und Verständnis von künstlicher Intelligenz, Anwendung von künstlicher Intelligenz in verschiedenen Kontexten). In den anderen Dimensionen erreicht die Lehrveranstaltung eine Einstufung von 1.

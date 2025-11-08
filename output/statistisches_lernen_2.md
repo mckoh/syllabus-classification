@@ -1,0 +1,13 @@
+Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Verständnis von Algorithmen | 3 | Die Studierenden können weiterführende Algorithmen der Data Science praktisch nachvollziehen. Dies entspricht dem Level 3, da sie die Algorithmen "nachvollziehen" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
+| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Konfiguration von Algorithmen für spezifische Einsatzzwecke | 3 | Die Studierenden können weiterführende Algorithmen der Data Science für spezifische Einsatzzwecke konfigurieren. Dies entspricht dem Level 3, da sie die Algorithmen "konfigurieren" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
+| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Anwendung von Algorithmen in isolierten Problemstellungen | 3 | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden. Dies entspricht dem Level 3, da sie die Algorithmen "anwenden" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
+| Mathematik und Statistik (MATH-STAT) | MATH-STAT: Anwendung mathematischer Modelle | 2 | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS, aber es ist nicht klar, ob sie diese Kenntnisse in der Lehrveranstaltung anwenden. Daher wird ein Level 2 zugewiesen. |
+| Data Science - Projektmanagement (DS-PM) | DS-PM: Planung und Durchführung von Projekten | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in der Lehrveranstaltung projektbezogene Fähigkeiten erwerben. Daher wird ein Level 1 zugewiesen. |
+| Data Science - Kommunikation (DS-KOM) | DS-KOM: Kommunikation von Ergebnissen | 2 | Die Studierenden werden wahrscheinlich in der Lehrveranstaltung über die Ergebnisse sprechen, aber es ist nicht klar, ob sie diese Ergebnisse auch effektiv kommunizieren können. Daher wird ein Level 2 zugewiesen. |
+| Data Science - Ethik (DS-ETH) | DS-ETH: Berücksichtigung ethischer Aspekte | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in der Lehrveranstaltung ethische Aspekte berücksichtigen müssen. Daher wird ein Level 1 zugewiesen. |
+
+Hinweis: Die Einstufungen basieren auf den bereitgestellten Informationen und können je nach Interpretation variieren. Es ist möglich, dass die tatsächlichen Fähigkeiten der Studierenden höher sind als die hier bewerteten.
