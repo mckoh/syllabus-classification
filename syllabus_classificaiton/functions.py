@@ -27,7 +27,7 @@ def load_curriculum(file_path):
     start = dt.now()
     print(f"Loading curriculum data from {file_path}.")
 
-    with open(file_path, "r") as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
     debug_print(start)
@@ -89,7 +89,7 @@ def save_classification(output_path:str, txt_classification:str) -> bool:
     start = dt.now()
     print(f"Saving classification to {output_path}.")
 
-    with open(output_path, "w") as output_file:
+    with open(output_path, "w", encoding="utf-8") as output_file:
         output_file.write(txt_classification)
 
     debug_print(start)
