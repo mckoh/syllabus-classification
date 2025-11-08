@@ -12,3 +12,39 @@ Minimalistisches Setup für schnelle Demonstrationen
 ## 🧠 Motivation
 
 Kurs-Syllabi enthalten wertvolle Informationen über Lernziele, Inhalte und Kompetenzen. Die manuelle Analyse ist jedoch zeitaufwendig und fehleranfällig. Mit diesem Demonstrator zeigst du, wie LLMs diese Aufgabe automatisieren und strukturierte Einblicke liefern können.
+
+## Use
+
+Prepare code execution by pulling the `llama3.1:8b` model using `ollama` by proceeding as follows:
+
+```bash
+ollama pull llama3.1:8b
+```
+
+After that, setup the agent that is intended to do classification. This is done by executing the following on your terminal:
+
+```bash
+ollama create digicomp -f ./Modelfile
+```
+
+Finally, you can rely on this agent doing your classification in python. This is a minimal code example that you can use:
+
+```python
+from syllabus_classificaiton.functions import load_curriculum
+from syllabus_classificaiton.functions import transform_curriculum
+from syllabus_classificaiton.functions import classify_curriculum
+from os.path import join
+
+
+file = "01_machine_learning.json"
+
+in_path = join("data", file)
+out_path = join("output", file.split(".")[0]+".md")
+
+x = load_curriculum(in_path)
+x = transform_curriculum(x)
+c = classify_curriculum(x)
+
+with open(out_path, "w") as output_file:
+  output_file.write(c)
+```
