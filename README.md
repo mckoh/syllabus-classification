@@ -36,10 +36,11 @@ from syllabus_classificaiton.functions import classify_curriculum
 from os.path import join
 
 
-file = "01_machine_learning.json"
+src_file = "01_machine_learning.json"
+dst_file = "01_machine_learning.md"
 
-in_path = join("data", file)
-out_path = join("output", file.split(".")[0]+".md")
+in_path = join("input", src_file)
+out_path = join("output", dst_file)
 
 x = load_curriculum(in_path)
 x = transform_curriculum(x)
