@@ -33,8 +33,8 @@ Finally, you can rely on this agent doing your classification in python. This is
 from syllabus_classificaiton.functions import load_curriculum
 from syllabus_classificaiton.functions import transform_curriculum
 from syllabus_classificaiton.functions import classify_curriculum
+from syllabus_classificaiton.functions import save_classification
 from os.path import join
-
 
 src_file = "01_machine_learning.json"
 dst_file = "01_machine_learning.md"
@@ -42,10 +42,9 @@ dst_file = "01_machine_learning.md"
 in_path = join("input", src_file)
 out_path = join("output", dst_file)
 
-x = load_curriculum(in_path)
-x = transform_curriculum(x)
-c = classify_curriculum(x)
+x = load_curriculum(file_path=in_path)
+x = transform_curriculum(json_curriculum=x)
+c = classify_curriculum(txt_curriculum=x)
+s = save_classification(output_path=out_path, txt_classification=c)
 
-with open(out_path, "w") as output_file:
-  output_file.write(c)
 ```

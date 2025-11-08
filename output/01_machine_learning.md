@@ -1,27 +1,15 @@
-Hier ist meine Bewertung der Lehrveranstaltung "Machine Learning & Deep Learning (E)" auf Basis des DigiComp 2.2 Rahmens:
-
-**Tabelle mit Einstufungen**
+Ich habe die Lehrveranstaltung "Machine Learning & Deep Learning (E)" auf Basis des DigiComp 2.2 Rahmens bewertet. Hier ist meine Bewertung in Tabelleform:
 
 | Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Information und Kommunikationstechnologie (ICT) | Analyse, Bewertung und Gestaltung von Technologien | 3 | Die Studierenden lernen Werkzeuge zum Machine Learning kennen und können sie hinsichtlich ihrer Eignung vergleichen. Dies zeigt ein Verständnis für die Auswahl und Anwendung von Technologien. |
-| Information und Kommunikationstechnologie (ICT) | Konzeption, Entwicklung und Implementierung von Systemen | 3 | Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren und durchführen. Dies zeigt ein Verständnis für die Konzeption und Implementierung von Systemen. |
-| Information und Kommunikationstechnologie (ICT) | Analyse, Bewertung und Gestaltung von Technologien | 3 | Die Studierenden lernen verschiedene Netztypen kennen und können sie anwenden. Dies zeigt ein Verständnis für die Auswahl und Anwendung von Technologien. |
-| Mathematik und Statistik | Modellierung und Analyse von Daten | 2 | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik, aber es ist nicht klar, ob sie diese Fähigkeiten in der Lehrveranstaltung anwenden. |
-| Projektmanagement | Konzeption, Entwicklung und Implementierung von Projekten | 3 | Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren und durchführen. Dies zeigt ein Verständnis für die Konzeption und Implementierung von Projekten. |
+| Technologie | Technologische Fähigkeiten | 3 | Die Studierenden lernen Werkzeuge wie Bibliotheken, Cloud-Plattformen oder Softwarewerkzeuge kennen, die Machine Learning unterstützen. Dies entspricht der Kompetenzstufe 3 (Technologische Fähigkeiten), da die Studierenden grundlegende Kenntnisse über Technologien erwerben. |
+| Technologie | Technologische Fähigkeiten | 4 | Die Studierenden können die erarbeiteten Werkzeuge hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen. Dies entspricht der Kompetenzstufe 4 (Technologische Fähigkeiten), da die Studierenden über ein Verständnis von Technologien verfügen und diese anwenden können. |
+| Projektmanagement | Projektmanagement | 2 | Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren, aber es ist nicht klar, ob sie auch selbstständig durchführen können. Dies entspricht der Kompetenzstufe 2 (Projektmanagement), da die Studierenden grundlegende Kenntnisse über Projektmanagement erwerben. |
+| Projektmanagement | Projektmanagement | 3 | Die Studierenden können Ende-zu-Ende Machine Learning Projekte selbstständig durchführen, aber es ist nicht klar, ob sie auch komplexe Probleme lösen können. Dies entspricht der Kompetenzstufe 3 (Projektmanagement), da die Studierenden über ein Verständnis von Projektmanagement verfügen und dieses anwenden können. |
+| Kreativität | Kreativität | 2 | Die Studierenden lernen verschiedene Netztypen wie klassische neuronale Netze, gefaltete künstliche neuronale Netze (CNN), rekursive künstliche neuronale Netze (RNN, LSTM) und weiterführende künstliche neuronale Netze (GAN, FARM, BERT, CGAN usw.) kennen. Dies entspricht der Kompetenzstufe 2 (Kreativität), da die Studierenden grundlegende Kenntnisse über verschiedene Netztypen erwerben. |
+| Kreativität | Kreativität | 3 | Die Studierenden lernen aktuelle Netztypen kennen und anwenden, aber es ist nicht klar, ob sie auch komplexe Probleme lösen können. Dies entspricht der Kompetenzstufe 3 (Kreativität), da die Studierenden über ein Verständnis von verschiedenen Netztypen verfügen und diese anwenden können. |
+| Kommunikation | Kommunikation | 2 | Die Studierenden müssen Projektdokumentation- und Präsentation erstellen, aber es ist nicht klar, ob sie auch komplexe Probleme kommunizieren können. Dies entspricht der Kompetenzstufe 2 (Kommunikation), da die Studierenden grundlegende Kenntnisse über Kommunikation erwerben. |
 
-**Begründung**
+Bemerkung: Die Bewertung basiert auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
 
-Die Einstufungen basieren auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
-
-* Die Studierenden lernen Werkzeuge zum Machine Learning kennen und können sie hinsichtlich ihrer Eignung vergleichen (Analyse, Bewertung und Gestaltung von Technologien). Dies zeigt ein Verständnis für die Auswahl und Anwendung von Technologien.
-* Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren und durchführen (Konzeption, Entwicklung und Implementierung von Systemen). Dies zeigt ein Verständnis für die Konzeption und Implementierung von Systemen.
-* Die Studierenden lernen verschiedene Netztypen kennen und können sie anwenden (Analyse, Bewertung und Gestaltung von Technologien). Dies zeigt ein Verständnis für die Auswahl und Anwendung von Technologien.
-
-Die Einstufungen in der Tabelle sind wie folgt zu verstehen:
-
-* 1: Keine oder sehr begrenzte Fähigkeit
-* 2: Grundlegende Fähigkeiten, aber noch nicht ausreichend entwickelt
-* 3: Fortgeschrittene Fähigkeiten, die für das Erreichen der Ziele der Lehrveranstaltung erforderlich sind
-
-Es ist zu beachten, dass die Einstufungen auf Basis des DigiComp 2.2 Rahmens erfolgen und nicht auf anderen Kompetenzrastern basieren.
+Es ist zu beachten, dass die Lehrveranstaltung "Machine Learning & Deep Learning (E)" in den meisten Dimensionen eine mittlere Kompetenzstufe erreicht. Die Studierenden erwerben grundlegende Kenntnisse über Technologien, Projektmanagement und Kreativität, aber es ist nicht klar, ob sie auch komplexe Probleme lösen können.
