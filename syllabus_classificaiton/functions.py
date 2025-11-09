@@ -9,10 +9,29 @@ Date: November 2025
 from json import loads
 from ollama import chat
 from datetime import datetime as dt
+from requests import get
 from .prompt import prompt
 
 
-def debug_print(start):
+def get_framework() -> str:
+    """Retrieves DigiComp 2.2 data from the web.
+    :return: DigiComp framework as json
+    :rtype: str
+    """
+    url = "https://raw.githubusercontent.com/mckoh/digicomp2-2/refs/heads/main/competences.json"
+    json = get(url).content.decode("utf-8")
+    json = json.replace("\n ", "").replace("\t ", "")
+    json = json.replace("\n", "").replace("\t", "")
+    json = json.strip()
+    for _ in range(10):
+        json = json.replace("  ", " ")
+    return json
+
+
+def debug_print(start) -> None:
+    """Adds a print statement to a given Function.
+    :return: None
+    """
     time = dt.now() - start
     print(f"--> Time needed for this step: {time}\n")
 
@@ -64,11 +83,16 @@ def classify_curriculum(txt_curriculum:str) -> str:
     start = dt.now()
     print(f"Classifying curriculum data.")
 
+    txt_framework = get_framework()
+
+    content = prompt.replace("**lvbeschreibung**", txt_curriculum)
+    content = content.replace("**digicompraster**", txt_framework)
+
     response = chat(
         model='digicomp',
         messages=[{
         'role': 'user',
-        'content': prompt + txt_curriculum}],
+        'content': content}],
         stream=False,
     )
 

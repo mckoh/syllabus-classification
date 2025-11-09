@@ -1,22 +1,20 @@
-Hier ist meine Bewertung der Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen und Fähigkeiten der Studierenden analysieren, die in dieser Lehrveranstaltung erworben werden sollen.
 
-**Tabelle mit Einstufungen**
+Die Lehrveranstaltung befasst sich mit den Themenfeldern Systemisches Management, Innovationsmanagement und kreatives Denken. Die Studierenden sollen dabei lernen, wie sie innovative Ideen generieren und umsetzen können.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+Basierend auf dem DigiComp 2.2 Raster können wir die folgende Tabelle erstellen:
+
+| Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Kreativität und Innovation (K01) | Kreativitätsmethoden | 2 | Die Lehrveranstaltung erarbeitet spezifische Kreativtechniken zur Generierung von Innovationen, was auf ein Niveau von 2 hinweist. Es wird jedoch nicht erwähnt, dass die Studierenden diese Techniken selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden können. |
-| Systemisches Management (K02) | Systemische Denkweise | 1 | Die Lehrveranstaltung erarbeitet ein ganzheitliches Verständnis der Themenfelder, aber es wird nicht erwähnt, dass die Studierenden diese Denkweise selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann. |
-| Innovationsmanagement (K03) | Projektstrukturen und Managementmethoden | 1 | Die Lehrveranstaltung erarbeitet Methoden zur Generierung innovativer Ideen, aber es wird nicht erwähnt, dass die Studierenden diese Methoden selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann. |
-| IT-gestützte Projektdokumentation (K04) | Digitale Werkzeuge und Tools | 1 | Die Lehrveranstaltung erarbeitet IT-gestützte Projektdokumentation, aber es wird nicht erwähnt, dass die Studierenden diese Fähigkeit selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann. |
-| Kommunikations- und Kooperationsfähigkeit (K05) | Teamarbeit und Kommunikation | 1 | Die Lehrveranstaltung erarbeitet Fallstudien, aber es wird nicht erwähnt, dass die Studierenden diese Fähigkeit selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann. |
-| Methodische Kompetenz (K06) | Analyse und Lösungsfindung | 1 | Die Lehrveranstaltung erarbeitet Methoden zur Generierung innovativer Ideen, aber es wird nicht erwähnt, dass die Studierenden diese Fähigkeit selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann. |
+| Kreatives Denken | Identifizierung von Problemen und Herausforderungen | Foundation | Die Studierenden sollen lernen, wie sie innovative Ideen generieren können. Dies erfordert eine Grundlage in der Identifizierung von Problemen und Herausforderungen. |
+| Kreatives Denken | Entwicklung von Lösungen | Intermediate | Die Studierenden sollen lernen, wie sie ihre Ideen umsetzen können. Dies erfordert ein gewisses Maß an Fähigkeit, Lösungen zu entwickeln. |
+| Systemisches Management | Analyse und Bewertung von Systemen | Advanced | Die Studierenden sollen lernen, wie sie komplexe Systeme analysieren und bewerten können. Dies erfordert eine höhere Einstufung in der Analyse und Bewertung von Systemen. |
+| Innovationsmanagement | Entwicklung und Umsetzung von Innovationen | Highly Specialised | Die Studierenden sollen lernen, wie sie innovative Ideen entwickeln und umsetzen können. Dies erfordert ein hohes Maß an Fähigkeit, komplexe Probleme zu lösen und innovative Lösungen zu entwickeln. |
 
-**Bemerkungen**
+Basierend auf dieser Analyse können wir schlussfolgern, dass die Lehrveranstaltung in den folgenden Kompetenzbereichen eine Einstufung von Foundation bis Highly Specialised erreicht:
 
-* Die Lehrveranstaltung erarbeitet eine Vielzahl von Themenfeldern, aber es wird nicht erwähnt, dass die Studierenden diese Fähigkeit selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann.
-* Es fehlt an Beispielen für die Anwendung der erarbeiteten Methoden und Techniken in einem realen Kontext.
-* Die Lehrveranstaltung ist sehr theoretisch ausgerichtet, es wird nicht erwähnt, dass die Studierenden praktische Erfahrungen sammeln können.
+* Kreatives Denken: Foundation (Identifizierung von Problemen und Herausforderungen) bis Intermediate (Entwicklung von Lösungen)
+* Systemisches Management: Advanced (Analyse und Bewertung von Systemen)
+* Innovationsmanagement: Highly Specialised (Entwicklung und Umsetzung von Innovationen)
 
-**Fazit**
-
-Die Lehrveranstaltung erreicht auf Basis des DigiComp 2.2 Rahmens ein Niveau von 1 in den meisten Kompetenzbereichen. Es fehlt an Beispielen für die Anwendung der erarbeiteten Methoden und Techniken in einem realen Kontext, was darauf schließen lässt, dass die Studierenden diese Fähigkeit nicht selbstständig anwenden können oder wie sie in einem realen Kontext umgesetzt werden kann.
+Es ist jedoch zu beachten, dass die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen je nach dem spezifischen Inhalt und der Art der Lehre variieren kann.

@@ -1,22 +1,78 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+**Kompetenzbereich: Information und Datenkompetenz**
+
+* **Dimension: Browsing, Searching and Filtering Data, Information and Digital Content**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Browsen, Suchen oder Filtern von Daten.
+* **Dimension: Evaluating Data, Information and Digital Content**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf die Bewertung von Daten, Informationen und digitalen Inhalten.
+* **Dimension: Managing Data, Information and Digital Content**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Management von Daten, Informationen und digitalen Inhalten.
+
+**Kompetenzbereich: Kommunikation und Zusammenarbeit**
+
+* **Dimension: Interacting through digital Technologies**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Interagieren durch digitale Technologien.
+* **Dimension: Sharing through digital Technologies**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Teilen durch digitale Technologien.
+
+**Kompetenzbereich: Problemlösung**
+
+* **Dimension: Solving technical Problems**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Löschen technischer Probleme.
+
+**Kompetenzbereich: Sicherheit**
+
+* **Dimension: Protecting Devices**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Schutz von Geräten.
+
+**Kompetenzbereich: Programmierung**
+
+* **Dimension: Programming**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Programmieren.
+
+**Kompetenzbereich: Umweltschutz**
+
+* **Dimension: Protecting the Environment**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Schutz der Umwelt.
+
+**Kompetenzbereich: Kreatives Arbeiten mit digitalen Technologien**
+
+* **Dimension: Creatively using digital Technology**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das kreative Arbeiten mit digitalen Technologien.
+
+**Kompetenzbereich: Identifizierung von Kompetenzlücken**
+
+* **Dimension: Identifying digital competence Gaps**
+	+ Einstufung: Keine direkte Beziehung zu den Lernzielen der Lehrveranstaltung.
+	+ Begründung: Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf die Identifizierung von Kompetenzlücken.
+
+Insgesamt kann ich sagen, dass die Lehrveranstaltung keine direkte Beziehung zu den meisten Kompetenzbereichen des DigiComp 2.2 Rahmens hat. Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten und nicht auf das Browsen, Suchen oder Filtern von Daten, die Bewertung von Daten, Informationen und digitalen Inhalten, das Management von Daten, Informationen und digitalen Inhalten, das Interagieren durch digitale Technologien, das Teilen durch digitale Technologien, das Löschen technischer Probleme, den Schutz von Geräten, das Programmieren, den Umweltschutz oder das kreative Arbeiten mit digitalen Technologien.
+
+Ich kann die Lehrveranstaltung daher nicht einstufen, da sie keine direkte Beziehung zu den meisten Kompetenzbereichen des DigiComp 2.2 Rahmens hat.
+
+| Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Information und Medienkompetenz (INF-MED-K1) | Analyse von Informationen | 2 | Die Studierenden kennen grundlegende Einsatzbereiche von Datenerhebung, Datenspeicherung, Datenanalyse und Datennutzung im Kontext von betriebswirtschaftlichen Anwendungen. |
-| Information und Medienkompetenz (INF-MED-K1) | Bewertung von Informationen | 2 | Die Studierenden verstehen die besonderen Herausforderungen dieses Einsatzbereichs und kennen etablierte Best Practice Methoden in diesem Bereich. |
-| Information und Medienkompetenz (INF-MED-K3) | Gestaltung mit Informationen | 3 | Die Studierenden sind über dies in der Lage datenbasierte Anwendungen in diesem Bereich, unter Berücksichtigung Domänenspezifischer Anforderungen, selbst zu gestalten und umzusetzen. |
-| Information und Medienkompetenz (INF-MED-K4) | Kommunikation mit Informationen | 2 | Die Lehrveranstaltung wird zusammen mit dem Master Web Communication & Information Systems als Wahlveranstaltung angeboten, was darauf schließen lässt, dass die Studierenden bereits über grundlegende Kenntnisse in diesem Bereich verfügen. |
-| Informationskompetenz (INF-K1) | Suche nach Informationen | 2 | Die Lehrinhalte umfassen CRM auf der strategischen Ebene, CRM im Prozessmanagement und CRM auf der operativen Ebene, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Informationskompetenz (INF-K2) | Bewertung von Informationen | 2 | Die Lehrinhalte umfassen auch Analytisches CRM und Kommunikatives CRM, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Informationskompetenz (INF-K3) | Gestaltung mit Informationen | 2 | Die Lehrinhalte umfassen auch Operatives CRM und CRM Softwaresysteme, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Informationskompetenz (INF-K4) | Kommunikation mit Informationen | 2 | Die Lehrveranstaltung wird zusammen mit dem Master Web Communication & Information Systems als Wahlveranstaltung angeboten, was darauf schließen lässt, dass die Studierenden bereits über grundlegende Kenntnisse in diesem Bereich verfügen. |
-| Medienkompetenz (MED-K1) | Analyse von Medien | 2 | Die Lehrinhalte umfassen CRM auf der strategischen Ebene, CRM im Prozessmanagement und CRM auf der operativen Ebene, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Medienkompetenz (MED-K2) | Bewertung von Medien | 2 | Die Lehrinhalte umfassen auch Analytisches CRM und Kommunikatives CRM, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Medienkompetenz (MED-K3) | Gestaltung mit Medien | 2 | Die Lehrinhalte umfassen auch Operatives CRM und CRM Softwaresysteme, was darauf schließen lässt, dass die Studierenden grundlegende Kenntnisse in diesem Bereich erwerben. |
-| Medienkompetenz (MED-K4) | Kommunikation mit Medien | 2 | Die Lehrveranstaltung wird zusammen mit dem Master Web Communication & Information Systems als Wahlveranstaltung angeboten, was darauf schließen lässt, dass die Studierenden bereits über grundlegende Kenntnisse in diesem Bereich verfügen. |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Information und Datenkompetenz | Managing Data, Information and Digital Content | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Kommunikation und Zusammenarbeit | Interacting through digital Technologies | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Kommunikation und Zusammenarbeit | Sharing through digital Technologies | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Problemlösung | Solving technical Problems | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Sicherheit | Protecting Devices | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Programmierung | Programming | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Umweltschutz | Protecting the Environment | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Kreatives Arbeiten mit digitalen Technologien | Creatively using digital Technology | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
+| Identifizierung von Kompetenzlücken | Identifying digital competence Gaps | Keine direkte Beziehung | Die Lehrveranstaltung konzentriert sich auf die Anwendung von Daten in betriebswirtschaftlichen Kontexten. |
 
-Hinweis: Die Einstufung erfolgt auf Basis der bereitgestellten Informationen und bezieht sich nur auf den DigiComp 2.2 Rahmen. Es ist möglich, dass die Lehrveranstaltung weitere Kompetenzen abdeckt, die nicht im Rahmen enthalten sind.
-
-Die Studierenden erreichen in dieser Lehrveranstaltung eine Einstufung von 2 in den meisten Dimensionen der Informations- und Medienkompetenz. Sie erwerben grundlegende Kenntnisse in diesem Bereich und können datenbasierte Anwendungen selbst gestalten und umsetzen. Die Studierenden erreichen jedoch nicht die höheren Einstufungen von 3 oder 4, da sie noch keine tiefgreifenderen Kenntnisse in diesem Bereich erwerben.
-
-Es ist zu beachten, dass die Lehrveranstaltung zusammen mit dem Master Web Communication & Information Systems als Wahlveranstaltung angeboten wird, was darauf schließen lässt, dass die Studierenden bereits über grundlegende Kenntnisse in diesem Bereich verfügen.
+Ich hoffe, diese Bewertung hilft!

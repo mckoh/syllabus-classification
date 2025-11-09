@@ -1,24 +1,36 @@
-Hier ist meine Bewertung der Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens:
+Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
 
-**Tabelle mit Einstufungen**
+**Kompetenzbereich: Softwareentwicklung**
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
-| --- | --- | --- | --- |
-| Software-Entwicklung und -Anwendung (SD1) | Analyse und Lösungsfindung | 3 | Die Studierenden kennen weiterführende Konzepte der Softwareentwicklung, die im Bereich der Data Science häufig angewandt werden. Sie sind mit dem Einsatz dieser Konzepte in häufig genutzten Softwareentwicklungsumgebungen vertraut. |
-| Software-Entwicklung und -Anwendung (SD1) | Projektmanagement | 2 | Die Studierenden können konzipierte Applikationen selbstständig implementieren, aber es ist nicht klar, ob sie auch die Projektmanagement-aspekte der Softwareentwicklung beherrschen. |
-| Datenanalyse und -visualisierung (DA1) | Analyse und Lösungsfindung | 2 | Die Studierenden kennen die Architekturmodelle für datengetriebene Softwareentwicklung und -systeme, aber es ist nicht klar, ob sie auch die Fähigkeit haben, diese Konzepte anzuwenden. |
-| Datenanalyse und -visualisierung (DA1) | Projektmanagement | 2 | Die Studierenden können konzipierte Applikationen selbstständig implementieren, aber es ist nicht klar, ob sie auch die Projektmanagement-aspekte der Softwareentwicklung beherrschen. |
-| Programmiersprachen und -umgebungen (PS1) | Analyse und Lösungsfindung | 2 | Die Studierenden sind mit dem Einsatz von Python, MATLAB oder R vertraut, aber es ist nicht klar, ob sie auch die Fähigkeit haben, diese Sprachen anzuwenden. |
-| Programmiersprachen und -umgebungen (PS1) | Projektmanagement | 2 | Die Studierenden können konzipierte Applikationen selbstständig implementieren, aber es ist nicht klar, ob sie auch die Projektmanagement-aspekte der Softwareentwicklung beherrschen. |
+* **Dimension:** Software-Entwurf und -Implementierung
+	+ **Einstufung:** Advanced
+	+ **Begründung:** Die Lehrveranstaltung erarbeitet weiterführende Konzepte der Softwareentwicklung, wie Pipelines, Testen usw., und die Studierenden können konzipierte Applikationen selbstständig implementieren. Dies entspricht dem Level "Advanced" im DigiComp 2.2 Raster.
+* **Dimension:** Programmierung
+	+ **Einstufung:** Advanced
+	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Programmierkonzepte verfügen und in der Lage sind, einfache SQL-Abfragen zu lesen. Dies entspricht dem Level "Advanced" im DigiComp 2.2 Raster.
+* **Dimension:** Software-Qualitätssicherung
+	+ **Einstufung:** Intermediate
+	+ **Begründung:** Die Lehrveranstaltung erarbeitet Konzepte der Testen von Softwareapplikationen, wie Unit Tests und Integration Tests. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
 
-**Begründung**
+**Kompetenzbereich: Datenanalyse**
 
-Die Lehrveranstaltung deckt ein breites Spektrum an Themen ab, darunter Software-Entwicklung und -Anwendung, Datenanalyse und -visualisierung sowie Programmiersprachen und -umgebungen. Die Studierenden sollen die Fähigkeit erwerben, konzipierte Applikationen selbstständig zu implementieren, aber es ist nicht klar, ob sie auch die Projektmanagement-aspekte der Softwareentwicklung beherrschen.
+* **Dimension:** Datenmodellierung
+	+ **Einstufung:** Intermediate
+	+ **Begründung:** Die Lehrveranstaltung erarbeitet Architekturmodelle für datengetriebene Softwareentwicklung und -systeme. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
+* **Dimension:** Datenanalyse
+	+ **Einstufung:** Intermediate
+	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Kenntnisse in der Datenanalyse verfügen und in der Lage sind, einfache SQL-Abfragen zu lesen. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
 
-Die Einstufung in den einzelnen Dimensionen basiert auf folgenden Überlegungen:
+**Kompetenzbereich: Kommunikation und Zusammenarbeit**
 
-* Die Studierenden kennen weiterführende Konzepte der Softwareentwicklung (Analyse und Lösungsfindung, SD1), aber es ist nicht klar, ob sie auch die Fähigkeit haben, diese Konzepte anzuwenden.
-* Die Studierenden können konzipierte Applikationen selbstständig implementieren (Projektmanagement, SD1 und DA1), aber es ist nicht klar, ob sie auch die Projektmanagement-aspekte der Softwareentwicklung beherrschen.
-* Die Studierenden sind mit dem Einsatz von Python, MATLAB oder R vertraut (Analyse und Lösungsfindung, PS1), aber es ist nicht klar, ob sie auch die Fähigkeit haben, diese Sprachen anzuwenden.
+* **Dimension:** Interaktion durch digitale Technologien
+	+ **Einstufung:** Intermediate
+	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Kenntnisse in der Kommunikation durch digitale Technologien verfügen und in der Lage sind, einfache digitalen Tools zu verwenden. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
 
-Insgesamt erreichen die Studierenden in dieser Lehrveranstaltung wahrscheinlich ein Niveau von 2-3 in den einzelnen Dimensionen. Es ist jedoch zu beachten, dass die Einstufung auf der Annahme basiert, dass die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+**Kompetenzbereich: Sicherheit**
+
+* **Dimension:** Schutz von Geräten
+	+ **Einstufung:** Intermediate
+	+ **Begründung:** Die Lehrveranstaltung erarbeitet Konzepte zum Schutz von Geräten und digitalen Inhalten. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
+
+Insgesamt entspricht die Lehrveranstaltung den Kompetenzniveaus "Advanced" in den Bereichen Softwareentwicklung, Programmierung und Datenanalyse sowie "Intermediate" in den Bereichen Kommunikation und Zusammenarbeit und Sicherheit.

@@ -1,10 +1,13 @@
 prompt = """Kannst du folgende Lehrveranstaltung auf auf Basis
-des DigiComp 2.2 Rahmens einstufen. Du findest diesen Rahmen hier:
-https://raw.githubusercontent.com/mckoh/digicomp2-2/refs/heads/main/competences.json.
+des DigiComp 2.2 Rahmens einstufen. Du findest diesen Rahmen nachstehend.
 Kannst du eine Einschätzung vornehmen, welches Kompetenzniveau die Lehrveranstaltung
 in den einzelnen Dimensionen des Rahmens unter der Annahme erreicht, dass die einzelnen
 Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium
 für das Erreichen der oberen Stufen ist. Kannst du deine Einstufung als Tabelle
 vornehmen mit folgenden Spalten: Kompetenzbereich (inklusive Kompetenz ID),
 Dimension, Einstufung, und Begründung. Hier ist die Beschreibung der
-Lehrveranstaltung: """
+
+Lehrveranstaltung: **lvbeschreibung**.
+
+Kompetenzraster: **digicompraster**
+"""

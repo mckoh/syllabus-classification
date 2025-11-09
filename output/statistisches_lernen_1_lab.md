@@ -1,14 +1,21 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen der Studierenden in den einzelnen Dimensionen bewerten.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+Hier ist meine Bewertung:
+
+| Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Data Science - Grundlagen (DS-G1) | Analyse und Interpretation von Daten | 2 | Die Studierenden können grundlegende Algorithmen der Data Science praktisch nachvollziehen, was ein Indikator für ein Verständnis der Grundlagen ist. |
-| Data Science - Anwendung (DS-A1) | Anwendung von Data Science in verschiedenen Kontexten | 2 | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden, was ein Zeichen dafür ist, dass sie Data Science-Anwendungen verstehen. |
-| Mathematische Modellierung (MM-M1) | Entwicklung mathematischer Modelle zur Lösung von Problemen | 2 | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik und können einfache statistische Maßzahlen sowie grundlegende statistische Testverfahren anwenden, was ein Indikator für ein Verständnis mathematischer Modelle ist. |
-| Programmierung (P1) | Entwicklung von Algorithmen zur Lösung von Problemen | 2 | Die Studierenden können grundlegende Algorithmen der Data Science konfigurieren, was ein Zeichen dafür ist, dass sie programmieren können. |
-| Kommunikation und Zusammenarbeit (KC-C1) | Kommunikation von Ergebnissen und Ideen | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in dieser Lehrveranstaltung kommunizative Fähigkeiten entwickeln oder an der Zusammenarbeit mit anderen beteiligt sind. |
-| Informationssuche und -bewertung (IS-B1) | Bewertung von Quellen und Informationen | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in dieser Lehrveranstaltung lernen, wie man Quellen bewertet oder Informationen kritisch analysiert. |
+| Information and Data Literacy | 1.1.1: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik und können einfache statistische Maßzahlen und Testverfahren anwenden. Dies reicht jedoch nicht aus, um komplexe Suchstrategien zu entwickeln oder Daten in digitalen Umgebungen zu analysieren. |
+| Information and Data Literacy | 1.1.2: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden können einfache Suchstrategien anwenden und Daten in digitalen Umgebungen finden. Dies reicht jedoch nicht aus, um komplexe Suchstrategien zu entwickeln oder Daten in digitalen Umgebungen zu analysieren. |
+| Information and Data Literacy | 1.2.1: Evaluating Data, Information and Digital Content | Foundation | Die Studierenden können die Credibilität und Zuverlässigkeit von Quellen bewerten, aber dies reicht nicht aus, um komplexe Datenanalysen durchzuführen oder die Qualität von Daten zu bewerten. |
+| Information and Data Literacy | 1.2.2: Evaluating Data, Information and Digital Content | Foundation | Die Studierenden können die Credibilität und Zuverlässigkeit von Quellen bewerten, aber dies reicht nicht aus, um komplexe Datenanalysen durchzuführen oder die Qualität von Daten zu bewerten. |
+| Communication and Collaboration | 2.1.1: Interacting through digital Technologies | Foundation | Die Studierenden können einfache digitale Technologien verwenden, um sich zu kommunizieren, aber dies reicht nicht aus, um komplexe Kommunikationsstrategien zu entwickeln oder digitale Umgebungen zu analysieren. |
+| Communication and Collaboration | 2.1.2: Interacting through digital Technologies | Foundation | Die Studierenden können einfache digitale Technologien verwenden, um sich zu kommunizieren, aber dies reicht nicht aus, um komplexe Kommunikationsstrategien zu entwickeln oder digitale Umgebungen zu analysieren. |
+| Digital Content Creation | 3.1.1: Developing digital Content | Foundation | Die Studierenden können einfache Inhalte erstellen und bearbeiten, aber dies reicht nicht aus, um komplexe Inhalte zu erstellen oder digitale Umgebungen zu analysieren. |
+| Digital Content Creation | 3.2.1: Interacting and Re-elaborating digital Content | Foundation | Die Studierenden können einfache Inhalte modifizieren und bearbeiten, aber dies reicht nicht aus, um komplexe Inhalte zu erstellen oder digitale Umgebungen zu analysieren. |
+| Problem Solving | 5.1.1: Solving technical Problems | Foundation | Die Studierenden können einfache technische Probleme lösen, aber dies reicht nicht aus, um komplexe technische Probleme zu lösen oder digitale Umgebungen zu analysieren. |
 
-Hinweis: Die Einstufungen basieren auf der Annahme, dass die Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+Die Lehrveranstaltung erreicht in den meisten Dimensionen das Niveau "Foundation", was bedeutet, dass die Studierenden grundlegende Fähigkeiten in diesen Bereichen besitzen, aber noch nicht über komplexe Fähigkeiten verfügen.
 
-Es ist zu beachten, dass die Lehrveranstaltung sich stark auf die praktische Anwendung von Data Science-Algorithmen konzentriert und weniger auf die Entwicklung mathematischer Modelle oder die Bewertung von Quellen. Daher erreicht sie in einigen Dimensionen nur das Niveau 2.
+Es ist jedoch wichtig zu beachten, dass die Lehrveranstaltung auf Master-Studienniveau angeboten wird und daher eine höhere Kompetenzniveaus erwartet werden. In einigen Dimensionen erreichen die Studierenden bereits das Niveau "Intermediate", was bedeutet, dass sie komplexere Fähigkeiten besitzen.
+
+Insgesamt kann ich sagen, dass die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens als "Foundation" eingestuft werden kann, aber es gibt auch Bereiche, in denen die Studierenden bereits über höhere Kompetenzen verfügen.

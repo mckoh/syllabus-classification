@@ -1,13 +1,6581 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
-| --- | --- | --- | --- |
-| K1: Fachwissen | Fähigkeit, fachspezifische Konzepte und Theorien zu verstehen und anzuwenden | 2 | Die Lehrveranstaltung konzentriert sich auf die Analyse der kulturellen Einflussfaktoren auf Data Science im betreffenden Ausland. Die Studierenden sollen den fachrelevanten Diskurs kennen, was ein grundlegendes Verständnis von Fachkonzepten und Theorien voraussetzt. |
-| K2: Interkulturelle Kompetenz | Fähigkeit, interkulturell zu kommunizieren und kulturelle Unterschiede zu verstehen | 3 | Die Lehrveranstaltung beinhaltet Vor-Ort-Besuche mit Diskussionen und interaktive Workshops, was darauf hindeutet, dass die Studierenden interkulturell kommunizieren und kulturelle Unterschiede verstehen sollen. |
-| K3: Fähigkeit, komplexe Probleme zu lösen | Fähigkeit, komplexe Probleme in einem internationalen Kontext zu analysieren und zu lösen | 2 | Die Lehrveranstaltung konzentriert sich auf die Analyse der kulturellen Einflussfaktoren auf Data Science im betreffenden Ausland. Es wird jedoch nicht klar, dass die Studierenden komplexe Probleme in einem internationalen Kontext analysieren und lösen sollen. |
-| K4: Fähigkeit, kritisch zu denken | Fähigkeit, kritisches Denken anzuwenden, um komplexe Probleme zu analysieren und Lösungen zu finden | 2 | Die Lehrveranstaltung beinhaltet Diskussionen mit Vertretern aus der Praxis, was darauf hindeutet, dass die Studierenden kritisch denken sollen. Es wird jedoch nicht klar, dass sie komplexe Probleme analysieren und Lösungen finden sollen. |
-| K5: Fähigkeit, selbstständig zu lernen | Fähigkeit, eigenständig Lernziele zu setzen und zu erreichen | 1 | Die Lehrveranstaltung bietet keine Hinweise darauf, dass die Studierenden eigenständig lernen sollen oder Lernziele setzen und erreichen müssen. |
-| K6: Fähigkeit, mit anderen zusammenzuarbeiten | Fähigkeit, in einem Team zusammenzuarbeiten und gemeinsam Lösungen zu finden | 1 | Die Lehrveranstaltung beinhaltet keine Hinweise darauf, dass die Studierenden in einem Team zusammenarbeiten sollen oder gemeinsam Lösungen finden müssen. |
-| K7: Fähigkeit, sich selbst zu reflektieren | Fähigkeit, eigene Lernprozesse und Ergebnisse zu reflektieren | 1 | Die Lehrveranstaltung bietet keine Hinweise darauf, dass die Studierenden ihre eigenen Lernprozesse und Ergebnisse reflektieren sollen. |
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kulturelle Einflussfaktoren auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der kulturellen Einflussnahme auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen den fachrelevanten Diskurs im betreffenden Ausland kennen und verstehen, wie Einflussfaktoren und Diskurs die Disziplin Data Science beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
 
-Hinweis: Die Einstufung erfolgt auf Basis der bereitgestellten Informationen und bezieht sich nur auf den DigiComp 2.2 Rahmen. Es ist möglich, dass die Lehrveranstaltung in anderen Kontexten oder mit anderen Bewertungsmaßstäben besser bewertet werden könnte.
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die Disziplin Data Science in einem bestimmten Land. Die Studierenden sollen verstehen, wie diese Faktoren die Disziplin beeinflussen. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Kenntnis des fachrelevanten Diskurses im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Beschaffung von Informationen über den fachrelevanten Diskurs in einem bestimmten Land. Die Studierenden sollen den Diskurs kennen und verstehen, wie er die Disziplin Data Science beeinflusst. Dies entspricht dem Kompetenzniveau "Foundation", da die Studierenden noch nicht in der Lage sind, komplexe Probleme zu lösen oder selbstständig Lösungen zu finden.
+
+**Kompetenzbereich:** Interkulturelle Kompetenz
+**Dimension:** Verstehen von Einflussfaktoren und Diskurs auf Data Science im betreffenden Ausland
+**Einstufung:** Foundation
+**Begründung:** Die Lehrveranstaltung beschäftigt sich mit der Analyse von Einflussfaktoren und Diskurs auf die

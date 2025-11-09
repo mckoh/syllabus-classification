@@ -1,15 +1,19 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis des vorgelegten Materials bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen und Fähigkeiten der Studierenden in den verschiedenen Dimensionen bewerten.
+
+Hier ist meine Bewertung:
 
 | Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Datenmanagement und -analyse (D1) | Projektmanagement | 2 | Die Studierenden können ein datenzentriertes Projekt strukturieren und managen, aber es ist nicht klar, ob sie bereits Erfahrungen in der Projektplanung und -durchführung haben. Daher wird die Einstufung auf Niveau 2 gesetzt. |
-| Datenmanagement und -analyse (D1) | Datensicherheit und Datenschutz | 0 | Es gibt keine Hinweise darauf, dass die Studierenden in dieser Lehrveranstaltung über datenschutzrelevante Aspekte informiert werden oder diese anwenden sollen. Daher wird die Einstufung auf Niveau 0 gesetzt. |
-| Datenmanagement und -analyse (D1) | Datenqualität und -validität | 2 | Die Studierenden können ihr Wissen aus den ersten beiden Semestern in einem datenzentriertes Projekt anwenden, aber es ist nicht klar, ob sie bereits Erfahrungen in der Bewertung von Datenqualität und -validität haben. Daher wird die Einstufung auf Niveau 2 gesetzt. |
-| Datenmanagement und -analyse (D1) | Visualisierung und Kommunikation | 0 | Es gibt keine Hinweise darauf, dass die Studierenden in dieser Lehrveranstaltung über Aspekte der Visualisierung und Kommunikation von Daten informiert werden oder diese anwenden sollen. Daher wird die Einstufung auf Niveau 0 gesetzt. |
-| Projektmanagement (P1) | Projektplanung und -durchführung | 2 | Die Studierenden können ein datenzentriertes Projekt strukturieren und managen, aber es ist nicht klar, ob sie bereits Erfahrungen in der Projektplanung und -durchführung haben. Daher wird die Einstufung auf Niveau 2 gesetzt. |
-| Projektmanagement (P1) | Risikomanagement | 0 | Es gibt keine Hinweise darauf, dass die Studierenden in dieser Lehrveranstaltung über Aspekte des Risikomanagements informiert werden oder diese anwenden sollen. Daher wird die Einstufung auf Niveau 0 gesetzt. |
-| Projektmanagement (P1) | Projektcontrolling und -evaluation | 2 | Die Studierenden können ihr Wissen aus den ersten beiden Semestern in einem datenzentriertes Projekt anwenden, aber es ist nicht klar, ob sie bereits Erfahrungen in der Bewertung von Projektergebnissen haben. Daher wird die Einstufung auf Niveau 2 gesetzt. |
+| Information and Data Literacy (1.1) | Browsing, Searching and Filtering Data, Information and Digital Content (1.1.1) | Foundation | Die Studierenden können ihr Wissen aus den ersten beiden Semestern in einem datenzentrierten Projekt anwenden. Dies entspricht der Fähigkeit, Daten und Informationen zu finden und zu filtern. |
+| Information and Data Literacy (1.1) | Browsing, Searching and Filtering Data, Information and Digital Content (1.1.2) | Foundation | Die Studierenden können ein datenzentriertes Projekt strukturieren und managen. Dies entspricht der Fähigkeit, Daten und Informationen zu organisieren und zu verwalten. |
+| ... | ... | ... | ... |
 
-Hinweis: Die Einstufungen basieren auf den vorgelegten Informationen und können sich ändern, wenn weitere Details bekannt werden.
+Ich habe die Kompetenzen in den Dimensionen "Browsing, Searching and Filtering Data, Information and Digital Content" (1.1) und "Evaluating Data, Information and Digital Content" (1.2) bewertet.
 
-Es ist zu beachten, dass die Lehrveranstaltung in einigen Bereichen (z.B. Datensicherheit und Datenschutz) keine oder nur eine sehr grundlegende Einstufung erreicht. Dies könnte darauf hindeuten, dass die Lehrveranstaltung nicht alle erforderlichen Kompetenzen abdeckt.
+Die Studierenden können ihr Wissen aus den ersten beiden Semestern in einem datenzentrierten Projekt anwenden, was der Fähigkeit entspricht, Daten und Informationen zu finden und zu filtern (Foundation). Sie können auch ein datenzentriertes Projekt strukturieren und managen, was der Fähigkeit entspricht, Daten und Informationen zu organisieren und zu verwalten (Foundation).
+
+In den anderen Dimensionen habe ich keine relevanten Kompetenzen gefunden.
+
+Ich muss jedoch darauf hinweisen, dass die Bewertung auf Basis des DigiComp 2.2 Rahmens nur eine mögliche Einschätzung ist und nicht unbedingt der tatsächlichen Fähigkeiten der Studierenden entspricht. Eine genaue Bewertung kann nur durch eine umfassende Analyse der Kompetenzen und Fähigkeiten der Studierenden erfolgen.
+
+Ich hoffe, diese Bewertung hilft! Wenn du weitere Fragen hast, stehe ich gerne zur Verfügung.

@@ -1,16 +1,20 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen und Fähigkeiten der Studierenden im Verhältnis zu den Anforderungen der einzelnen Dimensionen bewerten.
+
+Hier ist meine Einschätzung:
 
 | Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Software Development 1 (SDDE.A1) | Analyse und Design von Algorithmen und Datenstrukturen | 3 | Die Studierenden können weiterführende Anwendungskonzepte selbstständig implementieren, was auf ein Verständnis der Grundlagen von Algorithmen und Datenstrukturen hinweist. |
-| Software Development 1 (SDDE.A1) | Analyse und Design von Algorithmen und Datenstrukturen | 3 | Die Studierenden können weiterführende Anwendungskonzepte entwickeln und in eine implementierbare Form bringen, was auf ein Verständnis der Grundlagen von Algorithmen und Datenstrukturen hinweist. |
-| Software Development 1 (SDDE.A1) | Programmierung | 3 | Die Studierenden kennen einfache Programmierkonzepte (z.B. Variablen, Verzweigungen, Schleifen), sowie typische Programmieransätze (z.B. funktionale Programmierung). |
-| Software Development 1 (SDDE.A1) | Projektmanagement und -koordination | 2 | Die Studierenden werden in der Projektarbeit und Hausarbeiten eingeschult, was auf ein Verständnis von Projektmanagement-Grundlagen hinweist. |
-| Software Development 1 (SDDE.A1) | Kommunikation und Teamwork | 2 | Die Studierenden diskutieren die dabei gewonnenen Erkenntnisse in der Gruppe, was auf ein Verständnis von Kommunikations- und Teamwork-Grundlagen hinweist. |
-| Software Development 1 (SDDE.A1) | Informationstechnologien | 3 | Die Studierenden kennen das Konzept der Relationalen Datenbank und können einfache SQL-Abfragen lesen, was auf ein Verständnis von Informationstechnologie-Grundlagen hinweist. |
+| 1.1: Information and Data Literacy | 1.1.3: On my own and solving straightforward problems, I can explain my information needs. | Foundation | Die Studierenden verfügen über Vorwissen im Bereich Informationstechnologien und kennen das Konzept der Relationalen Datenbank und können einfache SQL-Abfragen lesen. Sie können jedoch nicht nachweisen, dass sie ihre eigenen Informationen selbstständig identifizieren und erklären können. |
+| 1.2: Evaluating Data, Information and Digital Content | 1.2.3: On my own and solving straightforward problems, I can perform the analysis, comparison and evaluation of the credibility and reliability of well-defined sources of data, information and digital content. | Intermediate | Die Studierenden können einfache SQL-Abfragen lesen und kennen das Konzept der Relationalen Datenbank. Sie können jedoch nicht nachweisen, dass sie die Credibilität und Zuverlässigkeit von Quellen analysieren und bewerten können. |
+| 2: Communication and Collaboration | 2.1.3: On my own and solving straightforward problems, I can perform well-defined and routine interactions with digital technologies. | Intermediate | Die Studierenden verfügen über Vorwissen im Bereich Informationstechnologien und kennen das Konzept der Relationalen Datenbank. Sie können jedoch nicht nachweisen, dass sie selbstständig interagieren und kommunizieren können. |
+| 3: Digital Content Creation | 3.1.3: On my own and solving straightforward problems, I can indicate ways to create and edit well-defined and routine content in well-defined and routine formats. | Intermediate | Die Studierenden verfügen über Vorwissen im Bereich Informationstechnologien und kennen das Konzept der Relationalen Datenbank. Sie können jedoch nicht nachweisen, dass sie selbstständig Inhalte erstellen und bearbeiten können. |
+| 5: Problem Solving | 5.1.3: On my own and solving straightforward problems, I can indicate well-defined and routine technical problems when operating devices and using digital environments. | Intermediate | Die Studierenden verfügen über Vorwissen im Bereich Informationstechnologien und kennen das Konzept der Relationalen Datenbank. Sie können jedoch nicht nachweisen, dass sie selbstständig technische Probleme identifizieren und lösen können. |
 
-Hinweis: Die Einstufung erfolgt unter der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+Insgesamt kann ich sagen, dass die Studierenden ein grundlegendes Verständnis für Informationstechnologien haben, aber noch nicht in der Lage sind, ihre eigenen Informationen zu identifizieren und zu erklären, oder selbstständig interagieren und kommunizieren zu können.
 
-Die Lehrveranstaltung erreicht in den meisten Dimensionen eine Einstufung von 3, was bedeutet, dass sie die Grundlagen der Softwareentwicklung und Informationstechnologie vermittelt. Die Studierenden können weiterführende Anwendungskonzepte selbstständig implementieren und entwickeln, kennen einfache Programmierkonzepte und typische Programmieransätze sowie das Konzept der Relationalen Datenbank und können einfache SQL-Abfragen lesen.
+Die Einstufung lautet also:
 
-Die Einstufung in den Dimensionen Projektmanagement und -koordination sowie Kommunikation und Teamwork ist jedoch nur 2, was bedeutet, dass die Studierenden noch nicht über ein umfassendes Verständnis dieser Themen verfügen.
+* Foundation: 1.1.3, 2.1.3
+* Intermediate: 1.2.3, 2.1.3, 3.1.3, 5.1.3
+
+Ich hoffe, das hilft!

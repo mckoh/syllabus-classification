@@ -1,15 +1,38 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
-| --- | --- | --- | --- |
-| 1.2.1 - Werkzeuge und Tools | Fähigkeit zur Nutzung von Technologien | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden kennen Werkzeuge, mit denen Machine Learning unterstützt werden kann, aber es wird nicht klar, dass sie diese Werkzeuge selbstständig einsetzen können. |
-| 1.2.2 - Datenmodellierung und -analyse | Fähigkeit zur Nutzung von Technologien | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden kennen Bibliotheken und Cloud-Plattformen, aber es wird nicht klar, dass sie diese Werkzeuge hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen können. |
-| 2.1.1 - Problemlösung | Fähigkeit zur Lösung von Problemen | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden können Ende-zu-Ende Machine Learning Projekte konzipieren, aber es wird nicht klar, dass sie diese Projekte selbstständig durchführen können. |
-| 2.1.2 - Projektmanagement | Fähigkeit zur Lösung von Problemen | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden können Ende-zu-Ende Machine Learning Projekte selbstständig durchführen, aber es wird nicht klar, dass sie diese Projekte hinsichtlich ihrer Eignung für konkrete Problemstellungen vergleichen können. |
-| 3.1.1 - Kognitive Fähigkeit | Kognitive Fähigkeit | D2 - Verständnis der grundlegenden Konzepte | Die Studierenden kennen klassische neuronale Netze, gefaltete künstliche neuronale Netze und rekursive künstliche neuronale Netze, aber es wird nicht klar, dass sie diese Netztypen selbstständig anwenden können. |
-| 3.1.2 - Kognitive Fähigkeit | Kognitive Fähigkeit | D2 - Verständnis der grundlegenden Konzepte | Die Studierenden kennen aktuelle Netztypen, aber es wird nicht klar, dass sie diese Netztypen selbstständig anwenden können. |
-| 4.1.1 - Kommunikationsfähigkeit | Fähigkeit zur Kommunikation | D3 - Verständnis der grundlegenden Funktionen | Die Studierenden müssen Projektdokumentation und Präsentation erstellen, aber es wird nicht klar, dass sie diese Ergebnisse selbstständig präsentieren können. |
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Browsing, Searching and Filtering Data, Information and Digital Content
+**Einstufung:** Intermediate (1.1.3)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie Machine Learning unterstützende Werkzeuge finden und verwenden können. Sie können auch die Eignung dieser Werkzeuge für konkrete Problemstellungen vergleichen.
 
-Bemerkung: Ich habe mich auf die bereitgestellten Informationen beschränkt und keine Annahmen getroffen. Die Einstufungen basieren auf der Annahme, dass die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Evaluating Data, Information and Digital Content
+**Einstufung:** Intermediate (1.2.3)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Eignung von Machine Learning unterstützenden Werkzeugen für konkrete Problemstellungen bewerten können.
 
-Es ist zu beachten, dass die Lehrveranstaltung in einigen Bereichen (z.B. Fähigkeit zur Nutzung von Technologien) nur eine Einstufung D3 erreicht hat, was bedeutet, dass die Studierenden noch nicht über das erforderliche Verständnis der grundlegenden Funktionen verfügen. In anderen Bereichen (z.B. Kognitive Fähigkeit) ist die Einstufung D2 erreicht worden, was bedeutet, dass die Studierenden ein Verständnis der grundlegenden Konzepte haben, aber noch nicht über das erforderliche Verständnis der komplexeren Konzepte verfügen.
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Managing Data, Information and Digital Content
+**Einstufung:** Intermediate (1.3.4)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Organisation von Machine Learning unterstützenden Werkzeugen und Daten in digitalen Umgebungen durchführen können.
+
+**Kompetenzbereich:** Communication and Collaboration
+**Dimension:** Interacting through digital Technologies
+**Einstufung:** Intermediate (2.1.4)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie verschiedene digitalen Technologien zur Interaktion verwenden können.
+
+**Kompetenzbereich:** Communication and Collaboration
+**Dimension:** Sharing through digital Technologies
+**Einstufung:** Intermediate (2.2.4)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie Daten, Informationen und digitale Inhalte über verschiedene digitalen Technologien teilen können.
+
+**Kompetenzbereich:** Problem Solving
+**Dimension:** Solving technical Problems
+**Einstufung:** Intermediate (5.1.4)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie technische Probleme bei der Verwendung von Machine Learning unterstützenden Werkzeugen lösen können.
+
+**Kompetenzbereich:** Problem Solving
+**Dimension:** Identifying needs and technological Responses
+**Einstufung:** Intermediate (5.2.4)
+**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Bedürfnisse von Machine Learning unterstützenden Werkzeugen identifizieren und entsprechende technologische Antworten finden können.
+
+Ich hoffe, diese Einstufungen helfen dir weiter!

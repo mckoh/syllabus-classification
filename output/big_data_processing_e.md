@@ -1,23 +1,48 @@
-Hier ist meine Bewertung der Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens:
+Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
 
-**Tabelle mit Einstufungen**
+**Kompetenzbereich: Information und Data Literacy**
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
-| --- | --- | --- | --- |
-| Informationssysteme und Datenmanagement (ISDM-01) | Analyse von Daten | 3 | Die Studierenden lernen die Herausforderungen bei der Speicherung und Verarbeitung großer Datenmengen zu analysieren. |
-| Informationssysteme und Datenmanagement (ISDM-02) | Lösungsfindung für Datenmanagement-Probleme | 2 | Die Studierenden kennen Möglichkeiten, den Herausforderungen bei der Speicherung und Verarbeitung großer Datenmengen zu begegnen, aber sie entwickeln keine eigenen Lösungen. |
-| Informationssysteme und Datenmanagement (ISDM-03) | Entwicklung von Lösungen für Datenmanagement-Probleme | 1 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln, aber die Lösungen werden nicht zur Anwendung gebracht. |
-| Programmieren (PROG-01) | Verständnis von Programmiersprachen und -konzepten | 2 | Die Studierenden lernen grundlegende Eigenschaften von Big Data zu verstehen, aber sie haben kein tiefes Verständnis von Programmiersprachen und -konzepten. |
-| Projektmanagement (PM-01) | Planung und Durchführung von Projekten | 1 | Die Studierenden nehmen an interaktiven Workshops teil, aber die Planung und Durchführung von Projekten wird nicht explizit behandelt. |
+* **Dimension: Browsing, Searching and Filtering Data, Information and Digital Content**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Suche nach Informationen oder der Filterung von Daten eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu Suchfunktionen oder der Filterung von Daten gegeben.
+* **Dimension: Evaluating Data, Information and Digital Content**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Bewertung von Quellen oder der Analyse von Daten eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Bewertung von Quellen oder der Analyse von Daten gegeben.
 
-**Begründungen**
+**Kompetenzbereich: Kommunikation und Zusammenarbeit**
 
-* Die Einstufung in der Dimension "Analyse von Daten" (ISDM-01) erfolgt aufgrund der Analyse der Herausforderungen bei der Speicherung und Verarbeitung großer Datenmengen.
-* Die Einstufung in der Dimension "Lösungsfindung für Datenmanagement-Probleme" (ISDM-02) erfolgt, weil die Studierenden Möglichkeiten kennen, den Herausforderungen bei der Speicherung und Verarbeitung großer Datenmengen zu begegnen, aber sie entwickeln keine eigenen Lösungen.
-* Die Einstufung in der Dimension "Entwicklung von Lösungen für Datenmanagement-Probleme" (ISDM-03) erfolgt, weil die Studierenden entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln können, aber die Lösungen werden nicht zur Anwendung gebracht.
-* Die Einstufung in der Dimension "Verständnis von Programmiersprachen und -konzepten" (PROG-01) erfolgt, weil die Studierenden grundlegende Eigenschaften von Big Data zu verstehen lernen, aber sie kein tiefes Verständnis von Programmiersprachen und -konzepten haben.
-* Die Einstufung in der Dimension "Planung und Durchführung von Projekten" (PM-01) erfolgt, weil die Studierenden an interaktiven Workshops teilnehmen, aber die Planung und Durchführung von Projekten wird nicht explizit behandelt.
+* **Dimension: Interacting through digital Technologies**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Interaktion mit anderen über digitale Technologien eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Interaktion mit anderen über digitale Technologien gegeben.
 
-**Hinweis**
+**Kompetenzbereich: Sicherheit**
 
-Die Einstufungen basieren auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind. Wenn dies nicht zutrifft, können die Einstufungen anders ausfallen.
+* **Dimension: Protecting Devices**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Sicherung von Geräten oder der Verhinderung von Cyberangriffen eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Sicherung von Geräten oder der Verhinderung von Cyberangriffen gegeben.
+
+**Kompetenzbereich: Problemlösung**
+
+* **Dimension: Solving technical Problems**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Lösung technischer Probleme eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Lösung technischer Probleme gegeben.
+
+**Kompetenzbereich: Kreatives Arbeiten mit digitaler Technologie**
+
+* **Dimension: Creatively using digital Technology**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur kreativen Verwendung von digitalen Technologien eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der kreativen Verwendung von digitalen Technologien gegeben.
+
+**Kompetenzbereich: Identifizierung von Kompetenzlücken**
+
+* **Dimension: Identifying digital competence Gaps**
+	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Identifizierung von Kompetenzlücken eingehen.
+	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Identifizierung von Kompetenzlücken gegeben.
+
+**Zusammenfassung:**
+
+Die Lehrveranstaltung kann nicht auf der Grundlage des DigiComp 2.2 Rahmens einstufen werden, da sie nicht explizit auf die Fähigkeit zur Suche nach Informationen, der Filterung von Daten, der Bewertung von Quellen, der Interaktion mit anderen über digitale Technologien, der Sicherung von Geräten, der Lösung technischer Probleme oder der kreativen Verwendung von digitalen Technologien eingehen. Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu diesen Fähigkeiten gegeben.
+
+**Empfehlung:**
+
+Die Lehrveranstaltung sollte anhand anderer Kompetenzmodelle oder -rahmen bewertet werden, um ihre Stärken und Schwächen besser zu verstehen.

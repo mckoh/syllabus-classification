@@ -1,23 +1,20 @@
-Hier ist meine Bewertung der Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen der Studierenden in den einzelnen Dimensionen bewerten.
 
-**Tabelle mit Einstufungen**
+Hier ist meine Bewertung:
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Data Science, Algorithmische Denkfähigkeit (DS-AD) | Analyse und Lösungsfindung | 3 | Die Studierenden kennen die Funktionsweise grundlegender Algorithmen im Bereich Data Science. Sie verstehen die statistischen Konzepte und Arbeitsweisen hinter den behandelten Algorithmen. |
-| Data Science, Algorithmische Denkfähigkeit (DS-AD) | Anwendung von Algorithmen | 3 | Die Studierenden sind in der Lage geeignete Algorithmen für gegebene Problemstellungen zu selektieren und können die behandelten Algorithmen in isolierten Problemstellungen anwenden. |
-| Data Science, Datenmodellierung (DS-DM) | Datenstrukturen und -modelle | 2 | Die Studierenden kennen die von den behandelten Algorithmen benötigten Datenstrukturen, Laufzeitspezifika und Komplexitätsklassen. |
-| Data Science, Datenanalyse (DS-DA) | Analyse und Interpretation von Daten | 1 | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden, aber es ist nicht klar, ob sie die Ergebnisse interpretieren können. |
-| Mathematik/Statistik, Grundlagen der Wahrscheinlichkeitstheorie (MS-GWT) | Wahrscheinlichkeitstheorie und Statistik | 2 | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS und kennen daher einfache statistische Maßzahlen, sowie grundlegende statistische Testverfahren. |
+| Information and Data Literacy | 1.1.1: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden kennen die Funktionsweise grundlegender Algorithmen im Bereich Data Science und können diese anwenden. Dies zeigt ein Grundverständnis für die Suche nach relevanten Informationen. |
+| Information and Data Literacy | 1.2.3: Evaluating Data, Information and Digital Content | Intermediate | Die Studierenden verstehen die statistische Konzepte und Arbeitsweisen hinter den behandelten Algorithmen und können diese bewerten. Dies zeigt ein mittleres Niveau in der Bewertung von Daten, Informationen und digitalen Inhalten. |
+| Communication and Collaboration | 2.1.3: Interacting through digital Technologies | Intermediate | Die Studierenden können sich in digitalen Umgebungen interagieren und kommunizieren. Dies zeigt ein mittleres Niveau in der Kommunikation und Zusammenarbeit. |
+| Digital Content Creation | 3.1.5: Developing digital Content | Advanced | Die Studierenden können Inhalte entwickeln und bearbeiten, was ein hohes Niveau in der Entwicklung von digitalen Inhalten zeigt. |
+| Problem Solving | 5.1.6: Solving technical Problems | Advanced | Die Studierenden können technische Probleme lösen, was ein hohes Niveau in der Lösung technischer Probleme zeigt. |
 
-**Begründung**
+Die Lehrveranstaltung erreicht in den einzelnen Dimensionen folgende Kompetenzniveaus:
 
-Die Lehrveranstaltung konzentriert sich auf die Einführung in grundlegende Algorithmen im Bereich Data Science und ihre Anwendung in isolierten Problemstellungen. Die Studierenden sollen die Funktionsweise der Algorithmen, die statistischen Konzepte und Arbeitsweisen hinter ihnen verstehen und geeignete Algorithmen für gegebene Problemstellungen selektieren können.
+* Information and Data Literacy: Foundation
+* Communication and Collaboration: Intermediate
+* Digital Content Creation: Advanced
+* Problem Solving: Advanced
 
-Die Einstufung in Dimension 1 (Analyse und Lösungsfindung) ist aufgrund der Fähigkeit der Studierenden, die Funktionsweise grundlegender Algorithmen zu kennen und zu verstehen, als 3 bewertet. Die Einstufung in Dimension 2 (Anwendung von Algorithmen) ist ebenfalls als 3 bewertet, da die Studierenden in der Lage sind, geeignete Algorithmen für gegebene Problemstellungen zu selektieren und die behandelten Algorithmen in isolierten Problemstellungen anzuwenden.
-
-Die Einstufung in Dimension 3 (Datenstrukturen und -modelle) ist aufgrund der Fähigkeit der Studierenden, die von den behandelten Algorithmen benötigten Datenstrukturen, Laufzeitspezifika und Komplexitätsklassen zu kennen, als 2 bewertet.
-
-Die Einstufung in Dimension 4 (Analyse und Interpretation von Daten) ist aufgrund der Fähigkeit der Studierenden, die behandelten Algorithmen in isolierten Problemstellungen anzuwenden, aber nicht klar, ob sie die Ergebnisse interpretieren können, als 1 bewertet.
-
-Die Einstufung in Dimension 5 (Wahrscheinlichkeitstheorie und Statistik) ist aufgrund der Fähigkeit der Studierenden, einfache statistische Maßzahlen und grundlegende statistische Testverfahren zu kennen, als 2 bewertet.
+Es ist zu beachten, dass die Einstufung auf Basis der vorgelegten Informationen erfolgt und möglicherweise nicht alle Kompetenzen abgedeckt sind.

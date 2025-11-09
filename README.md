@@ -46,5 +46,26 @@ x = load_curriculum(file_path=in_path)
 x = transform_curriculum(json_curriculum=x)
 c = classify_curriculum(txt_curriculum=x)
 s = save_classification(output_path=out_path, txt_classification=c)
-
 ```
+
+## 🧭 Kontext Token Problem
+
+Die vollständige Klassifizierung eines Curriculums dauert in etwa 0:11:51 mit einer Kontext-Länge von 4096 tokens. Für die Klassifikation von Syllabus-Dokumenten benötigen wir aber deutlich mehr Kontext (Prompt + Curriculum + Framework kommen gemeinsam auf eine Länge von ~ 80.000 Worten).
+
+Konversion from words to tokens (Daumenregel mit 130 % Faktor):
+
+$$80.000 \cdot 1.3 = 104.000$$
+
+Darum  wurde die Kontext-Länge im ModelFile während eines Experiments auf 90.000 angepasst. Damit dauert die Klassifikation einer LV mit einer `RTX 2080 Ti` (GPU) aber bereits weit länger als ein Stunde.
+
+Um Syllabi im großen Stil zu klassifizieren muss demnach auf eine leistungsfähigere Infrastruktur umgestiegen werden. Hier einige Benchmarks aus den Versuchen zur Syllabusklassifikation:
+
+Kontext size | Runtime per LV | Runtime für DSIA
+-- | -- | --
+4.000 | ~0.25 min | 11 min
+20.000 | ~1 min | 180 min
+80.000 | ~60+ min | zu lange
+
+## 💡 Lösung RAG
+
+Könnte dieses Problem gelöst werden, indem der Framework-Kontext geteilt und über einen Vektor-Space bereitgestellt wird um nur die relevanten Kompetenzen zu verwenden.

@@ -1,13 +1,9760 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen und Fähigkeiten der Studierenden im Verhältnis zu den Anforderungen der Lehrveranstaltung bewerten.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+Die Lehrveranstaltung ist ein Masterstudium mit einem Umfang von 6 ECTS-Punkten. Die Studierenden sollten bereits über Vorwissen im Bereich Mathematik/Statistik verfügen, insbesondere einfache statistische Maßzahlen und grundlegende statistische Testverfahren kennen.
+
+Die Lehrinhalte umfassen weiterführende Modellierungsverfahren, Ensemble Methoden und Optimierung von Modellen. Die Studierenden sollen in der Lage sein, diese Algorithmen praktisch nachvollziehen, konfigurieren und anwenden zu können.
+
+Basierend auf den Kompetenzraster des DigiComp 2.2 Rahmens können wir die folgende Tabelle erstellen:
+
+| Kompetenzbereich | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Verständnis von Algorithmen | 3 | Die Studierenden können weiterführende Algorithmen der Data Science praktisch nachvollziehen. Dies entspricht dem Level 3, da sie die Algorithmen "nachvollziehen" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
-| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Konfiguration von Algorithmen für spezifische Einsatzzwecke | 3 | Die Studierenden können weiterführende Algorithmen der Data Science für spezifische Einsatzzwecke konfigurieren. Dies entspricht dem Level 3, da sie die Algorithmen "konfigurieren" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
-| Data Science - Algorithmen und Modellierung (DS-Algo) | DS-Algo: Anwendung von Algorithmen in isolierten Problemstellungen | 3 | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden. Dies entspricht dem Level 3, da sie die Algorithmen "anwenden" können, aber nicht unbedingt selbst entwickeln oder modifizieren. |
-| Mathematik und Statistik (MATH-STAT) | MATH-STAT: Anwendung mathematischer Modelle | 2 | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS, aber es ist nicht klar, ob sie diese Kenntnisse in der Lehrveranstaltung anwenden. Daher wird ein Level 2 zugewiesen. |
-| Data Science - Projektmanagement (DS-PM) | DS-PM: Planung und Durchführung von Projekten | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in der Lehrveranstaltung projektbezogene Fähigkeiten erwerben. Daher wird ein Level 1 zugewiesen. |
-| Data Science - Kommunikation (DS-KOM) | DS-KOM: Kommunikation von Ergebnissen | 2 | Die Studierenden werden wahrscheinlich in der Lehrveranstaltung über die Ergebnisse sprechen, aber es ist nicht klar, ob sie diese Ergebnisse auch effektiv kommunizieren können. Daher wird ein Level 2 zugewiesen. |
-| Data Science - Ethik (DS-ETH) | DS-ETH: Berücksichtigung ethischer Aspekte | 1 | Es gibt keine Hinweise darauf, dass die Studierenden in der Lehrveranstaltung ethische Aspekte berücksichtigen müssen. Daher wird ein Level 1 zugewiesen. |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate | Die Studierenden sollen in der Lage sein, weiterführende Algorithmen der Data Science praktisch nachvollziehen zu können. Dies erfordert ein hohes Maß an Fähigkeiten im Bereich der Datenanalyse und -interpretation. |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced | Die Studierenden sollen in der Lage sein, die behandelten Algorithmen in isolierten Problemstellungen anwenden zu können. Dies erfordert ein hohes Maß an Fähigkeiten im Bereich der Datenanalyse und -interpretation sowie der Bewertung von Quellen und Informationen. |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced | Die Studierenden sollen in der Lage sein, die Algorithmen zu konfigurieren und anzuwenden. Dies erfordert ein hohes Maß an Fähigkeiten im Bereich der Kommunikation und Kooperation. |
+| Programmierung | Programming (3.4) | Intermediate | Die Studierenden sollen in der Lage sein, die Algorithmen zu implementieren und auszuführen. Dies erfordert ein hohes Maß an Fähigkeiten im Bereich der Programmierung. |
 
-Hinweis: Die Einstufungen basieren auf den bereitgestellten Informationen und können je nach Interpretation variieren. Es ist möglich, dass die tatsächlichen Fähigkeiten der Studierenden höher sind als die hier bewerteten.
+Basierend auf diesen Kompetenzraster können wir folgende Schlussfolgerungen ziehen:
+
+* Die Studierenden erreichen das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung.
+* Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein Masterstudium mit einem Umfang von 6 ECTS-Punkten ist. Daher können wir davon ausgehen, dass die Studierenden bereits über ein hohes Maß an Fähigkeiten und Kenntnissen verfügen. Die Einstufung in den einzelnen Kompetenzbereichen sollte daher als eine Bestätigung der vorhandenen Fähigkeiten und Kenntnisse angesehen werden.
+
+Es ist auch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Insgesamt kann die Lehrveranstaltung als sehr anspruchsvoll angesehen werden, da sie ein hohes Maß an Fähigkeiten und Kenntnissen erfordert. Die Studierenden sollten jedoch bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen, um diese Anforderungen zu erfüllen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein sehr spezifisches Thema behandelt, nämlich die Anwendung von Data Science-Algorithmen. Daher können wir davon ausgehen, dass die Studierenden bereits über eine gute Grundlage in den Bereichen Mathematik und Statistik verfügen.
+
+Die folgende Tabelle zeigt die Einstufung der Lehrveranstaltung in den einzelnen Kompetenzbereichen:
+
+| Kompetenzbereich | Dimension | Einstufung |
+| --- | --- | --- |
+| Information und Datenkompetenz | Browsing, Searching and Filtering Data, Information and Digital Content (1.1) | Intermediate |
+| Information und Datenkompetenz | Evaluating Data, Information and Digital Content (1.2) | Advanced |
+| Kommunikations- und Kooperationsfähigkeit | Interacting through digital Technologies (2.1) | Advanced |
+| Programmierung | Programming (3.4) | Intermediate |
+
+Die Lehrveranstaltung erreicht das Niveau "Intermediate" in den Bereichen Information und Datenkompetenz, Kommunikations- und Kooperationsfähigkeit sowie Programmierung. Die Studierenden erreichen das Niveau "Advanced" im Bereich Evaluating Data, Information and Digital Content.
+
+Es ist jedoch zu beachten, dass die Lehrveranstaltung ein

@@ -1,16 +1,19 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen und Fähigkeiten der Studierenden in den verschiedenen Dimensionen analysieren.
+
+Hier ist meine Einschätzung:
 
 | Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Projektmanagement und -methoden (1.2) | Planen und Organisieren | 3 | Die Studierenden kennen weiterführende Methoden und Werkzeuge des Projektmanagements, was ein Zeichen dafür ist, dass sie die Kompetenz in diesem Bereich erreicht haben. |
-| Projektmanagement und -methoden (1.2) | Durchführen und Überwachen | 2 | Die Studierenden können die behandelten Methoden und Werkzeuge des Projektmanagements hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen, aber es ist nicht klar, ob sie diese Fähigkeit bereits anwenden können. |
-| Projektmanagement und -methoden (1.2) | Durchführen und Überwachen | 3 | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements in Projekten zum Einsatz bringen, was ein Zeichen dafür ist, dass sie die Kompetenz in diesem Bereich erreicht haben. |
-| Datengetriebene Produkte (1.4) | Analysieren und Interpretieren | 2 | Die Studierenden kennen weiterführende Methoden und Werkzeuge des Projektmanagements im Bereich Data Science, aber es ist nicht klar, ob sie diese Fähigkeit bereits anwenden können. |
-| Projektmanagement und -methoden (1.5) | Kommunizieren und Kooperieren | 2 | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements in Projekten zum Einsatz bringen, aber es ist nicht klar, ob sie diese Fähigkeit bereits anwenden können. |
-| Projektmanagement und -methoden (1.6) | Problemlösen und Entscheiden | 2 | Die Studierenden können die behandelten Methoden und Werkzeuge des Projektmanagements hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen, aber es ist nicht klar, ob sie diese Fähigkeit bereits anwenden können. |
+| 1.1: Information and Data Literacy | 1.1.1: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden kennen weiterführende Methoden und Werkzeuge des Projektmanagements und können diese hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen. Dies erfordert eine grundlegende Fähigkeit im Umgang mit digitalen Informationen, die jedoch nicht explizit in der Lehrveranstaltung beschrieben wird. |
+| 1.2: Evaluating Data, Information and Digital Content | 1.2.3: Analysis, Comparison and Evaluation of the Credibility and Reliability of Well-Defined Sources of Data, Information and Digital Content | Intermediate | Die Studierenden können die behandelten Methoden und Werkzeuge des Projektmanagements hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen. Dies erfordert eine Fähigkeit im Umgang mit digitalen Informationen und der Bewertung ihrer Qualität, was jedoch nicht explizit in der Lehrveranstaltung beschrieben wird. |
+| 2: Communication and Collaboration | 2.1.3: Performing Well-Defined and Routine Interactions with Digital Technologies | Intermediate | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements in Projekten zum Einsatz bringen, was eine Fähigkeit im Umgang mit digitalen Technologien erfordert. |
+| 2: Communication and Collaboration | 2.1.4: Selecting a Variety of Digital Technologies to Interact | Intermediate | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements in Projekten zum Einsatz bringen, was eine Fähigkeit im Umgang mit digitalen Technologien erfordert. |
+| 3: Digital Content Creation | 3.1.5: Applying Ways to Create and Edit Content in Different Formats | Advanced | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen, was eine Fähigkeit im Umgang mit digitalen Informationen und der Erstellung von Inhalten erfordert. |
+| 4: Safety | 4.1.5: Applying Different Ways to Protect Devices and Digital Content | Advanced | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements in Projekten zum Einsatz bringen, was eine Fähigkeit im Umgang mit digitalen Technologien erfordert. |
+| 5: Problem Solving | 5.1.6: Resolving Technical Problems with the Most Appropriate Solution | Advanced | Die Studierenden können die Methoden und Werkzeuge des Projektmanagements hinsichtlich ihrer Eignung in bestimmten Projekten vergleichen, was eine Fähigkeit im Umgang mit digitalen Informationen und der Lösung von Problemen erfordert. |
 
-Bemerkungen:
+Insgesamt kann ich sagen, dass die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens als "Advanced" eingestuft werden kann. Die Studierenden zeigen eine Fähigkeit im Umgang mit digitalen Informationen und Technologien, können jedoch nicht explizit in der Lehrveranstaltung beschrieben wird.
 
-* Ich habe mich auf die bereitgestellten Informationen beschränkt und keine Annahmen getroffen.
-* Die Bewertung basiert auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
-* Es ist möglich, dass die Lehrveranstaltung weitere Kompetenzen vermittelt, die nicht in den bereitgestellten Informationen erwähnt werden.
+Es ist jedoch zu beachten, dass die Lehrveranstaltung nicht alle Dimensionen des DigiComp 2.2 Rahmens abdeckt. Insbesondere die Dimensionen "Information and Data Literacy" und "Evaluating Data, Information and Digital Content" werden nur teilweise abgedeckt.
+
+Ich hoffe, diese Einschätzung hilft!

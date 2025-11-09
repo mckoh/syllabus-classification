@@ -1,18 +1,45 @@
-Ich habe mich an den DigiComp 2.2 Rahmen gehalten und die Lehrveranstaltung auf Basis der bereitgestellten Informationen bewertet. Hier ist meine Bewertung in Tabelle-Form:
+Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
 
-| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
-| --- | --- | --- | --- |
-| Datenmodellierung und -analyse (D1) | Verständnis von Datenmodellen | 2 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden Datenmodelle analysieren oder entwickeln sollen. |
-| Datenmodellierung und -analyse (D1) | Verwendung von Datenmodellen in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
-| Datenbankdesign und -entwicklung (D2) | Verständnis von Datenbanksystemen | 3 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten und Datenbanksystemen, aber es wird nicht explizit erwähnt, dass die Studierenden diese Systeme konzipieren oder entwickeln sollen. |
-| Datenbankdesign und -entwicklung (D2) | Verwendung von Datenbanksystemen in der Praxis | 3 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
-| Datenbankmanagement (D3) | Verständnis von Datenbanksystemen und -konzepten | 3 | Die Lehrveranstaltung beschäftigt sich mit verschiedenen Datenspeicherkonzepten und Datenbanksystemen, aber es wird nicht explizit erwähnt, dass die Studierenden diese Systeme konzipieren oder entwickeln sollen. |
-| Datenbankmanagement (D3) | Verwendung von Datenbanksystemen in der Praxis | 3 | Die Lehrveranstaltung beschäftigt sich mit der Implementierung von Datenspeicherkonzepten, aber es wird nicht explizit erwähnt, dass die Studierenden diese Konzepte in der Praxis anwenden sollen. |
-| Datenanalyse und -visualisierung (D4) | Verständnis von Datenmodellen und -analysen | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Datenanalyse oder -visualisierung, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
-| Datenanalyse und -visualisierung (D4) | Verwendung von Datenmodellen und -analysen in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Datenanalyse oder -visualisierung, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
-| Programmieren (D5) | Verständnis von Programmiersprachen und -konzepten | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Programmieren, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
-| Programmieren (D5) | Verwendung von Programmiersprachen und -konzepten in der Praxis | 2 | Die Lehrveranstaltung beschäftigt sich nicht explizit mit Programmieren, sondern eher mit der Implementierung von Datenspeicherkonzepten. |
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Evaluating Data, Information and Digital Content
+**Einstufung:** Intermediate
+**Begründung:**
 
-Die Einstufung basiert auf der Annahme, dass die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu analysieren, zu vergleichen und zu bewerten (1.2.3). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.2.6).
 
-Hinweis: Die Lehrveranstaltung kann nicht vollständig auf Basis des DigiComp 2.2 Rahmens bewertet werden, da einige Kompetenzbereiche (z.B. Datenanalyse und -visualisierung) nicht explizit erwähnt werden. Es ist möglich, dass die Lehrveranstaltung auch diese Kompetenzen vermittelt, aber dies wird nicht ausdrücklich erwähnt.
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Managing Data, Information and Digital Content
+**Einstufung:** Intermediate
+**Begründung:**
+
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu organisieren, zu speichern und abzurufen (1.3.4). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.3.6).
+
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Evaluating Data, Information and Digital Content
+**Einstufung:** Advanced
+**Begründung:**
+
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu analysieren, zu vergleichen und zu bewerten (1.2.5). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.2.7).
+
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Managing Data, Information and Digital Content
+**Einstufung:** Advanced
+**Begründung:**
+
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu organisieren, zu speichern und abzurufen (1.3.5). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.3.7).
+
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Evaluating Data, Information and Digital Content
+**Einstufung:** Highly Specialised
+**Begründung:**
+
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu analysieren, zu vergleichen und zu bewerten (1.2.7). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.2.8).
+
+**Kompetenzbereich:** Information und Data Literacy
+**Dimension:** Managing Data, Information and Digital Content
+**Einstufung:** Highly Specialised
+**Begründung:**
+
+Die Studierenden können Datenspeicherkonzepte hinsichtlich ihrer Eignung für Projekte vergleichen und auswählen. Dies entspricht der Fähigkeit, Daten, Informationen und digitale Inhalte zu organisieren, zu speichern und abzurufen (1.3.7). Die Studierenden verstehen auch die speziellen Anforderungen an Datenspeicherung, die aus der Verwendung von sehr großen Datenmengen (Big Data) hervorgehen. Dies entspricht der Fähigkeit, komplexe Kontexte zu bewerten und die Eignung verschiedener Lösungen für bestimmte Probleme zu analysieren (1.3.8).
+
+Ich habe die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens eingestuft. Die Studierenden erreichen das Niveau Intermediate in den Dimensionen Evaluating Data, Information and Digital Content und Managing Data, Information and Digital Content. In der Dimension Evaluating Data, Information and Digital Content erreichen sie auch das Niveau Advanced. In der Dimension Managing Data, Information and Digital Content erreichen sie auch das Niveau Advanced.
