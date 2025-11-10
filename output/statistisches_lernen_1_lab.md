@@ -1,21 +1,10 @@
-Um die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einzustufen, müssen wir die Kompetenzen der Studierenden in den einzelnen Dimensionen bewerten.
-
-Hier ist meine Bewertung:
-
-| Kompetenzbereich | Dimension | Einstufung | Begründung |
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Information and Data Literacy | 1.1.1: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik und können einfache statistische Maßzahlen und Testverfahren anwenden. Dies reicht jedoch nicht aus, um komplexe Suchstrategien zu entwickeln oder Daten in digitalen Umgebungen zu analysieren. |
-| Information and Data Literacy | 1.1.2: Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden können einfache Suchstrategien anwenden und Daten in digitalen Umgebungen finden. Dies reicht jedoch nicht aus, um komplexe Suchstrategien zu entwickeln oder Daten in digitalen Umgebungen zu analysieren. |
-| Information and Data Literacy | 1.2.1: Evaluating Data, Information and Digital Content | Foundation | Die Studierenden können die Credibilität und Zuverlässigkeit von Quellen bewerten, aber dies reicht nicht aus, um komplexe Datenanalysen durchzuführen oder die Qualität von Daten zu bewerten. |
-| Information and Data Literacy | 1.2.2: Evaluating Data, Information and Digital Content | Foundation | Die Studierenden können die Credibilität und Zuverlässigkeit von Quellen bewerten, aber dies reicht nicht aus, um komplexe Datenanalysen durchzuführen oder die Qualität von Daten zu bewerten. |
-| Communication and Collaboration | 2.1.1: Interacting through digital Technologies | Foundation | Die Studierenden können einfache digitale Technologien verwenden, um sich zu kommunizieren, aber dies reicht nicht aus, um komplexe Kommunikationsstrategien zu entwickeln oder digitale Umgebungen zu analysieren. |
-| Communication and Collaboration | 2.1.2: Interacting through digital Technologies | Foundation | Die Studierenden können einfache digitale Technologien verwenden, um sich zu kommunizieren, aber dies reicht nicht aus, um komplexe Kommunikationsstrategien zu entwickeln oder digitale Umgebungen zu analysieren. |
-| Digital Content Creation | 3.1.1: Developing digital Content | Foundation | Die Studierenden können einfache Inhalte erstellen und bearbeiten, aber dies reicht nicht aus, um komplexe Inhalte zu erstellen oder digitale Umgebungen zu analysieren. |
-| Digital Content Creation | 3.2.1: Interacting and Re-elaborating digital Content | Foundation | Die Studierenden können einfache Inhalte modifizieren und bearbeiten, aber dies reicht nicht aus, um komplexe Inhalte zu erstellen oder digitale Umgebungen zu analysieren. |
-| Problem Solving | 5.1.1: Solving technical Problems | Foundation | Die Studierenden können einfache technische Probleme lösen, aber dies reicht nicht aus, um komplexe technische Probleme zu lösen oder digitale Umgebungen zu analysieren. |
+| 1.1 | Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS und kennen daher einfache statistische Maßzahlen sowie grundlegende statistische Testverfahren (z.B. t-Test). |
+| 1.2 | Evaluating Data, Information and Digital Content | Foundation | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden und haben daher ein Grundverständnis für die Bewertung von Daten, Informationen und digitalen Inhalten. |
+| 3.4 | Programming | Foundation | Die Lehrveranstaltung befasst sich mit grundlegenden Algorithmen der Data Science, aber es ist nicht klar, ob Programmierkenntnisse vermittelt werden. |
+| 5.1 | Solving technical Problems | Foundation | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden und haben daher ein Grundverständnis für die Lösung technischer Probleme. |
+| 5.2 | Identifying needs and technological Responses | Foundation | Die Studierenden verfügen über Vorwissen im Bereich Mathematik/Statistik im Umfang von 8 ECTS und kennen daher einfache statistische Maßzahlen sowie grundlegende statistische Testverfahren (z.B. t-Test). |
+| 5.3 | Creatively using digital Technology | Foundation | Die Studierenden können die behandelten Algorithmen in isolierten Problemstellungen anwenden, aber es ist nicht klar, ob sie kreativ mit digitalen Technologien umgehen können. |
 
-Die Lehrveranstaltung erreicht in den meisten Dimensionen das Niveau "Foundation", was bedeutet, dass die Studierenden grundlegende Fähigkeiten in diesen Bereichen besitzen, aber noch nicht über komplexe Fähigkeiten verfügen.
-
-Es ist jedoch wichtig zu beachten, dass die Lehrveranstaltung auf Master-Studienniveau angeboten wird und daher eine höhere Kompetenzniveaus erwartet werden. In einigen Dimensionen erreichen die Studierenden bereits das Niveau "Intermediate", was bedeutet, dass sie komplexere Fähigkeiten besitzen.
-
-Insgesamt kann ich sagen, dass die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens als "Foundation" eingestuft werden kann, aber es gibt auch Bereiche, in denen die Studierenden bereits über höhere Kompetenzen verfügen.
+Hinweis: Da die Lehrveranstaltung sich auf grundlegende Algorithmen der Data Science konzentriert und keine Programmierkenntnisse vermittelt, kann ich diese Kompetenzbereiche nicht weiter einstufen.

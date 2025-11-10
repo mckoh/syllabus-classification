@@ -1,48 +1,10 @@
-Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
-
-**Kompetenzbereich: Information und Data Literacy**
-
-* **Dimension: Browsing, Searching and Filtering Data, Information and Digital Content**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Suche nach Informationen oder der Filterung von Daten eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu Suchfunktionen oder der Filterung von Daten gegeben.
-* **Dimension: Evaluating Data, Information and Digital Content**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Bewertung von Quellen oder der Analyse von Daten eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Bewertung von Quellen oder der Analyse von Daten gegeben.
-
-**Kompetenzbereich: Kommunikation und Zusammenarbeit**
-
-* **Dimension: Interacting through digital Technologies**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Interaktion mit anderen über digitale Technologien eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Interaktion mit anderen über digitale Technologien gegeben.
-
-**Kompetenzbereich: Sicherheit**
-
-* **Dimension: Protecting Devices**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Sicherung von Geräten oder der Verhinderung von Cyberangriffen eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Sicherung von Geräten oder der Verhinderung von Cyberangriffen gegeben.
-
-**Kompetenzbereich: Problemlösung**
-
-* **Dimension: Solving technical Problems**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Lösung technischer Probleme eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Lösung technischer Probleme gegeben.
-
-**Kompetenzbereich: Kreatives Arbeiten mit digitaler Technologie**
-
-* **Dimension: Creatively using digital Technology**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur kreativen Verwendung von digitalen Technologien eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der kreativen Verwendung von digitalen Technologien gegeben.
-
-**Kompetenzbereich: Identifizierung von Kompetenzlücken**
-
-* **Dimension: Identifying digital competence Gaps**
-	+ **Einstufung:** Keine Einstufung möglich, da die Lehrveranstaltung nicht explizit auf die Fähigkeit zur Identifizierung von Kompetenzlücken eingehen.
-	+ **Begründung:** Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu der Identifizierung von Kompetenzlücken gegeben.
-
-**Zusammenfassung:**
-
-Die Lehrveranstaltung kann nicht auf der Grundlage des DigiComp 2.2 Rahmens einstufen werden, da sie nicht explizit auf die Fähigkeit zur Suche nach Informationen, der Filterung von Daten, der Bewertung von Quellen, der Interaktion mit anderen über digitale Technologien, der Sicherung von Geräten, der Lösung technischer Probleme oder der kreativen Verwendung von digitalen Technologien eingehen. Die Lehrveranstaltung konzentriert sich auf Big Data und die Verarbeitung großer Datenmengen, aber es wird keine explizite Anleitung zu diesen Fähigkeiten gegeben.
-
-**Empfehlung:**
-
-Die Lehrveranstaltung sollte anhand anderer Kompetenzmodelle oder -rahmen bewertet werden, um ihre Stärken und Schwächen besser zu verstehen.
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 1.1 | Browsing, Searching and Filtering Data, Information and Digital Content | 3.2 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, Daten, Informationen und digitale Inhalte zu filtern und zu analysieren, was in der Dimension 1.1.4 (Independently, according to my own needs, and solving well-defined and non-routine problems, I can illustrate information needs.) erreicht wird. |
+| 2.1 | Interacting through digital Technologies | 3.5 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, digitale Technologien zu nutzen, um interaktiv zu kommunizieren, was in der Dimension 2.1.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt a variety of digital technologies for the most appropriate interaction.) erreicht wird. |
+| 3.1 | Developing digital Content | 4.5 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, digitale Inhalte zu erstellen und zu bearbeiten, was in der Dimension 3.1.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can change content using the most appropriate formats.) erreicht wird. |
+| 4.1 | Protecting Devices | 5.2 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, digitale Geräte zu schützen, was in der Dimension 4.1.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate protection for devices and digital content.) erreicht wird. |
+| 5.1 | Solving technical Problems | 3.2 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, technische Probleme zu lösen, was in der Dimension 5.1.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can appraise technical problems when operating devices or working with digital environments.) erreicht wird. |
+| 5.2 | Identifying needs and technological Responses | 4.5 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, Bedürfnisse zu identifizieren und technologische Antworten zu finden, was in der Dimension 5.2.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate digital tools and possible technological responses to solve those needs.) erreicht wird. |
+| 5.3 | Creatively using digital Technology | 4.5 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, digitale Technologien kreativ zu nutzen, was in der Dimension 5.3.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can resolve individually and collectively conceptual problems and problem situations in digital environments.) erreicht wird. |
+| 5.4 | Identifying digital competence Gaps | 4.5 | Die Studierenden können entsprechende Lösungen selbst mit Blick auf eine konkrete Problemstellung entwickeln und zur Anwendung bringen. Dies erfordert die Fähigkeit, digitale Kompetenzlücken zu identifizieren, was in der Dimension 5.4.6 (At advanced level, according to my own needs and those of others, and in complex contexts, I can decide which are the most appropriate ways to improve or update one’s own digital competence needs.) erreicht wird. |

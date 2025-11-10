@@ -1,15 +1,11 @@
-Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
-
-**Kompetenzbereich (inklusive Kompetenz ID)** | **Dimension** | **Einstufung** | **Begründung**
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Information and Data Literacy (1) | Browsing, Searching and Filtering Data, Information and Digital Content (1.1.3) | Intermediate | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, Daten, Informationen und digitale Inhalte zu finden, zu analysieren und zu bewerten (1.1.3). |
-| Information and Data Literacy (1) | Evaluating Data, Information and Digital Content (1.2.4) | Intermediate | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, Daten, Informationen und digitale Inhalte zu analysieren und zu bewerten (1.2.4). |
-| Information and Data Literacy (1) | Managing Data, Information and Digital Content (1.3.5) | Advanced | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, Daten, Informationen und digitale Inhalte zu organisieren, zu speichern und abzurufen (1.3.5). |
-| Communication and Collaboration (2) | Interacting through digital Technologies (2.1.6) | Advanced | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, digitale Technologien zu nutzen, um mit anderen zu interagieren (2.1.6). |
-| Communication and Collaboration (2) | Sharing through digital Technologies (2.2.5) | Advanced | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, digitale Inhalte zu teilen und zu referenzieren (2.2.5). |
-| Problem Solving (5) | Solving technical Problems (5.1.6) | Advanced | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, technische Probleme zu lösen (5.1.6). |
-| Problem Solving (5) | Identifying needs and technological Responses (5.2.6) | Advanced | Die Studierenden können selbstständig eine Masterarbeit im Bereich Data Science verfassen und ein wissenschaftliches Projekt aufsetzen und durchführen. Dies erfordert die Fähigkeit, Bedürfnisse zu identifizieren und technologische Antworten zu finden (5.2.6). |
+| 1.1 Information und Datenkompetenz | 1.1.1 Suchen, Filtern und Ordnen von Daten, Informationen und digitaler Inhalte | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 1.2 Evaluierung von Daten, Informationen und digitalen Inhalten | 1.2.1 Ermitteln der Glaubwürdigkeit und Zuverlässigkeit von Quellen | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 1.3 Management von Daten, Informationen und digitalen Inhalten | 1.3.1 Organisation, Speicherung und Abruf von Daten, Informationen und Inhalten | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 2 Kommunikation und Zusammenarbeit | 2.1 Interaktion durch digitale Technologien | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 3 Digital Content Creation | 3.1 Entwicklung digitaler Inhalte | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 4 Sicherheit | 4.1 Schutz von Geräten und digitalen Inhalten | - | Keine direkte Beziehung zur Lehrveranstaltung |
+| 5 Problemlösung | 5.1 Lösung technischer Probleme | - | Keine direkte Beziehung zur Lehrveranstaltung |
 
-Die Lehrveranstaltung erreicht in den Dimensionen Information and Data Literacy, Communication and Collaboration, Problem Solving ein Niveau von Intermediate bis Advanced.
-
-Es ist jedoch zu beachten, dass die Lehrveranstaltung nicht alle Kompetenzbereiche abdeckt und daher nicht auf allen Ebenen des DigiComp 2.2 Rahmens bewertet werden kann.
+Die Lehrveranstaltung befasst sich mit der Erstellung einer Masterarbeit im Bereich Data Science und dem Aufbau eines wissenschaftlichen Projekts. Es werden keine spezifischen Kompetenzen in den Bereichen Information und Datenkompetenz, Evaluierung von Daten, Informationen und digitalen Inhalten, Management von Daten, Informationen und digitalen Inhalten, Kommunikation und Zusammenarbeit, Digital Content Creation, Sicherheit oder Problemlösung direkt angesprochen. Daher kann keine direkte Einstufung in diese Bereiche erfolgen.

@@ -1,84 +1,28 @@
-Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 1.1 Information und Datenkompetenz | 1.1.1 Grundlagen | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 1.1 Information und Datenkompetenz | 1.1.2 Grundlagen | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 1.1 Information und Datenkompetenz | 1.1.3 Mittelbar | Die Studierenden können verschiedene Analyseplattformen kennen, aber es ist nicht klar, ob sie diese auch selbstständig verwenden können. |
+| 1.2 Evaluierung von Daten, Informationen und digitaler Inhalte | 1.2.1 Grundlagen | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 1.2 Evaluierung von Daten, Informationen und digitaler Inhalte | 1.2.2 Grundlagen | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 1.3 Management von Daten, Informationen und digitalen Inhalten | 1.3.1 - | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.1 Interaktion durch digitale Technologien | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.2 Teilen durch digitale Technologien | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.3 Engagement für Bürgerrechte durch digitale Technologie | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.4 Zusammenarbeit durch digitale Technologien | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.5 Netiquette | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 2 Kommunikation und Zusammenarbeit | 2.6 Management der digitalen Identität | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 3 Digitale Inhaltsproduktion | 3.1 Entwicklung von digitalen Inhalten | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 3 Digitale Inhaltsproduktion | 3.2 Interaktion und Re-elaboration von digitalen Inhalten | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 3 Digitale Inhaltsproduktion | 3.3 Urheberrecht und Lizenzen | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 3 Digitale Inhaltsproduktion | 3.4 Programmierung | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 4 Sicherheit | 4.1 Schutz von Geräten | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 4 Sicherheit | 4.2 Schutz personenbezogener Daten und Privatsphäre | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 4 Sicherheit | 4.3 Schutz der Gesundheit und des Wohlbefindens | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 4 Sicherheit | 4.4 Umweltschutz | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 5 Problemlösung | 5.1 Lösung technischer Probleme | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 5 Problemlösung | 5.2 Identifizierung von Bedürfnissen und technologischen Antworten | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 5 Problemlösung | 5.3 Kreatives Verwenden digitaler Technologien | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
+| 5 Problemlösung | 5.4 Identifizierung von Lücken in der digitalen Kompetenz | - | Keine direkte Bezugnahme auf die Lehrveranstaltungsinhalte |
 
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Browsing, Searching and Filtering Data, Information and Digital Content (1.1)
-**Einstufung:** Intermediate (1.1.3)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können. Die Studierenden haben auch erste Anwendungserfahrung mit den vorgestellten Plattformen gesammelt.
-
-Diese Fähigkeiten entsprechen der Kompetenzstufe 1.1.3, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe Daten, Informationen und digitale Inhalte in digitalen Umgebungen finden und navigieren können.
-
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Evaluating Data, Information and Digital Content (1.2)
-**Einstufung:** Intermediate (1.2.3)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden die kennengelernten Analyseplattformen hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 1.2.3, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe Daten, Informationen und digitale Inhalte analysieren, interpretieren und bewerten können.
-
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Managing Data, Information and Digital Content (1.3)
-**Einstufung:** Intermediate (1.3.4)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden erste Anwendungserfahrung mit den vorgestellten Plattformen gesammelt haben.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 1.3.4, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe Daten, Informationen und digitale Inhalte organisieren können.
-
-**Kompetenzbereich:** Communication and Collaboration
-**Dimension:** Interacting through digital Technologies (2.1)
-**Einstufung:** Intermediate (2.1.4)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 2.1.4, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe digitaltechnische Werkzeuge zur Interaktion verwenden können.
-
-**Kompetenzbereich:** Communication and Collaboration
-**Dimension:** Sharing through digital Technologies (2.2)
-**Einstufung:** Intermediate (2.2.3)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden erste Anwendungserfahrung mit den vorgestellten Plattformen gesammelt haben.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 2.2.3, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe digitale Inhalte teilen können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Solving technical Problems (5.1)
-**Einstufung:** Intermediate (5.1.4)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 5.1.4, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe technische Probleme lösen können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Identifying needs and technological Responses (5.2)
-**Einstufung:** Intermediate (5.2.3)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 5.2.3, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe Bedürfnisse identifizieren und technologische Antworten finden können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Creatively using digital Technology (5.3)
-**Einstufung:** Intermediate (5.3.4)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 5.3.4, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe digitale Werkzeuge kreativ verwenden können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Identifying digital competence Gaps (5.4)
-**Einstufung:** Intermediate (5.4.3)
-**Begründung:**
-
-Die Lehrveranstaltung beschreibt, dass die Studierenden unterschiedliche, anwendungsorientierte Analyseplattformen kennen lernen und diese hinsichtlich ihrer Eignung für einen bestimmten Anwendungsfall vergleichen können.
-
-Diese Fähigkeit entspricht der Kompetenzstufe 5.4.3, bei der die Studierenden auf eigene Initiative und ohne externe Hilfe digitale Kompetenzen identifizieren können.
-
-Ich hoffe, diese Bewertung hilft!
+Die Lehrveranstaltung erreicht keine direkten Beziehungen zu den meisten Kompetenzbereichen und Dimensionen des DigiComp 2.2 Rahmens. Es ist jedoch möglich, dass einige Aspekte der Lehrveranstaltung in anderen Bereichen oder Dimensionen relevant sein könnten, wenn man die Inhalte genauer analysiert.

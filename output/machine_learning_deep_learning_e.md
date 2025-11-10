@@ -1,38 +1,10 @@
-Ich werde die Lehrveranstaltung auf Basis des DigiComp 2.2 Rahmens einstufen.
-
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Browsing, Searching and Filtering Data, Information and Digital Content
-**Einstufung:** Intermediate (1.1.3)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie Machine Learning unterstützende Werkzeuge finden und verwenden können. Sie können auch die Eignung dieser Werkzeuge für konkrete Problemstellungen vergleichen.
-
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Evaluating Data, Information and Digital Content
-**Einstufung:** Intermediate (1.2.3)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Eignung von Machine Learning unterstützenden Werkzeugen für konkrete Problemstellungen bewerten können.
-
-**Kompetenzbereich:** Information und Data Literacy
-**Dimension:** Managing Data, Information and Digital Content
-**Einstufung:** Intermediate (1.3.4)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Organisation von Machine Learning unterstützenden Werkzeugen und Daten in digitalen Umgebungen durchführen können.
-
-**Kompetenzbereich:** Communication and Collaboration
-**Dimension:** Interacting through digital Technologies
-**Einstufung:** Intermediate (2.1.4)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie verschiedene digitalen Technologien zur Interaktion verwenden können.
-
-**Kompetenzbereich:** Communication and Collaboration
-**Dimension:** Sharing through digital Technologies
-**Einstufung:** Intermediate (2.2.4)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie Daten, Informationen und digitale Inhalte über verschiedene digitalen Technologien teilen können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Solving technical Problems
-**Einstufung:** Intermediate (5.1.4)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie technische Probleme bei der Verwendung von Machine Learning unterstützenden Werkzeugen lösen können.
-
-**Kompetenzbereich:** Problem Solving
-**Dimension:** Identifying needs and technological Responses
-**Einstufung:** Intermediate (5.2.4)
-**Begründung:** Die Studierenden können aufgrund der vorgelegten Inhalte und des Lehrplans erkennen, wie sie die Bedürfnisse von Machine Learning unterstützenden Werkzeugen identifizieren und entsprechende technologische Antworten finden können.
-
-Ich hoffe, diese Einstufungen helfen dir weiter!
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 3.4, Programming | 3.4.1 | Foundation | Die Studierenden können einfache Anweisungen für ein Rechnersystem aufschreiben, um eine einfache Aufgabe zu lösen oder einen einfachen Vorgang durchzuführen. Dies entspricht der Definition von "At basic level and with guidance, I can list simple instructions for a computing system to solve a simple problem or perform a simple task." |
+| 3.4, Programming | 3.4.2 | Foundation | Die Studierenden können einfache Anweisungen für ein Rechnersystem aufschreiben, um eine einfache Aufgabe zu lösen oder einen einfachen Vorgang durchzuführen. Dies entspricht der Definition von "At basic level and with autonomy and appropriate guidance where needed, I can list simple instructions for a computing system to solve a simple problem or perform a simple task." |
+| 3.4, Programming | 3.4.3 | Intermediate | Die Studierenden können Anweisungen für ein Rechnersystem aufschreiben, um eine Routineaufgabe zu lösen oder einen routinemäßigen Vorgang durchzuführen. Dies entspricht der Definition von "On my own and solving straightforward problems, I can list well-defined and routine instructions for a computing system to solve routine problems or perform routine tasks." |
+| 3.4, Programming | 3.4.4 | Intermediate | Die Studierenden können Anweisungen für ein Rechnersystem aufschreiben, um eine bestimmte Aufgabe zu lösen oder einen bestimmten Vorgang durchzuführen. Dies entspricht der Definition von "Independently, according to my own needs, and solving well-defined and non-routine problems, I can list instructions for a computing system to solve a given problem or perform a specific task." |
+| 3.4, Programming | 3.4.5 | Advanced | Die Studierenden können Anweisungen für ein Rechnersystem aufschreiben, um verschiedene Aufgaben zu lösen oder verschiedene Vorgänge durchzuführen. Dies entspricht der Definition von "As well as guiding others, I can operate with instructions for a computing system to solve a different problem or perform different tasks." |
+| 3.4, Programming | 3.4.6 | Advanced | Die Studierenden können die geeigneten Anweisungen für ein Rechnersystem aufschreiben, um eine bestimmte Aufgabe zu lösen oder einen bestimmten Vorgang durchzuführen. Dies entspricht der Definition von "At advanced level, according to my own needs and those of others, and in complex contexts, I can determine the most appropriate instructions for a computing system to solve a given problem and perform specific tasks." |
+| 3.4, Programming | 3.4.7 | Highly Specialised | Die Studierenden können Lösungen für komplexe Probleme mit begrenzter Definition erstellen, die mit der Programmierung zusammenhängen. Dies entspricht der Definition von "At highly specialised level, I can create solutions to complex problems with limited definition that are related to planning and developing instructions for a computing system and performing a task using a computing system." |
+| 3.4, Programming | 3.4.8 | Highly Specialised | Die Studierenden können Lösungen für komplexe Probleme mit vielen interagierenden Faktoren erstellen, die mit der Programmierung zusammenhängen. Dies entspricht der Definition von "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to planning and developing instructions for a computing system and performing a task using a computing system." |

@@ -1,15 +1,10 @@
-Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
-
 | Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
 | --- | --- | --- | --- |
-| Information and Data Literacy (1) | Browsing, Searching and Filtering Data, Information and Digital Content (1.1.3) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen erklären, wie sie ihre Informationsbedürfnisse identifizieren und wie sie Daten, Informationen und digitale Inhalte in digitalen Umgebungen finden und navigieren. |
-| Information and Data Literacy (1) | Evaluating Data, Information and Digital Content (1.2.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen Daten, Informationen und digitale Inhalte analysieren, vergleichen und bewerten. |
-| Information and Data Literacy (1) | Managing Data, Information and Digital Content (1.3.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen Daten, Informationen und digitale Inhalte organisieren, speichern und abrufen. |
-| Communication and Collaboration (2) | Interacting through digital Technologies (2.1.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen eine Vielzahl von digitalen Technologien zur Interaktion verwenden. |
-| Communication and Collaboration (2) | Sharing through digital Technologies (2.2.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen Daten, Informationen und digitale Inhalte teilen und sich als Vermittler für die Information und den Inhalt durch digitale Technologien verwenden. |
-| Digital Content Creation (3) | Developing digital Content (3.1.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen Inhalte in verschiedenen Formaten erstellen und bearbeiten. |
-| Problem Solving (5) | Identifying needs and technological Responses (5.2.4) | Intermediate | Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen Bedürfnisse identifizieren und technologische Antworten finden, um diese zu lösen. |
+| 1.1 | Browsing, Searching and Filtering Data, Information and Digital Content | Foundation | Die Studierenden kennen grundlegende Einsatzbereiche von Datenerhebung, Datenspeicherung, Datenanalyse und Datennutzung im Kontext von naturwissenschaftlichen und technischen Anwendungen. |
+| 1.2 | Evaluating Data, Information and Digital Content | Intermediate | Die Studierenden verstehen die besonderen Herausforderungen dieses Einsatzbereichs und kennen etablierte Best Practice Methoden in diesem Bereich. |
+| 3.1 | Developing digital Content | Advanced | Die Studierenden sind über dies in der Lage datenbasierte Anwendungen in diesem Bereich, unter Berücksichtigung Domänenspezifischer Anforderungen, selbst zu gestalten und umzusetzen. |
+| 2.1 | Interacting through digital Technologies | Intermediate | Die Lehrveranstaltung verwendet verschiedene digitale Technologien wie Vorträge mit Diskussion, interaktive Workshops und Fallstudien. |
+| 4.1 | Protecting Devices | Advanced | Die Studierenden lernen, wie sie ihre Geräte und digitale Inhalte schützen können. |
+| 5.1 | Solving technical Problems | Intermediate | Die Studierenden lernen, wie sie technische Probleme lösen können. |
 
-Die Lehrveranstaltung erreicht in den einzelnen Dimensionen des Rahmens das Niveau "Intermediate". Die Studierenden können auf eigene Initiative und bei der Lösung von nicht-routinemäßigen Problemen verschiedene Fähigkeiten und Kenntnisse anwenden, um Daten, Informationen und digitale Inhalte zu finden, zu analysieren, zu bewerten und zu teilen. Sie können auch Inhalte in verschiedenen Formaten erstellen und bearbeiten und Bedürfnisse identifizieren und technologische Antworten finden, um diese zu lösen.
-
-Es ist jedoch zu beachten, dass die Lehrveranstaltung nicht alle Dimensionen des Rahmens abdeckt und daher nicht das höchste Niveau erreicht.
+Hinweis: Die Einstufung basiert auf der Annahme, dass die einzelnen Kompetenzstufen aufeinander aufbauen und die unteren Stufen ein Erfüllungskriterium für das Erreichen der oberen Stufen sind.

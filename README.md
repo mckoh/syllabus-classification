@@ -62,8 +62,8 @@ Um Syllabi im großen Stil zu klassifizieren muss demnach auf eine leistungsfäh
 
 Kontext size | Runtime per LV | Runtime für DSIA
 -- | -- | --
-4.000 | ~0.25 min | 11 min
-20.000 | ~1 min | 180 min
+4.000 | ~0.25 min | 8 min
+20.000 | ~1 min | 15 min
 80.000 | ~60+ min | zu lange
 
 ## 💡 Lösung RAG

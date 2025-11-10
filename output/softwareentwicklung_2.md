@@ -1,36 +1,12 @@
-Ich werde die Lehrveranstaltung auf der Grundlage des DigiComp 2.2 Rahmens bewerten.
+| Kompetenzbereich (inklusive Kompetenz ID) | Dimension | Einstufung | Begründung |
+| --- | --- | --- | --- |
+| 3.4, Programming | 3.4.1 | Foundation | Die Studierenden können einfache Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.2 | Foundation | Die Studierenden können einfache Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.3 | Intermediate | Die Studierenden können well-definierte und routinemäßige Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.4 | Intermediate | Die Studierenden können well-definierte und routinemäßige Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.5 | Advanced | Die Studierenden können verschiedene Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.6 | Advanced | Die Studierenden können verschiedene Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.7 | Highly Specialised | Die Studierenden können komplexe Probleme mit begrenzter Definition lösen, indem sie verschiedene Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
+| 3.4, Programming | 3.4.8 | Highly Specialised | Die Studierenden können komplexe Probleme mit vielen interagierenden Faktoren lösen, indem sie verschiedene Programmierkonzepte wie Variablen, Verzweigungen und Schleifen anwenden. |
 
-**Kompetenzbereich: Softwareentwicklung**
-
-* **Dimension:** Software-Entwurf und -Implementierung
-	+ **Einstufung:** Advanced
-	+ **Begründung:** Die Lehrveranstaltung erarbeitet weiterführende Konzepte der Softwareentwicklung, wie Pipelines, Testen usw., und die Studierenden können konzipierte Applikationen selbstständig implementieren. Dies entspricht dem Level "Advanced" im DigiComp 2.2 Raster.
-* **Dimension:** Programmierung
-	+ **Einstufung:** Advanced
-	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Programmierkonzepte verfügen und in der Lage sind, einfache SQL-Abfragen zu lesen. Dies entspricht dem Level "Advanced" im DigiComp 2.2 Raster.
-* **Dimension:** Software-Qualitätssicherung
-	+ **Einstufung:** Intermediate
-	+ **Begründung:** Die Lehrveranstaltung erarbeitet Konzepte der Testen von Softwareapplikationen, wie Unit Tests und Integration Tests. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
-
-**Kompetenzbereich: Datenanalyse**
-
-* **Dimension:** Datenmodellierung
-	+ **Einstufung:** Intermediate
-	+ **Begründung:** Die Lehrveranstaltung erarbeitet Architekturmodelle für datengetriebene Softwareentwicklung und -systeme. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
-* **Dimension:** Datenanalyse
-	+ **Einstufung:** Intermediate
-	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Kenntnisse in der Datenanalyse verfügen und in der Lage sind, einfache SQL-Abfragen zu lesen. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
-
-**Kompetenzbereich: Kommunikation und Zusammenarbeit**
-
-* **Dimension:** Interaktion durch digitale Technologien
-	+ **Einstufung:** Intermediate
-	+ **Begründung:** Die Lehrveranstaltung erwartet, dass die Studierenden bereits über grundlegende Kenntnisse in der Kommunikation durch digitale Technologien verfügen und in der Lage sind, einfache digitalen Tools zu verwenden. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
-
-**Kompetenzbereich: Sicherheit**
-
-* **Dimension:** Schutz von Geräten
-	+ **Einstufung:** Intermediate
-	+ **Begründung:** Die Lehrveranstaltung erarbeitet Konzepte zum Schutz von Geräten und digitalen Inhalten. Dies entspricht dem Level "Intermediate" im DigiComp 2.2 Raster.
-
-Insgesamt entspricht die Lehrveranstaltung den Kompetenzniveaus "Advanced" in den Bereichen Softwareentwicklung, Programmierung und Datenanalyse sowie "Intermediate" in den Bereichen Kommunikation und Zusammenarbeit und Sicherheit.
+Hinweis: Da die Lehrveranstaltung keine Informationen über die Kompetenzbereiche 1 (Information and Data Literacy), 2 (Communication and Collaboration) und 4 (Safety) enthält, können diese nicht bewertet werden.
