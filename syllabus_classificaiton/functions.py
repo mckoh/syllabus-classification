@@ -79,7 +79,7 @@ def transform_curriculum(json_curriculum:dict, verbose:int=1) -> str:
     return output
 
 
-def classify_curriculum(txt_curriculum:str, verbose:int=1) -> str:
+def classify_curriculum(txt_curriculum:str, verbose:int=1, framework=None) -> str:
     """Classifies a curriculum according to DigiComp2.2.
     :param txt_curriculum: Curriculum data as string
     :type txt_curriculum: str
@@ -91,7 +91,12 @@ def classify_curriculum(txt_curriculum:str, verbose:int=1) -> str:
 
     start = dt.now()
 
-    txt_framework = get_framework()
+    if framework is not None:
+        print("Use this framework:", framework)
+        txt_framework = framework
+    else:
+        print("Using default framework.")
+        txt_framework = get_framework()
 
     content = prompt.replace("**lvbeschreibung**", txt_curriculum)
     content = content.replace("**digicompraster**", txt_framework)
