@@ -3,3 +3,7 @@ pandas
 jupyter
 ipython
 ollama
+openpyxl
+langchain_community
+langchain_ollama
+scikit-learn
