@@ -2,7 +2,7 @@ FROM llama3.1:8b
 
 # set the temperature to 1 [higher is more creative, lower is more coherent]
 PARAMETER temperature 0
-PARAMETER num_ctx 20000
+PARAMETER num_ctx 10000
 
 # set the system message
 SYSTEM """
