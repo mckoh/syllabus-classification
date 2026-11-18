@@ -1,0 +1,15 @@
+Lehrziele
+
+Studierende können mathematische Modelle für komplexe, dynamische Systeme entwickeln und diese effektiv mittels numerischer Simulationstechniken lösen. Sie verstehen die wesentlichen numerischen Methoden, die speziell für Simulationen in verschiedenen Anwendungsgebieten des Software Engineerings notwendig sind. Sie sind in der Lage, numerische Algorithmen zu implementieren, die zur Lösung von Simulationsmodellen erforderlich sind. Studierende können die Genauigkeit und Stabilität von Simulationen analysieren und verbessern. Sie kennen die Bedeutung von Diskretisierungstechniken für die numerische Lösung von kontinuierlichen Modellen in der Simulation und sind in der Lage Ergebnisse von numerischen Simulationen kritisch zu interpretieren und kennen die Grenzen der angewandten Modelle.
+
+Lehrinhalt
+
+• Mathematische Modellierung dynamischer Systeme
+• Numerische Methoden für Differentialgleichungen
+• Methoden zur Umwandlung kontinuierlicher Modelle in diskrete Probleme
+• Stabilität und Konvergenz in der Simulation
+• Quantifizierung und Minimierung von Fehlern in numerischen Simulationen
+• Monte-Carlo-Simulationen:
+• Softwaretools für Simulationen
+• Interpretation und Visualisierung von Simulationsergebnissen
+• Effizienz und Sustainability in Simulationen

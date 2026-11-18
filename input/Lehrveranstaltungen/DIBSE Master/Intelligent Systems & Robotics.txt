@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden bekommen ein grundlegendes Verständnis der mathematischen und physikalischen Grundlagen der Robotik und erwerben tiefgehende Kenntnisse der wichtigsten Entwurfsmuster und Software-Architekturen für Robotik-Systeme. Sie verstehen grundsätzlich wie intelligente Komponenten wie Computer Vision, Navigation und Lokalisation funktionieren und können diese in ein größeres Gesamtsystem unter Zuhilfenahme von gängiger Middleware und Betriebsysteme einbetten. Sie kennen gängige Kommunikationsarten in Robotiksystemen und sind in der Lage eigenständig Kommunikationsmuster zu analysieren und selber zu entwerfen. Des Weiteren sind sie in der Lage selbständig kleinere Softwareprojekte im Bereich Robotik erfolgreich zu designen, planen und implementieren.
+
+Lehrinhalt
+
+• Mathematische und physikalische Grundlagen der Robotik
+• Entwurfsmuster und Software-Architekturen in der Robotik
+• Grundlagen von intelligenten Systemen
+• Computer Vision
+• Navigation und Lokalisierung
+• Kommunikationsarten und -muster
+• Middleware und Betriebssysteme in der Robotik
+• Sicherheitskonzepte
+• Sustainable Robotics

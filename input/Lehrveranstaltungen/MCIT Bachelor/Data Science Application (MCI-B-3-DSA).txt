@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden können Ihr Wissen aus dem Bereich Data Science, Data Engineering und Softwareentwicklung in einem anwendungsorientierten Projekt zur Anwendung bringen. Sie können ein solches Projekt aufsetzen, durchführen und durch geeignete Managementinterventionen begleiten. Die Studierenden kennen geeignete Vorgehensmodelle um derartige Projekte zu strukturieren.
+
+Lehrinhalt
+
+Die Studierenden bearbeiten in dieser Lehrveranstaltung ein datenzentriertes Projekt entlang der gesamten Datenwertschöpfungskette (von der Erhebung der Daten über deren Integration und Speicherung bis zur Analyse und Nutzbarmachung der Daten). Dabei orientieren sich die Studierenden an einem geeigneten Vorgehensmodell (z. B. CRISP-ML-Q):
+• Erarbeiten des Business-Hintergrunds von Analyseprojekten
+• Erarbeitung eines Verständnisses für die Analysedaten
+• Anwendung von Datenverarbeitungspipelines
+• Unterscheidung von Machine Learning Algorithmen
+• Anwendung von Analysealgorithmen zur Modellbildung
+• Algorithmen des Unsupervised Learning (Clustering, Dimensionsreduktion)
+• Algorithmen des Supervised Learning (Klassifikation, Regression)
+• Evaluierung von Modellen
+• Deployment von Modellen

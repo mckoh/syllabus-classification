@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden kennen die wichtigsten Basistechnologien für Smart Systems und kennen die spezifischen Anforderungen in der Kommunikation. Sie kennen die häufigsten Anwendungen von Smart Technologies und haben einen Überblick über aktuelle Trends und Neuerungen auf diesem Gebiet. Die Studierenden können Probleme auch in neuen oder erst im Entstehen begriffenen Bereichen ihrer Disziplin identifizieren, strukturieren und kritisch zu analysieren. Sie können aktuelle Entwicklungen diskutieren und deren potentielle Bedeutung beurteilen. Sie können aktuelle wissenschaftliche Methoden bei der Untersuchung neuer Trends und Entwicklungen anwenden
+
+Lehrinhalt
+
+• Aufzeigen der Breite und Tiefe von Management, Communication und IT in Wissenschaft und Praxis anhand ausgewählter, aktueller Themen, wie beispielsweise Quantencomputing oder Blockchaintechnologien
+• Betrachten von aufstrebenden Technologien aus verschiedenen Perspektiven
+• Methoden, um Trends zu identifizieren und deren Auswirkungen abzuschätzen
+• Grundlegende Konzepte von Smart Systems bzw. Cyber-Physischen-Systemen
+• Basistechnologien für Smart Systems
+• Anforderungen an die Kommunikation im Kontext von Cyber-Physischen Systemen bzw. Internet of Things
+• Kritische Reflexion aktueller Entwicklungen aus den Studienfeldern

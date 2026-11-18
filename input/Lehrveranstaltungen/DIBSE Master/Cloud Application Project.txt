@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden designen, planen und implementieren ein technisch anspruchsvolles verteiltes IT-System auf einer Cloud-Infrastruktur im Rahmen eines größeren Projekts. Im Zuge der Konzeption und Realisation sind sie in der Lage, weitreichende Inhalte und Methoden der im Laufe des Studiums erlernten Kenntnisse und Fähigkeiten praktisch und kontextbezogen anzuwenden und zu verknüpfen. Diesbezüglich sind sie auch in der Lage, passende Methoden, Best Practices und Werkzeuge des Softwareentwicklung projektspezifisch zu beurteilen, auszuwählen, anzuwenden und zu optimieren. Die Studierenden erlangen praktische Erfahrung an der Schnittstelle zur Betriebswirtschaft, in dem sie Projektleitungs- und Projektmitarbeitsaufgaben wahrnehmen, insbesondere unter Anwendung von Agilen Softwareentwicklungsmethoden. Die Studierenden erweitern und festigen durch die team-orientierte Projektausarbeitung ihre sozialen und kommunikativen Kompetenzen und beweisen Teamfähigkeit und Kooperationsvermögen. Des Weiteren können sie Resultate zielgruppengerecht präsentierten.
+
+Lehrinhalt
+
+• Identifikation und Auswahl praktisch relevanter, passender Softwareprojekte
+• Bildung von Studierenden-Projektteams, Zuweisung von Teamrollen
+• Bearbeitung der Aufgabenstellung und sukzessive Umsetzung in den Projektteams unter Anleitung und Begleitung durch den Lehrkörper
+• Implementierung eines größeren verteilten Systems unter Anwendung der in vorherigen Lehrveranstaltungen erworbenen Kenntnisse und Fähigkeiten
+• Teaminterne Ausdifferenzierung der Einzelaufgaben und individuelle Bearbeitung unter laufender teaminterner Steuerung durch den Einsatz von agilen Projektentwicklungsmethoden
+• Kommunikation des Projektfortschritts und Reflektion von Zwischenergebnissen (Meilensteinen) in der Gesamtgruppe
+• Laufende Dokumentation des Projektfortschritts
+• Zeitgerechter Projektabschluss und Präsentation der Projektergebnisse gegenüber dem Projektauftraggeber
+• Reflektion und Diskussion des Softwareentwicklungsprozesses, gesammelter Erkenntnisse sowie der praktisch verwertbaren Lösungen.

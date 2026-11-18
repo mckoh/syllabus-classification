@@ -1,0 +1,7 @@
+Lehrziele
+
+Die Studierenden kennen die Funktionsweise grundlegender Algorithmen im Bereich Data Science. Sie verstehen die statistischen Konzepte und Arbeitsweisen hinter den behandelten Algorithmen und sind in der Lage für gegebene Problemstellungen geeignete Algorithmen zu selektieren. Die Studierenden kennen ferner die von den behandelten Algorithmen benötigten Datenstrukturen, Laufzeitspezifika und Komplexitätsklassen und können diese Algorithmen in isolierten Problemstellungen anwenden.
+
+Lehrinhalt
+
+Im Lab werden die Inhalte der VO "Data Science" mit Hilfe von praktischen Übungen vertieft. Die dabei gewonnenen Erkenntnisse werden in der Gruppe diskutiert und erlauben so einen tiefen Einblick in die Materie und eine Festigung des Wissens, das in der VO theoretisch vermittelt wurde.

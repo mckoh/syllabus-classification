@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen die unterschiedlichen Ansätze der Softwareentwicklung (Prozedural, funktional, objekt-orientiert), gängige Kontrollstrukturen (z. B. while, for, if), Datentypen, sowie andere relevante Elemente (z. B. Variablen, Listen, Tupel) der Softwareentwicklung. Die Studierenden können selbst einfache Programmstrukturen entwerfen und in einer Programmiersprache umsetzen. Die Studierenden kennen grundlegende Bibliotheken und können diese bei der Konzeption und Umsetzung von Programmen einsetzen.
+
+Lehrinhalt
+
+• Kontrollstrukturen, Datentypen, Sprachelemente
+• Prozedurale Programmierung
+• Objekt-orientierte Programmierung
+• Nutzung von Bibliotheken
+• Typische Arbeitsschritte beim Entwurf und der Umsetzung von Software
+• Werkzeuge der Softwareentwicklung

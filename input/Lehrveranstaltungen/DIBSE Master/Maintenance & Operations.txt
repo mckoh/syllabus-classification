@@ -1,0 +1,19 @@
+Lehrziele
+
+Die Studierenden kennen die Herausforderungen, Vorgehensweisen und Best Practices des produktiven Betriebs von Software und damit zusammenhängende Fragen der Wartung von Software. Sie sind Vertraut mit den Konzepten und Phasen des DevOps-Ansatzes. Sie sind in der Lage, die Rolle der Überwachung und Protokollierung bei der Aufrechterhaltung der Systemzuverlässigkeit wiederzugeben. Studierende können eine für ein spezifisches Projekt angepasste CI/CD-Pipeline designen, implementieren und betreiben. Außerdem kennen Sie verschiedene Bereitstellungsstrategien (z. B. blue-green deployment, canary releases) und deren Vor- und Nachteile und können die Auswirkungen automatisierter Tests auf die Softwarequalität und die Bereitstellungsgeschwindigkeit beurteilen.
+
+Lehrinhalt
+
+• Einführung in die DevOps-Prinzipien und -Kultur
+• Versionskontrolle und Dokumentation
+• Kontinuierliche Integration (CI)
+• Kontinuierliche Lieferung und kontinuierliche Bereitstellung (CD)
+• Integrationsstrategien und Fallback
+• Überwachung und Protokollierung
+• Sicherheit in DevOps (DevSecOps)
+• Agile Methoden Integration
+• Sicherstellung von Code-Qualität
+• Integrationsstrategien und Fallback (inkl. Automatisiertes Testen)
+• DevOps-Implementierungsfälle
+• Sustainability und Green IT
+• Unterstützung durch KI-Tools

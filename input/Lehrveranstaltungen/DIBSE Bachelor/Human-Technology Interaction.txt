@@ -1,0 +1,11 @@
+Lehrziele
+
+Die Studierenden kennen die Grundlagen der Mensch-Technologie Interaktion (HTI) sowie die Konzepte Usability und User Experience. Sie verstehen die Bedeutung von Usability und User Experience in der Produktentwicklung. Des Weiteren sind sie mit verschiedenen Werkzeugen und Techniken vertraut, die zum Entwurf von technologischen Produkten dienen, und können diese für die Prototypisierung von (multi-modalen) Benutzer Schnittstellen anwenden. Die Studierenden kennen außerdem die wesentlichen Instrumente zur Messung von Usability und können die entsprechenden Tools auswählen, anwenden, sowie die zentralen Ergebnisse auswerten und berichten, und damit in die iterative Produktentwicklung einfließen lassen.
+
+Lehrinhalt
+
+• Grundlegende Betrachtung der Human-Technologie Interaktion und dessen Wurzeln in der kognitiven Psychologie und Ergonomie
+• Abgrenzung der Konzepte User-centered Design, Usability und User Experience
+• HTI Entwurfs Werkzeuge und Techniken
+• Prototypisierung (Multi-modaler) Benutzer Schnittstellen
+• Usability Evaluations Methoden und Kennzahlen und deren Berichtlegung

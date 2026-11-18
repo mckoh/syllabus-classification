@@ -10,21 +10,21 @@ from json import loads
 from ollama import chat
 from datetime import datetime as dt
 from requests import get
+from transformers import AutoTokenizer
 from .prompt import prompt
 
 
-def get_framework() -> str:
+def get_framework(reference="digicomp3-0") -> str:
     """Retrieves DigiComp 2.2 data from the web.
     :return: DigiComp framework as json
     :rtype: str
     """
-    url = "https://raw.githubusercontent.com/mckoh/digicomp2-2/refs/heads/main/competences.json"
+    url = f"https://raw.githubusercontent.com/mckoh/{reference}/refs/heads/main/digital_compenteces.json"
     json = get(url).content.decode("utf-8")
     json = json.replace("\n ", "").replace("\t ", "")
     json = json.replace("\n", "").replace("\t", "")
     json = json.strip()
-    for _ in range(10):
-        json = json.replace("  ", " ")
+    json = " ".join(json.split())
     return json
 
 
@@ -136,3 +136,19 @@ def save_classification(output_path:str, txt_classification:str, verbose:int=1) 
         print(f"Saving classification to {output_path}.")
         debug_print(start)
     return True
+
+
+def check_tocken_requirements(text: str) -> int:
+    """Returns the number of tokens required to process a text.
+
+    :param text: The text to be tokenized
+    :type text: str
+    :return: The number of tokens required
+    :rtype: int
+    """
+    model_id = "NousResearch/Meta-Llama-3.1-8B"
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    tokens = tokenizer.encode(text)
+    n_tokens = len(tokens)
+
+    return n_tokens

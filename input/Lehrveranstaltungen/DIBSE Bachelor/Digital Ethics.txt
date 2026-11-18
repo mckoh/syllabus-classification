@@ -1,0 +1,13 @@
+Lehrziele
+
+Deutsch: Die Studierenden können ethische Problemstellungen in einem vielschichtigen globalen und technologischen Umfeld erkennen, analysieren und aus verschiedenen Perspektiven beurteilen. Sie lernen zentrale ethische Kategorien und Konzepte aus unterschiedlichen zeitgeschichtlichen und gesellschaftlichen Kontexten. Sie sind in der Lage, kulturelle Dimensionen unterschiedlicher Werte und Normenvorstellungen insbesondere bezüglich Technologieproliferation und –adoption zu reflektieren und in englischer Sprache kritisch zu diskutieren. Die Studierenden verstehen Konzepte wichtiger ethischer Entscheidungsmodelle und messen eigenes moralisches Handeln an diesen.
+
+Lehrinhalt
+
+• Values, norms and culture
+• Ethics theories and History
+• Concepts of Technology Ethics
+• Modernist and post-modernist perspective
+• Ethics of algorithms and data
+• Ethics of practices in IT
+• Data and AI Ethics Frameworks

@@ -1,0 +1,18 @@
+Lehrziele
+
+Die Studierenden haben ein tiefgehendes technisches Verständnis generativer Künstlicher Intelligenz (KI). Sie besitzen Fähigkeiten zur Implementierung, Anpassung und Optimierung generativer Modelle wie GANs, VAEs und Transformer. Die Studierenden können diese Modelle zur Generierung von Texten, Bildern und anderen Inhalten in produktionsreifen Softwarelösungen einsetzen. Zudem erwerben sie die Kompetenz, Performance-Optimierungen vorzunehmen und die Skalierbarkeit der Modelle in realen Anwendungen zu sichern. Neben dem technischen Wissen werden auch die ethischen und gesellschaftlichen Auswirkungen generativer KI kritisch reflektiert.
+
+Lehrinhalt
+
+• Architektur und Implementierung generativer KI-Modelle (GANs, VAEs, Transformer)
+• Programmierung und Optimierung von Deep-Learning-Modellen
+• Hyperparameter-Tuning und Modelloptimierung in Produktionsumgebungen
+• Skalierbarkeit und Performance-Optimierung generativer Modelle in Software-Systemen
+• Textgenerierung und Verarbeitung natürlicher Sprache (NLP) mit Transformer-Modellen
+• Bild-, Video- und Audioerzeugung durch generative KI
+• API-Integration und Bereitstellung generativer KI-Lösungen
+• Einsatz von Cloud-Plattformen und Kubernetes für Training und Deployment von Modellen
+• Sicherstellung von Datenschutz und ethische Implikationen in generativen KI-Anwendungen
+• Testing, Validierung und Qualitätssicherung generativer Systeme
+• Prompt-Engineering
+• Retrieval-augmented generation (RAG)

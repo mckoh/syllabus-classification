@@ -1,0 +1,11 @@
+Lehrziele
+
+Studierende erhalten ein umfassendes Verständnis dafür, wie Informationsbestände effektiv verwaltet werden. Sie können unternehmensinternes Wissen speichern und verarbeiten, um Entscheidungsprozesse zu unterstützen. Die Studierende kennen die Notwendigkeit eines einheitlichen Content-Management-Systems (CMS). Sie sind sich der ethischen Fragestellungen in Bezug auf Informationsverarbeitung bewusst und wissen wie diese angewandt werden können.
+
+Lehrinhalt
+
+• Einführung in das Konzept des Information Lifecycle Managements (ILM), das die strukturierte Verwaltung von Informationen von der Erstellung bis zur Entsorgung umfasst (Datenklassifizierung, Aufbewahrungsrichtlinien, Archivierung und Entsorgungsstrategien)
+• Erfassung, Organisation und Weitergabe von Unternehmenswissen, um die Entscheidungsfindung und Innovation zu verbessern anhand von Wissensmanagementsystemen
+• Die Rolle von Content-Management-Systeme (CMS) bei der Verwaltung digitaler Inhalte im gesamten Unternehmen (Dokumentenmanagement, Versionskontrolle, Workflow-Automatisierung und Tools für vereinfachtes Auffinden
+• Bedeutung von Metadaten für die Organisation und Beschreibung von Informationsbeständen.
+• Ethische und rechtliche Überlegungen im Zusammenhang mit der Verwaltung von Informationsbeständen.

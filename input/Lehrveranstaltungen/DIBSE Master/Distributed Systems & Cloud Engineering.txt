@@ -1,0 +1,17 @@
+Lehrziele
+
+Die Studierenden bekommen ein tiefgreifendes und weitergehendes Verständnis der Typen, Architekturen und Funktionsweisen von verteilten Systemen, insbesondere Cloud Systemen. Sie können die Möglichkeiten, Grenzen und Risiken von Cloud Systemen verstehen und selbständig die Vor- und Nachteile verschiedener Architekturen und Entwurfsmuster von Cloud Anwendungen analysieren. Des Weiteren sind sie in der Lage eigenständig große, komplexe und skalierbare verteilte Anwendungen auf unterschiedlichen Cloud Infrastrukturen zu designen, planen und implementieren. Die Studierenden erhalten zudem ein grundlegendes Verständnis von der Sicherheit und den Betrieb von Cloud Systemen.
+
+Lehrinhalt
+
+• Virtualisierung und Containerisierung
+• Cloud Infrastrukturen und Management
+• Architekturen und Entwurfsmuster von Cloud Applikationen
+• Middleware
+• Tools, KI-Modelle und Frameworks für verteilte Systeme
+• Skalierbarkeit und Robustheit
+• Speicherung, Replikation und Verarbeitung von Daten in verteilten Systemen
+• Hybride Cloudsysteme
+• Sicherheit von Cloud Systemen
+• DevOps im Zusammenhang mit Cloud Anwendungen
+• Sustainability in Cloud- und verteilten Systemen

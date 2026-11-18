@@ -1,0 +1,14 @@
+Lehrziele
+
+Die Studierenden kennen Anwendungsgebiete von künstlicher Intelligenz und Smarten Systemen sowie deren philosophische Grundlagen und Schwierigkeiten. Sie kennen die grundlegenden Architekturen von intelligenten Agenten, können Problem-Definitionen für Agenten-Systeme ausarbeiten und entsprechende Suchstrategien implementieren. Des Weiteren können Studierende Ontologien und andere Wissensrepräsenationen entwickeln und mit Hilfe von maschinellen Lernmethoden diese auch erweitern. Sie können außerdem Systeme mit multiplen Agenten, sowie Systeme die mittels natürlicherer Sprache mit ihrer Außenwelt interagieren, beschreiben und in weiterer Folge auch grundlegend implementieren.
+
+Lehrinhalt
+
+• Grundlagen der künstlichen Intelligenz und philosophische Betrachtungen
+• Intelligente Agentensysteme
+• Problemdefinitionen und Suchstrategien
+• Ontologien und Wissensrepräsenationen
+• Supervised, Unsupervised und Semi-supervised Learning
+• Reinforcement Learning
+• Multi-Agenten Systeme
+• Natural Language Processing

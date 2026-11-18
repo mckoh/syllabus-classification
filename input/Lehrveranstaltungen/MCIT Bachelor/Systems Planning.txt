@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden können die wichtigsten Vorgehensmodelle der Softwareentwicklung im Rahmen des Softwarelebenszyklus erläutern. Sie können die Unterschiede zwischen plangetriebenen und agilen Vorgehensmodellen beschreiben, und deren jeweilige Vor- und Nachteile darlegen. Die Studierenden können verschiedene Werkzeuge zur Unterstützung des Softwareprozesses beschreiben und diese im Bedarfsfall zielgerichtet einsetzen. Die Studierenden können die wichtigsten Methoden zur Aufwandsschätzung von Softwareentwicklungsprojekten anwenden. Sie können Anforderungen erheben, beschreiben und modellieren. Die Studierenden können die wichtigsten Kriterien zur Messung von Softwarequalität bestimmen und deren Einhaltung evaluieren. Sie können die Auswirkungen von Softwaredesign und Softwarearchitektur auf die Softwarequalität ableiten und entsprechend eine realistische Softwareprojektumsetzung planen.
+
+Lehrinhalt
+
+• Softwareprozessmodelle
+• Agile Softwareentwicklung
+• Anforderungsanalyse
+• Systemmodellierung
+• Softwarearchitekturen und Entwurfsmuster
+• Softwareprojektplanung
+• Softwarequalitätsmanagement
+• Softwarekonfigurationsmanagement
+• Software Life Cycle Management

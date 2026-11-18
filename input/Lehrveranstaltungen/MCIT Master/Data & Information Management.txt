@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden kennen die Definitionen von zentralen Begriffen und Konzepten aus dem Bereich Data- und Informationsmanagement. Sie können Datenarten unterscheiden und deren Bedeutung erklären. Sie haben einen Überblick über die typischen Datenmodelle und können entsprechende Datenbanksysteme identifizieren. Sie können die dafür typischen Prozesse und Frameworks anwenden. Sie kennen die wichtigsten Technologien und können ihre Einsatzgebiete beschreiben.
+
+Lehrinhalt
+
+• Definitionen von zentralen Begriffen und Konzepten (beispielsweise Big Data, Small Data,…)
+• Open Data
+• Unterschiedliche Datenarten und ihre Verwendung
+• Typische Datenstrukturen und entsprechende Datenbanksysteme (relational bzw. nicht-relational)
+• Typische Prozesse im Daten- und Informationsmanagement und Frameworks
+• Daten- und Informationssicherheit
+• Zentrale Normen und Regelungen im Bereich des Information Security Managements
+• Neue Entwicklungen und Einflüsse auf das Daten- und Informationsmanagement
+• Zentrale Technologien auf Anwendungsebene (beispielsweise Cloud Computing, Data Fabric/Factory, Visualisierung, Ontologien)

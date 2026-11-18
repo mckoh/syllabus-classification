@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden verfügen über die Fähigkeit, komplexe technische Konzepte verständlich zu kommunizieren. Diese Kommunikationskompetenz erstreckt sich nicht nur auf Fachleute im eigenen Bereich, sondern beinhaltet auch die Fähigkeit, technische Lösungen den unterschiedlichen Stakeholdern eines Unternehmens überzeugend zu präsentieren. Dies schafft eine Brücke zwischen der technischen Expertise und den Bedürfnissen der nichttechnischen Entscheidungsträger. Weiters sind sie in der Lage, innovative Technologien und Trends in der Wirtschaftsinformatik zu erkennen und zu bewerten. Dieser ganzheitliche Ansatz befähigt sie dazu, als Fachkräfte einen bedeutenden Beitrag zur Entwicklung und Sicherung von Informations- und Kommunikationssystemen in Unternehmen zu leisten.
+
+Lehrinhalt
+
+• Grundbegriffe der Wirtschaftsinformatik
+• Einblick in die Entwicklung und Anwendung von integrierten Unternehmensapplikationen
+• Verständnis von Cloud-Infrastruktur und -Diensten.
+• Bedrohungslandschaft und gängige Cyberbedrohungen.
+• Grundlagen der Blockchain und verteilten Ledger-Technologie.
+• Anwendungen von Technology in Geschäftsprozessen und Entscheidungsfindung.

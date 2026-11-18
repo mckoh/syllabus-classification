@@ -1,0 +1,9 @@
+Lehrziele
+
+Das Verständnis mathematischer Methoden bildet die Grundlage verschiedener Einsatzbereiche der Softwareentwicklung, wie etwa Computergraphik, Bildverarbeitung, oder maschinellen Lernens. In dieser Lehrveranstaltung lernen die Studierenden die grundlegenden Konzepte der Algebra sowie der linearen Algebra kennen. Sie erkennen die hierarchische Natur algebraischer Strukturen und können mit Polynome, Restklassen, sowie komplexen Zahlen rechnen. Sie können mit Vektoren rechnen und im Computer implementieren, und im Rahmen von linearen Gleichungssystemen verwenden. Sie kennen die gängigsten Matrizenoperationen, und können lineare Funktionen als Matrizen repräsentieren, sowie mit ihnen rechnen. Sie können den Begriff der Basis und Basistransformation zu Anwendungen aus der Signalverarbeitung (wie etwas Fouriertransformation) abstrahieren. Zudem lernen die Studierenden die Grundbegriffe der Wahrscheinlichkeitsrechnung als Erweiterung der beschreibenden Statistik kennen. Sie können mit Zufallsvariablen rechnen und wissen, wie man mit bedingten Wahrscheinlichkeiten umgeht. Zudem kennen sie die wichtigsten diskreten und stetigen Wahrscheinlichkeitsverteilungen und deren Bedeutung für die Praxis.
+
+Lehrinhalt
+
+• Algebra: Gruppe, Ringe, Körper, mit Restklassen, komplexen Zahlen und Polynomen als Anwendungen
+• Lineare Algebra: Vektorräume, Basen, lineare Funktionen, Matrizen, lineare Gleichungssysteme, Skalarprodukte und Projektionen
+• Wahrscheinlichkeitsrechnung: Axiome, Zufallsvariable, bedingte Wahrscheinlichkeit, diskrete und stetige Wahrscheinlichkeitsverteilungen

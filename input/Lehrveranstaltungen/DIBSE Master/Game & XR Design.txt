@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden verstehen die Grundlagen des Spieledesigns und von Virtual und Augmented Reality und erwerben tiefgehende Kenntnisse über die wichtigsten Entwurfsmuster und Software-Architekturen in der Spieleentwicklung sowie von Virtual und Augmented Reality Systemen. Sie wissen über den Aufbau und die Funktionsweise von modernen Game-Engines Bescheid und können diese eigenständig in kleineren Projekten einbinden. Des Weiteren erwerben die Studierenden Kenntnisse über gängige Programmierschnittstellen und Konzepte sowohl in der Spieleentwicklung als auch der Entwicklung von Virtual und Augmented Reality Anwendungen und können diese selbstständig in kleineren Projekten anwenden.
+
+Lehrinhalt
+
+• Grundlagen des Spieledesigns
+• Mathematische und physikalische Grundlagen
+• Aufbau und Funktionsweise von Game-Engines
+• Grundlegende Entwurfsmuster und Software-Architekturen in der Spieleentwicklung
+• Physikengines
+• Grundlagen von Virtual und Augmented Reality
+• Immersion und Presence
+• Programmierschnittstellen für VR und AR-Anwendungen
+• Bedienkonzepte und Controller für VR und AR-Anwendungen
+• Integration von KI-Modellen und -Frameworks

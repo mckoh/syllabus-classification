@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden haben einheitliches und konsistentes Begriffsgebäude auf dem Gebiet der relationalen Datenbanken und kennen die Bedeutung von Datenbanken in der Praxis. Sie sind in der Lage einfache praktische Problemstellungen zu modellieren und kennen die diesbezüglichen organisatorischen Herausforderungen. Sie haben die Fertigkeiten, Daten nach dem relationalen Modell strukturieren und können den Normalisierungsprozess anwenden. Sie haben ein grundsätzliches Verständnis von SQL und sind sie in der Lage, Abfragen in mittlerer Komplexität durchzuführen.
+
+Lehrinhalt
+
+• Begriffsbildung, Bedeutung von Datenbanksystemen, zentrale Problemstellungen
+• Struktur und Aufbau von Datenbankmanagementsystemen
+• Elemente von Datenmodellen unter besonderer Berücksichtigung des relationalen Modells
+• Normalisierungsprozess von Datenstrukturen
+• Implementieren normalisierter Datenstrukturen in einem RDBMS
+• Erstellen von SQL-Anweisungen

@@ -1,0 +1,9 @@
+Lehrziele
+
+Die Studierenden erhalten detaillierte Kenntnisse über den Prozess des Interaktiven Designs (Interaction Design), der Implementierung und der Evaluation von effektiven und benutzbaren Graphischen Interfacesystemen (GUI). Sie verstehen die unterschiedlichen Erwartungen von Benutzer:innen an alltägliche Technologien sowie deren Anforderungen an die Benutzbarkeit. Die Studierenden lernen Verfahren zur Überprüfung von Web-Usability/User Experience kennen anzuwenden. Die erlernten Kenntnisse werden fortlaufend von der Idee bis zur Umsetzung eines Use Case im Rahmen der Gestaltung eines interaktiven Prototypens angewandt.
+
+Lehrinhalt
+
+• Einfluss von neuen Technologien auf das menschliche Verhalten.
+• Entwurf, Design und Umsetzung neuer Ideen aus der Benutzer:innenzentriertensicht - mit Fokus auf klassische und mobile Kommunikationstechnologien.
+• Strategien und Konzepte, um benutzergerechte Designentscheidungen zu treffen, zu evaluieren und zu iterieren.

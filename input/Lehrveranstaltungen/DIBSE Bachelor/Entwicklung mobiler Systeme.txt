@@ -1,0 +1,9 @@
+Lehrziele
+
+Die Studierenden erhalten einen Überblick über die speziellen Anforderungen, die bei der Entwicklung mobiler Systeme zu beachten sind. Sie kennen die Vor- und Nachteile der unterschiedlichen Entwicklungsansätze (nativ, hybrid, cross-platform, ...) und sind in der Lage, sich für den anforderungsabhängig besten Entwicklungsansatz zu entscheiden. Sie erhalten einen Einblick in die aktuell verwendeten Technologien und Frameworks. Sie sind in der Lage eine mobile Applikation zu planen und umzusetzen.
+
+Lehrinhalt
+
+• Besonderheiten mobiler Systeme (Design, Speicherbedarf, Datenbankzugriff, Caching,...)
+• Vor- und Nachteile der unterschiedlichen Entwicklungsansätze (nativ, hybrid, cross-platform, webbasiert)
+• Aktuell verwendete Technologien und Frameworks

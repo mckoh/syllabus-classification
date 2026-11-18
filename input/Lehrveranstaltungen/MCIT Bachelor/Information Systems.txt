@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden verfügen über die Fähigkeit, komplexe technische Konzepte verständlich zu kommunizieren. Diese Kommunikationskompetenz erstreckt sich nicht nur auf Fachleute im eigenen Bereich, sondern beinhaltet auch die Fähigkeit, technische Lösungen den unterschiedlichen Stakeholdern eines Unternehmens überzeugend zu präsentieren. Dies schafft eine Brücke zwischen der technischen Expertise und den Bedürfnissen der nichttechnischen Entscheidungsträger. Weiters sind sie in der Lage, innovative Technologien und Trends in der Wirtschaftsinformatik zu erkennen und zu bewerten. Dieser ganzheitliche Ansatz befähigt sie dazu, als Fachkräfte einen bedeutenden Beitrag zur Entwicklung und Sicherung von Informations- und Kommunikationssystemen in Unternehmen zu leisten.
+
+Lehrinhalt
+
+• Bedeutung der Wirtschaftsinformatik in Unternehmen, Gesellschaft und Studium
+• Berufsbilder der Wirtschaftsinformatik
+• Grundlagen der integrativen Denk- und Arbeitsweisen in der Wirtschaftsinformatik
+• Arten und Komponenten moderner Informations- und Kommunikationssysteme
+• Grundlagen zu Hardware und Software sowie Netzwerktechnologie
+• Sicherheits- und Datenschutzüberlegungen
+• Arbeiten mit einer aktuellen Tabellenkalkulations-Software auf fortgeschrittenem Niveau.

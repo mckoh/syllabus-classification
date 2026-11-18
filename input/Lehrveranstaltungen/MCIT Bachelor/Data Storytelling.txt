@@ -1,0 +1,12 @@
+Lehrziele
+
+Studierende sind mit den wesentlichen Elementen und Konzepten aus dem Data Storytelling vertraut, und können auf Basis dieses Wissens mithilfe unterschiedlicher Tools selbstständig und vollumfänglich Data Stories gestalten. Sie sind befähigt, Visualisierungen und Data Stories aus anderen Quellen kritisch zu reflektieren. Studierende kennen die wesentlichen Bestandteile des Data Storytellings (Narrativ, Daten und Visualisierungen) und überblicken die theoretischen und konzeptionelle Grundlagen, auf die Data Storytelling aufbaut (Wahrnehmungspsychologie, Gestaltpsychologie, Graphical Excellence etc.). Die Studierende wissen um die Anwendungsmöglichkeiten von Data Storytelling in der Praxis (Informationsvermittlung, Entscheidungsunterstützung etc.) und lernen, visuelle und narrative Elemente zu kombinieren, um einprägsame und wirkungsvolle Data Stories in unterschiedlichen Medien zu gestalten.
+
+Lehrinhalt
+
+• Relevanz und Nutzen von Datenvisualisierung und Data Storytelling
+• Konzeptionelle und theoretische Grundlagen von effektiver Datenvisualisierung bzw. Storytelling
+• Anwendungsbeispiele für Datenvisualisierungen und Data Storytelling aus unterschiedlichsten Epochen bzw. Kontexten
+• Umgang mit Tools zur Gestaltung und Verwendung von Data Storytelling (z.B. Power BI, Tableau)
+• Praktische Umsetzung von Data Storytelling unter Zuhilfenahme von Open Data, geeigneten Medien und Tools.
+• Gemeinsame kritische Reflektion von erstellten Data Stories

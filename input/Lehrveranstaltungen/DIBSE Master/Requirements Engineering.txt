@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden sind in der Lage, bestehende Modelle, Prozesse und Problemstellungen im Requirements Engineering zu verstehen und zu erklären. Sie erkennen die Zusammenhänge zwischen Systemanforderungen, Software und Systemarchitektur. Die Studierenden können mit Stakeholdern zusammenarbeiten, um sicherzustellen, dass die Anforderungen mit den Geschäftszielen übereinstimmen. Sie sind in der Lage, Anforderungen für die Entwicklung von großen Softwaresystemen zu erheben, zu analysieren, zu validieren, zu dokumentieren und zu managen. Sie können gängige Notationen, Techniken und Werkzeuge zur Anforderungsmodellierung und -analyse nutzen und anwenden.
+
+Lehrinhalt
+
+• Anforderungserhebung
+• Dokumentation von Anforderungen
+• Anforderungsspezifikationen
+• Funktionale und nicht-funktionale Anforderungen
+• Anforderungsvalidierung
+• Anforderungsmodellierung
+• Ethik im Requirements Engineering

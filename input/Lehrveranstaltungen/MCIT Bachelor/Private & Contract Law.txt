@@ -1,0 +1,11 @@
+Lehrziele
+
+Studierende erlangen grundlegende Kompetenzen im Bereich des IT-Rechts. Sie können rechtliche Rahmenbedingungen in Bezug auf Datenschutz, Vertragsrecht und den elektronischen Handel verstehen. Zudem sind sie in der Lage, rechtliche Probleme im Zusammenhang mit IT-Systemen zu identifizieren, zu analysieren und entsprechende Lösungen zu entwickeln. Der Fokus liegt auf den rechtlichen Aspekten privater und geschäftlicher Interaktionen im digitalen Umfeld.
+
+Lehrinhalt
+
+• Grundlagen des Vertragsrechts
+• Vertragsgestaltung und Vertragsabschluss
+• Vertragsarten und Vertragsinhalte
+• Vertragsverletzungen und deren Folgen
+• Rechtsmittel bei Vertragsstreitigkeiten

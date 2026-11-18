@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen die zentralen Begriffe auf dem Gebiet relationaler und nicht-relationaler Datenbanken. Sie kennen die theoretischen Grundlagen von Datenbanksystemen auf Basis unterschiedlicher Datenmodelle. Die Studierenden sind in der Lage, dieses Wissen im Rahmen der relationalen Modellierung und deren Implementierung in einem RDBMS praktisch anzuwenden. Sie sind in der Lage, Datenbankabfragen sowie das Management von Datenstrukturen mit einer entsprechenden Abfragesprache (SQL) durchführen. Sie Studierenden sind mit den Konzepten, Verfahren und Techniken der Mehrbenutzerkontrolle und Transaktionssteuerung und den damit verbundenen Konsequenzen vertraut.
+
+Lehrinhalt
+
+• Überblick über relationale und nicht-relationale Datenmodelle und die entsprechenden Datenbanksysteme
+• Überblick über zentrale Theorien und Theoreme (Relationale Algebra, ACID, BASE, CAP, etc.)
+• Modellierung relationaler Strukturen (konzeptionelle Datenmodellierung, logische Datenmodelle, Datenbankschemata, Normalisierung)
+• SQL (Data Definiton Language, Data Manipulation Language)
+• SQL-Erweiterungen und Verhaltensimplementierung (z.B. Integritätssicherung durch Trigger, Stored Procedures, etc.)
+• Mehrbenutzerkontrolle und Transaktionsmodelle

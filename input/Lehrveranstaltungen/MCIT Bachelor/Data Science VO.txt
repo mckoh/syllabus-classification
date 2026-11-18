@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen die Funktionsweise grundlegender Algorithmen im Bereich Data Science. Sie verstehen die statistischen Konzepte und Arbeitsweisen hinter den behandelten Algorithmen und sind in der Lage für gegebene Problemstellungen geeignete Algorithmen zu selektieren. Die Studierenden kennen ferner die von den behandelten Algorithmen benötigten Datenstrukturen, Laufzeitspezifika und Komplexitätsklassen und können diese Algorithmen in isolierten Problemstellungen anwenden.
+
+Lehrinhalt
+
+• Datenverarbeitungspipelines
+• Vorgehensmodelle im Bereich Data Science (CRISP-ML-Q)
+• Datenintegration (z. B. Data Warehouse, Staging, Data Lake)
+• Datentransformation
+• Datenqualität und -governance (z. B. Data Scorecard)
+• Grundlagen des maschinellen Lernens

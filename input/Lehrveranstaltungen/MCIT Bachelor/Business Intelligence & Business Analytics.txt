@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen die Konzepte Business Intelligence (BI) und Business Analytics (BA) und verstehen deren Bedeutung für Unternehmen. Die Studierenden können kennen unterschiedliche BI-Technologien und können diese mit Blick auf unterschiedliche Einsatzszenarien bewerten. Die Studierenden kennen unterschiedliche Anbieter im Themenbereich BI und können deren Angebote bewerten. Die Studierenden können einfache BI/BA Strategien entwickeln und mit Hilfe von Datenanalyse umsetzen.
+
+Lehrinhalt
+
+• Einführung in Business Intelligence (BI) und Business Analytics (BA)
+• Der Einfluss von BI & BA
+• Die Möglichkeiten von BI & BA
+• Technologien zur Entwicklung von BI Lösungen
+• BI Werkzeuge
+• Datenanalyse mit BI & BA-Werkzeugen

@@ -1,0 +1,7 @@
+Lehrziele
+
+Die Studierenden können in ausgewählten betrieblichen Aufgaben mit modernen Technologien gestalten und Prozesse Technologien zu deren Implementierung anwenden. Sie können diese Implementierungen systematisch testen.
+
+Lehrinhalt
+
+• Design, Implementierung und Test ausgewählter betrieblicher Aufgaben und Prozesse mit unterschiedlichen Technologien

@@ -1,0 +1,20 @@
+Lehrziele
+
+Die Studierenden erhalten ein vertiefendes Wissen über unterschiedliche Anwendung von Enterprise Governance und ihre Notwendigkeit in der Außen- bzw. Innenkommunikation, sowie der Steuerung von modernen Großunternehmen und Konzernen. Die Studierenden wenden die unterschiedlichen Methoden, Tools und IT-Governance Frameworks an und etablieren, aufbauend auf praxisrelevanten Beispielen, den Zusammenhang zwischen Konformität und Performance in modernen Unternehmen. Die Studierenden werden anhand von Caselets angeleitet problemorientiert, agile und kritisch, in Diskussionen und Beispielaufgaben, ihre Kompetenzen zu demonstrieren, um für die Geschäftsleitung bzw. für die Leitung des IT-Bereichs eines Unternehmens kompetente Ansprechpartner bzw. Ansprechpartnerinnen zu werden. Durch die Kombination der Kompetenz der kontinuierlichen Anwendung der vertikalen Integration von unterschiedlichen Frameworks wie z.B. COBIT, ITIL oder COSO, sowie Compliance- und Risikomanagementansätze in der IT verfügen die Studierenden über die Fähigkeiten die Zusammenhänge zwischen realwirtschaftlichen und IT-relevanten Gegebenheiten und Entwicklungen abzuschätzen und selbstständig relevante Prozesse, mögliche Gefahren und Verbesserungspotenziale zu identifizieren und selbstständig adaptive Schlüsse und Folgerungen zu ziehen.
+
+Lehrinhalt
+
+• Begriffe und Definitionen
+• Grundlagen von Governance und Managementkonzepten mit besonderem Fokus auf Enterprise-IT
+• Critical stakeholders
+• Methoden, Tools und Frameworks der Enterprise- und IT- Governance
+• Governance Standards ua. COSO, COBIT, ITIL …
+• Abgrenzung von IT-Servicemanagement
+• Vertikale Integration
+• Grundlagen des Risikomanagements
+• Enterprise Risk Management
+• Risk-Frameworks insb. COSO II
+• ISO 31000:2018
+• Integration einer Risikokultur und Vernetzung mit dem internen Kontrollsystem
+• Simulation vs. Analytischer Risikoaggregation
+• Anwendung des gelernten Wissens in spezifischen abgeschlossenen Fallstudien (Caselets)

@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden können ERP Systeme in den Kontext betriebswirtschaftlicher Standardsoftware einordnen und kennen die Vor- und Nachteile solcher Systeme. Es wird dabei deren Einbettung in die gesamte IT Landschaft erläutert und mit den Studierenden die dabei entstehenden Herausforderungen diskutiert. Basierend auf der Supply Chain kennen Studierende die Funktionalität von ERP Systemen. Die Grundkonzepte der Workflowunterstützung, MRP Lauf und Dokumentenmanagement sind den Studierenden bekannt. Im Zuge des Kurses wird auch auf das Requirement Engineering eingegangen, um den Studierenden möglichst praxisnahe Herausforderungen aufzuzeigen und Lösungsansätze dafür darzulegen. Aktuelle Entwicklungen wie In Memory Database Systeme, Cloud Anwendungen und Mobile Applikationen werden mit den Studierenden erarbeitet. In den Laborübungen werden End-to-End Prozesse in einem aktuellen ERP System mit unterschiedlichen beteiligten Modulen und Integrationstiefen von den Studierenden durchgearbeitet, um einen Eindruck von der Arbeit mit ERP Systemen zu erhalten und ihr erlerntes Wissen praktisch umzusetzen.
+
+Lehrinhalt
+
+• Wissen über die Einbettung von ERP Systemen in die gesamte IT Landschaft und deren Zusammenhänge
+• Projektmanagement im direkten Zusammenhang mit ERP Systemen
+• Verständnis für die Supply Chain und die Unterstützung mittels ERP Systeme
+• ERP Software und deren Zusammenhang mit MIS
+• Datenauswertungen mit modernen Data Warehouse Systemen und in Memory Datenbanken
+• Praktische Anwendung in Cases welche als End-to-End Szenarien in einer aktuellen ERP Anwendung umgesetzt werden

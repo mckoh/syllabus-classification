@@ -1,0 +1,9 @@
+Lehrziele
+
+Die Logik (Aussagen- sowie Prädikatenlogik) bildet die Sprache der Mathematik und damit das grundlegende Modellierungswerkzeug aller Wissenschaften, die sich der Sprache der Mathematik bedienen. In dieser Lehrveranstaltung lernen Studierende die Grundlagen der Mathematik kennen. Sie können diese Sprache einsetzen, um formal korrekt zu argumentieren, sowie formale Problemspezifikationen zu erstellen. Auf Basis dieser Sprache werden die Konzepte der Mengenlehre als Grundlagen aller Datenstrukturen vermittelt. Darauf werden die Begriffe Relation sowie Funktion eingeführt; auf diesem Verständnis beruhen viele Grundlagen der Informatik. Die Studierenden können diese Konzepte auf die Bereiche der Softwareentwicklung übertragen, und dort zu Modellierungszwecken verwenden. Weiters werden die Begriffe der Laufzeitkomplexität sowie der Berechenbarkeit und ihrer Grenzen anhand endlicher Automaten, Kellerautomaten, sowie Turingmaschinen erläutert. Dadurch erkennen Studierende unterschiedliche Algorithmenklassen, und wie sich Unterschiede in Modellierungen und methodischen Vorgehensweisen in unterschiedlichen Laufzeiten von Algorithmen widerspiegeln.
+
+Lehrinhalt
+
+• Logik: Aussagenlogik und Prädikatenlogik, Spezifikationen, Argumentieren und Beweisen
+• Mengenlehre: Konzepte, Mengenbildungen, Tupel, Relationen, Funktionen
+• Berechenbarkeit: Laufzeitkomplexität, Landau-Notation, endliche Automaten, Kellerautomaten, Turingmaschinen

@@ -1,0 +1,11 @@
+Lehrziele
+
+Die Studierenden erhalten ein grundlegendes Wissen über unterschiedliche Entwicklung und Anwendung von IT-Strategie. Die Studierenden wenden erste, einfache Methoden, Tools und IT-Governance Frameworks an und etablieren, aufbauend auf rudimentären generischen Beispielen, den Zusammenhang zwischen Konformität und Performance in klassischen Unternehmensformen. Durch die Kombination der erlernten theoretischen Grundlagen und der kontinuierlichen Anwendung der angewandten Frameworks wie z.B. COBIT, COSO, inkl. erster Compliance-Ansätze in der IT verfügen die Studierenden über die Fähigkeiten die Zusammenhänge zwischen realwirtschaftlichen und IT-relevanten Gegebenheiten und Entwicklungen zu begreifen. Dadurch verstehen die Studierenden die Bedeutung des Strategischen Managements und können wichtige Werkzeuge zur Strategiefindung, Strategieumsetzung und Strategieüberwachung anwenden.
+
+Lehrinhalt
+
+• Begriffe und Definitionen
+• Grundlagen von Strategie- und Managementkonzepten mit besonderem Fokus auf Informationstechnologie
+• Grundlegende Methoden und Regelwerke von IT-Strategie
+• Erste Einblicke in Frameworks und deren Nutzen für die generische Prozesssicht z.B. ITIL
+• Anwendung des gelernten Wissens in rudimentären abgeschlossenen Fallstudien („Caselets“)

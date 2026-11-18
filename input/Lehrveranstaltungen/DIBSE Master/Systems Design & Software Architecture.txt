@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden sind in der Lage, die richtigen Entscheidungen bei wichtigen Fragen des Systemdesigns und der Software-Architektur zu treffen. Sie kennen die relevanten Architektur- und Designmuster und deren Vor- und Nachteile. Sie sind in der Lage, für eine gegebene Situation passende Muster auszuwählen, zu implementieren, in einem iterativen Entwicklungsprozess laufend zu adaptieren und das Ergebnis anschließend zu evaluieren. Sie besitzen die Fähigkeit bestehende Softwarearchitekturen und -designs zu analysieren und anschließend entsprechende Maßnahmen zur Verbesserung des Softwaredesigns und damit zusammenhängender Eigenschaften zu entwickeln und erfolgreich umzusetzen.
+
+Lehrinhalt
+
+• Taxonomie von Softwarearchitekturtypen und -arten
+• Entwurfsmuster für Softwarearchitekturen und -designs
+• Skalierbarkeit und Robustheit von Softwarearchitekturen
+• Softwarequalität im Kontext von Softwarearchitekturen
+• Sicherheit und Softwarearchitekturen
+• Integration von Systemkomponenten
+• Analyse und Evaluation von Softwarearchitekturen und -designs
+• Nachhaltige Softwarearchitekturen
+• Entsprechende Toolunterstützung, KI-Modelle und Frameworks

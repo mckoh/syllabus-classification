@@ -1,0 +1,18 @@
+Lehrziele
+
+Die Studierenden erwerben grundlegende Kenntnisse über moderne Kostenrechnungsmethoden. Schwerpunkt liegt auf der Anwendung digitaler Tools zur Analyse und Optimierung von Kostenstrukturen. Die Teilnehmenden sollen die Integration von modernen Ansätzen der Datenaufbereitung in-Systemen verstehen und lernen, wie diese in die Arbeit des Internen Rechnungswesen einfließen. Ziel ist es, die Studierenden für die Herausforderungen der digitalen Transformation in der Kosten- und Erlösrechnung zu sensibilisieren und sie mit praxisrelevanten Anwendungen vertraut zu machen. Durch die Kombination der Kompetenz der Auswertung des Zahlenmaterials sowie des Verständnis von Jahresabschlüssen namhafter Unternehmen verfügen die Studierenden über die Fähigkeiten mithilfe der doppelten Buchhaltung und der angewandten Kostenrechnung die Zusammenhänge zwischen realwirtschaftlichen, pagatorischen und kostenrechnerischen Prozessen zu identifizieren und adaptive Schlüsse und Folgerungen zu ziehen. Die Übungen vertiefen die Vorlesungsinhalte durch die Anwendung auf praxisnahe Situationen, wobei auch rudimentäre Bilanzanalysen eingebunden werden. Die Studierenden sollen eigenständig digitale Instrumente zur Kostenkontrolle nutzen und Budgetierungsprozesse automatisieren. Dabei sollen die Studierenden die Auswirkungen digitaler Prozesse auf die finanzielle Situation von Unternehmen verstehen und in der Lage sein, darauf basierende taktische Entscheidungen zu treffen. Die Übungen fördern die praktische Anwendung und vertiefen das Verständnis für digitale Lösungen im Internen Rechnungswesen.
+
+Lehrinhalt
+
+• Einführung in die Kosten- und Leistungsrechnung: Grundbegriffe und Aufgaben; Begrifflichkeiten (Auszahlung, Ausgaben, Aufwand, Kosten, Erfolg)
+• Vollkosten vs. Teilkostenrechnung
+• Nutzen und gesetzliche Notwendigkeit des Internen Rechnungswesen (Bestandsveränderungen, Herstellkosten)
+• Deckungsbeitrag (einstufig/mehrstufig)
+• Verursachungsprinzip
+• Investitionstheoretische Kostenrechnung
+• Produktionstheorie – Kostentheorie
+• Kostenrechnungssysteme
+• Kalkulationsarten (Bezug, Absatz)
+• Digitale Systeme der Ist-, Normal- und Plankostenrechnung
+• Prozesskostenrechnung
+• Systeme der Praxis (target costing, value analysis, zero-base-budgeting, etc.)

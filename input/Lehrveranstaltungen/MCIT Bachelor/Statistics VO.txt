@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden verbessern ihre Fähigkeit, analytisch und strukturiert zu denken, statistisch relevante Problemstellungen zu formulieren und geeignete Lösungsmethoden einzusetzen. Sie kennen die wichtigsten statistischen Begriffe, Methoden und Verfahren. Die Studierenden können Variablen deskriptiv beschreiben, deren Verteilung zu bestimmen und darstellen. Anhand gegebener Datensätze lernen die Studierenden relevante Fragestellungen zu formulieren, Hypothesen zu bilden und das richtige statistische Analyseverfahren auszuwählen. Im Rahmen der Übung wenden die Studierenden ihr erlerntes Wissen praktisch in einer software-gestützten Umgebung an.
+
+Lehrinhalt
+
+• Beschreibende Statistik (Grundbegriffe, Mittelwert, Stichprobenvarianz, Streuung, Median, Range)
+• Grundlagen der Wahrscheinlichkeitsrechnung; Zufallsvariablen Verteilungsfunktionen diskreter und stetiger Zufallsvariablen
+• Hypergeometrische Verteilung; Binomialverteilung; Normalverteilung
+• Teststatistik (Hypothesenbildung, Signifikanztests, Homogenitätstests)
+• Testverfahren auf Zusammenhänge (Chi2 Test, Korrelationen, lineare Regression)
+• Testverfahren auf Unterschiede (t-Test, Mann-Whitney-U, ANOVA, Kruskal-Wallis-Test)

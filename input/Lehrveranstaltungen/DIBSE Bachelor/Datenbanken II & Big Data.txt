@@ -1,0 +1,11 @@
+Lehrziele
+
+Die Studierenden kennen die wichtigsten nicht-relationalen Datenmodelle sowie die entsprechenden Theoreme. Die Studierenden kennen die technischen und organisatorischen Herausforderungen des Big Data Computing und verstehen deren Methoden und Techniken. Sie überblicken die interdisziplinären Aspekte des Big Data Engineering sowie der darauf aufbauenden Analysen und kennen Modelle und Architekturen für die Implementierung. Sie haben ein Verständnis der Eigenschaften und der damit verbundenen Herausforderungen von Data Analytics.
+
+Lehrinhalt
+
+• Objekt-relationales Mapping
+• Theoreme nicht-relationaler Datenbanken (BASE, CAP)
+• Typische NoSQL Datenmodelle mit den entsprechenden Datenbanksystemen
+• Architekturmodelle und Ökosysteme für skalierbare und verteilte Systeme (z.B. Apache Spark, Hadoop mit Erweiterungen)
+• Aufarbeitung von Rohdaten aus unterschiedlichen Datenquellen bis hin zu Visualisierung und Analytics zur Unterstützung/Implementieren von Business Prozessen

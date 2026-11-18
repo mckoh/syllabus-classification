@@ -1,0 +1,12 @@
+Lehrziele
+
+In dieser integrierten Lehrveranstaltung werden die Studierenden ihr angeeignetes Wissen aus vorangegangenen LVs zur Bearbeitung einer Case Study im Team anwenden und ihre Erkenntnisse und Ergebnisse anschließend präsentieren. Dabei müssen ihre Ansichten durchaus kritischen Fragen aus dem Plenum gegenüber verteidigt werden.
+
+Lehrinhalt
+
+• Aufbau eines rudimentären Informations- und Kommunikationsstruktur inkl. modularer Erweiterbarkeit z.B. Risikomanagement, adaptive Steuerung (Dash Boards)
+• Anwendung des gelernten Wissens in einer spezifischen Fallstudie
+• Operationalisierung der IKS und Etablierung von Prozessmanagement und –monitoring
+• Verbesserung der durch Go&See vorgefundenen Prozesse
+• Anpassung der Organisationsstrukturen an die neuen Gegebenheiten
+• Festlegung von Anforderungen an ein unterstützendes IT System mit Aufwandsschätzung

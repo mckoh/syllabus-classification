@@ -1,0 +1,14 @@
+Lehrziele
+
+Die Studierenden haben einen Überblick über die digitale Prozess-kette und die wichtigsten Systemkomponenten. Sie besitzen ein Verständnis der horizontalen Systemintegration entlang der gesamten Wertschöpfungskette und kennen die Bedeutung der vertikalen Integration, insbesondere der Systemintegration vom Shop Floor bis zum Top Floor. Die Studierenden kennen die Möglichkeiten des Cloud-basierten Manufacturing. Sie verstehen moderne Datenökosysteme im Kontext der Produktion sowie der Produktnutzung. Außerdem sind sie in der Lage, einfache digitale Zwillinge zu planen und zu implementieren (cyber-physikalische Systeme), sowie Lage Supply Chains zu digitalisieren; insbesondere mittels Cloud-basierten Systemen.
+
+Lehrinhalt
+
+• Überblick über die digitale Prozesskette und die wichtigsten Systemkomponenten
+• Horizontale Integration – Datenfluss entlang der gesamten Wertschöpfungskette (Entwicklung, Produktion, Nutzung, Recycling)
+• Vertikale Integration – IT/OT-Konvergenz: Daten vom Shop Floor bis zum Top Floor (Information Technology auf dem Top Floor bis hin zur Operational Technology in der Fertigung)
+• Cloud Manufacturing, Data ecosystems (z. B. Gaia-X)
+• Cyber-Physical Systems, Digitaler Zwilling
+• Digital Supply Chain
+• Echtzeitanforderungen
+• Implementieren von Use Cases mit aktuellen Technologien und Tools

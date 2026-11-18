@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden bekommen ein grundlegendes Verständnis der Typen und Architekturen von verteilten Systemen. Sie können die Möglichkeiten, Grenzen und Risiken von verteilten Systemen verstehen. Des Weiteren sind sie in der Lage die Komplexität, Skalierbarkeit und Fehlertoleranz zu analysieren und komplexe Probleme eigenständig zu lösen. Die Studenten erhalten ein sehr grundlegendes Verständnis von IT-Sicherheit in verteilten Systemen.
+
+Lehrinhalt
+
+• Typen von verteilten Systemen
+• Transparenz und Skalierbarkeit
+• Architekturen
+• Prozesse
+• Kommunikation
+• Synchronisation in verteilten Umgebungen
+• Naming
+• Konsistenz und Replikation
+• Zuverlässlichkeit
+• Sicherheit in verteilten Systemen

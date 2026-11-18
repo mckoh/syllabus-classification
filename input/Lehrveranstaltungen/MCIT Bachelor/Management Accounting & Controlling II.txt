@@ -1,0 +1,17 @@
+Lehrziele
+
+Die Studierenden vertiefen und wenden die bereits erlernten Grundlagen im Bereich Kosten- und Leistungsrechnung, Buchhaltung und Bilanzierung an. Sie analysieren komplexe Zusammenhänge und können Reportingtools anhand adaptiver Vorgaben anwenden, um die relevanten Adressatengruppen mit korrekten Informationen zu versorgen. Die Studierenden lernen, anhand von praxisbezogenen Problemstellungen, Wünsche und Anforderungen abzuleiten und eine Verbindung zwischen strategischem Informationsbedarf und operativen Verfahrensabläufen herzustellen. Diese werden durch Dashboards verknüpft, um eine Grundlage zu schaffen, auf der die Studierenden das Gelernte in ihrem Fachgebiet umsetzen und in Schnittstellenfunktionen einsetzen können. Darüber hinaus wird die Fähigkeit zur Analyse von Unternehmensprozessen vertieft.
+
+Lehrinhalt
+
+• Controlling und ControllerIn: Was ist darunter zu verstehen?
+• ManagerIn und ControllerIn im Team
+• Kennzahlen und Zielfindung
+• Management-Erfolgsrechnung und ihre Verknüpfung zur Kalkulation und Kostenstellenrechnung (Rechnungswesen-Panorama)
+• ROI-Konzept, Planbilanz, Abweichungsanalysen
+• Weighted Average Cost of Capital, Shareholder Value, Economic Value Added, Cash Value Added
+• Managementvergütungssysteme
+• Berichtsprinzipien des Controllers: Wann ist ein Informationscontrolling geeignet?
+• Entscheidungsorientiertes und maßnahmengeprägtes Berichten
+• Aufbau einer Berichtsstruktur
+• Anforderungen an die Organisation und an die Datenbasis

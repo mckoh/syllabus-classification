@@ -1,0 +1,14 @@
+Lehrziele
+
+Studierende können wichtige Sicherheitsanforderungen systematisch identifizieren und in realen Softwareentwicklungsprojekten umsetzen. Sie sind in der Lage, gängige Sicherheitstools und -methoden anwenden, um Sicherheitslücken in Softwareprodukten zu erkennen und zu beheben. Studierende verstehen die grundlegenden Prinzipien der sicheren Softwareentwicklung und können diese in den Entwicklungsprozess integrieren. Sie können sichere Softwarearchitekturen entwerfen und die Einbindung von Kryptographie in Softwarelösungen planen und umsetzen. Außerdem kennen sie die wichtigsten rechtlichen Rahmenbedingungen und ethischen Aspekte der Softwaresicherheit in der Praxis.
+
+Lehrinhalt
+
+• Grundlagen der Softwaresicherheit
+• Sichere Softwareentwicklung (Secure Coding Practices)
+• Einsatz von Tools zur statischen Codeanalyse, Penetrationstests und dynamischen Tests im Softwareentwicklungsprozess
+• Erkennung und Behebung von typischen Sicherheitslücken
+• Entwurf sicherer Softwarearchitekturen und die Integration von Sicherheit in den Designprozess
+• Einbindung von Kryptographie zur Sicherung von Daten und Kommunikation
+• Rechtliche Rahmenbedingungen und Compliance
+• Durchführung von Sicherheitstests und Audits zur Überprüfung und Verbesserung der Software-Sicherheit

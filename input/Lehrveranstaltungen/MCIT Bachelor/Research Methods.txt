@@ -1,0 +1,11 @@
+Lehrziele
+
+Die Studierenden erhalten einen Einblick in das analytische und strukturierte Denken, lernen Problemstellungen in geeigneter Sprache zu formulieren und geeignete Lösungsmethoden einzusetzen. Sie kennen den wissenschaftlichen Forschungsprozess und bekommen einen Einblick in wissenschaftstheoretische Überlegungen. Studierende sind in der Lage unter Anleitung wissenschaftliche Arbeiten zu verfassen und auf die Fragestellung abgestimmte Methoden anzuwenden. Sie lernen die wichtigsten statistischen Begriffe und Verfahren im Rahmen einer Primärdatenanalyse einzusetzen und können moderne Hilfsmittel wie Tabellenkalkulation und Statistikpakete zielgerichtet einsetzen. Sie können statistische Erhebungen durchführen und auswerten, sowie die Ergebnisse interpretieren. Die Studierenden lernen qualitative Forschungsmethoden kennen und setzen sich mit der Planung, Durchführung, Auswertung und Interpretation dieser Methoden auseinander. Studierende erhalten einen Einblick in die Sammlung und Auswertung von Sekundärdaten wie beispielsweise Kommunikationsdaten von Sozialen Medien.
+
+Lehrinhalt
+
+• Wissenschaftstheoretische Grundlagen
+• Grundlagen der empirischer Sozialforschung (Ansätze, Methoden, Ideen)
+• Untersuchungsplanung (Ablauf, Messung, Design, Stichproben)
+• Datenerhebung (Befragung, Beobachtung, Qualitative Inhaltsanalyse, Digital Methods, Erhebungsmethoden)
+• Wissenschaftliche Kriterien der Datenauswertung

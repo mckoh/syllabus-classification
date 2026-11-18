@@ -1,0 +1,11 @@
+Lehrziele
+
+Das Modul vermittelt den Studierenden die Grundlagen der Cybersecurity. Die Studierenden lernen, die grundlegenden Begrifflichkeiten der IT-Sicherheit. Sie sind in der Lage, potenzielle Sicherheitsrisiken zu identifizieren und zu bewerten. Das Modul behandelt verschiedene Sicherheitsebenen, fördert praktische Fähigkeiten und unterstützt die Entwicklung einfacher Sicherheitslösungen. Die Studierenden sind nach Abschluss dieses Moduls in der Lage, die Grundprinzipien der Informationssicherheit zu verstehen und anzuwenden, Cybersecurity-Bedrohungen und -Angriffsvektoren zu erkennen, einfache Sicherheitsstrategien und Maßnahmen für die Praxis zu entwerfen, sowie rechtliche und ethische Aspekte der Cybersecurity in der Unternehmenspraxis zu bewerten.
+
+Lehrinhalt
+
+• Grundlegenden Definitionen der IT-Sicherheit
+• Identifikation von Sicherheitsrisiken
+• Schutzmaßnahmen und Sicherheitsstrategien
+• Cybersecurity Bedrohungen und Angriffsvektoren
+• Rechtliche und ethische Aspekte der Cybersecurity

@@ -1,0 +1,14 @@
+Lehrziele
+
+Die Studenten erwerben grundlegende Kenntnisse über Aufbau und Arbeitsweise von Mikroprozessorsystemen und eingebettete Mikrokontrollersystemen. Sie können beispielhafte Applikationen für eingebettete Systeme konzipieren, implementieren und optimieren. Sie verstehen die Aufgaben und das Zusammenwirken der Systemkomponenten und analysieren bzw. bewerten gegebene Rechnerstrukturen hinsichtlich Anforderungen für den Einsatz in verschiedenen Anwendungsbereichen. Die Studierenden können Wechselwirkungen zwischen Ausführungsplattformen und Systemsoftware erkennen und beurteilen.
+
+Lehrinhalt
+
+• Entwicklungsgeschichte
+• Rechnerarchitekturen
+• Mikrocontroller und -plattformen
+• Speicheraufbau und -adressierung, Segmentierung
+• Ein-/Ausgabe-Schnittstellen, typische Systemkomponenten
+• Programmentwicklung in Assembler
+• Werkzeuge: Assembler/Compiler, Objektcode, Linker, Lader
+• Subsystem wie Cache, Speicherverwaltung, RISC vs. CISC, SIMD, Pipelines

@@ -1,0 +1,12 @@
+Lehrziele
+
+Studierende sind in der Lage eine IT Architektur anhand best practice Frameworks zu entwerfen, implementieren und zu verwalten. Sie wissen wie IT Architekturen im laufenden Betrieb gewartet werden können und welche Standards dort Anwendung finden. Die Studierende wenden ihr Wissen über die Notwendigkeit zur Prozessunterstützung an um Operation Excellence zu unterstützen
+
+Lehrinhalt
+
+• Grundlagen der Enterprise Architecture basierend auf der Abstimmung von IT Fähigkeiten auf die Unternehmensziele
+• Aufbau von einem unternehmensweiten IT Stack mit allen notwendigen und optionalen Komponenten
+• Vermittlung der Prinzipien von SOA in der IT Landscape und dem Einsatz von Technologien wie Webservices, APIs und Microservice-Architekturen
+• Grundlagen zu den DevOps Praktiken
+• Einführung in den ITIL Standard und Anwendung dessen Automatisierung von Geschäftsprozessen mithilfe gängiger on premise oder cloud basierter Tools
+• Aktuelle Trends und Technologien, welche die Zukunft der IT-Architekturen prägen

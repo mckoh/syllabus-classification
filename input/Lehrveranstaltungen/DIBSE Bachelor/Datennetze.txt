@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden kennen die wichtigsten Konzepte der Kommunikation zwischen IT-Systemen. Sie lernen die geeigneten Einsatzgebiete dieser Konzepte anhand von konkreten, gängigen Implementierungen und Standards kennen. Ebenso werden die Studenten mit geeigneten Einsatzszenarien verschiedener Netzwerktechnologien und Tools für die Software- und Systementwicklung in Theorie und Praxis konfrontiert. Des Weiteren werden die Studenten die Eignung dieser Technologien für die praktische Umsetzung abschätzen können und effektiv Software und Systeme unter Einbindung dieser Technologien entwickeln können.
+
+Lehrinhalt
+
+• Kommunikationsparadigmen (zum Beispiel Client-Server)
+• Netzwerktopologien
+• Netzwerkmodelle und –standards, wie Schichtenmodell ISO/OSI
+• Grundlagen der Internet- und Cloud-Infrastrukturen
+• Für IT-Kommunikation relevante Eigenschaften von Physical Links
+• Netzwerkprotokolle wie TCP, IP, UDP, Routing
+• Web-Protokolle
+• Netzwerkapplikationen erstellen
+• Techniken und Strategien zur Fehlerkorrektur und –minimierung
+• Fehlerdiagnose und Analyse

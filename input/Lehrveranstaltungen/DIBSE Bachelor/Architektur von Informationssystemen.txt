@@ -1,0 +1,11 @@
+Lehrziele
+
+Studierende erhalten eine Einführung in das Design und den Ablauf von großen verteilten und parallelen Informationssystemen. Sie sind in der Lage, relevante technische Komponenten und typische Architekturen zu erklären und die passende Architektur für ein gegebenes Problem auszuwählen. Darauf aufbauend lernen die Studierenden die wichtigsten Programmierparadigmen für das Design und die Implementierung von großen verteilten Systemen kennen. Ein weiteres wichtiges Thema ist das Design und die Implementierung des Kommunikationsflusses zwischen verschiedenen Komponenten eines großen Informationssystems. Auch der Einsatz von Informationssystemen in Unternehmen und die damit verknüpften Herausforderungen werden besprochen. Die Anwendung des erworbenen Wissens wird anhand von praktischen Beispielen geübt und vertieft.
+
+Lehrinhalt
+
+• Einführung in verteilte und parallele Hardwarearchitekturen
+• Einführung in die Programmierung von großen Computersystemen (Message Passing und Shared-Memory Programmierung)
+• Kommunikation in großen Systemen: Publish-Subscribe Pattern und Message Broker
+• Große Informationssysteme im Unternehmenseinsatz
+• Lektionen der funktionalen Programmierung

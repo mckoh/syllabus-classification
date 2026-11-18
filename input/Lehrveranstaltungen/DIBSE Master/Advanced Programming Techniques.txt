@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden erlernen fortgeschrittene Programmiertechniken wie die Programmierung von parallelen und verteilten Systemen und die funktionale Programmierung. Sie erwerben tiefgehende Kenntnisse über die verschiedenen Arten des Parallelismus sowie den Aufbau und die Funktionsweise von Shared-Memory und Distributed-Memory Systeme. Die Studierenden sind in der Lage selbstständig die Konzepte und Prinzipien der parallelen und verteilten Programmierung sowie der funktionalen Programmierung in ihren Projekten anzuwenden. Des Weiteren lernen die Studierende Konzepte und Best Practices im Zusammenhang mit Clean Code und wie sie diese anwenden können um die Qualität ihres Codes signifikant zu verbessern.
+
+Lehrinhalt
+
+• Arten von Parallelismus
+• Verteilte und Parallele Programmierung
+• Shared Memory Programmierung
+• Distributed Memory Programmierung
+• Funktionale Programmierung
+• Eventorientierte Programmierung
+• Entwurfsmuster und Architekturen für parallele und funktionale Systemen
+• Konzepte im Zusammenhang von Clean Code
+• Nachhaltige Programmierung und Softwareentwicklung
+• KI-Tools in der Softwareentwicklung

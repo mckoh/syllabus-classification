@@ -1,0 +1,17 @@
+Lehrziele
+
+Nach Abschluss der Lehrveranstaltung haben die Studierenden ein fundiertes Verständnis der grundlegenden Konzepte und Prinzipien der Software-Qualität erlangt. Sie sind in der Lage, Testfälle systematisch unter Anwendung etablierter Methoden abzuleiten. Außerdem beherrschen sie die Test-Driven Development Methode und können sie erfolgreich in der Praxis umsetzen. Die Studierenden können basierend auf der jeweiligen Phase des Softwarelebenszyklus, geeignete Techniken und Werkzeuge zur Sicherstellung der Software-Qualität auswählen und anwenden. Sie sind in der Lage, lesbaren und wartbaren Testcode unter Einsatz geeigneter Tools und Frameworks zu erstellen sowie Testfälle mithilfe von Metriken zu analysieren, zu bewerten und deren Qualität zu optimieren.
+
+Lehrinhalt
+
+• Grundlagen der Softwarequalität
+• Testmethoden:
+ ◦ Dynamische Methoden: White-Box- & Black-Box-Tests
+ ◦ Statische Methoden
+ ◦ Unit-Tests, Integrationstests, Systemtests, Akzeptanztests
+• Test-Driven Development
+• Verifikation und Validierung
+• Metriken und Messverfahren
+• Methoden im Softwareentwicklungsprozess und -lebenszyklus
+• Tools, KI-Modelle und Frameworks zur Qualitätssicherung
+• Sustainability als Qualitätskriterium

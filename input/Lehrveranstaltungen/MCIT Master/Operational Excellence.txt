@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden erhalten das Verständnis für eine prozessorientierte Sichtweise der Vorgänge in einem Unternehmen. Die Studierenden kennen Methoden des Qualitätsmanagements und wissen wie die Voraussetzungen für Operational Excellence geschaffen werden können. Die Studierenden setzen sich mit Analyseverfahren und Methoden der Prozessoptimierung auseinander und lernen Betreibermodelle von Prozessveränderungen zu erarbeiten. Die Studierenden wissen wie Unternehmensdaten als Output von Prozessen gehalten und zur ständiger Weiterentwicklung verwendet werden können.
+
+Lehrinhalt
+
+• Bedeutung des Prozessmanagements in einem digitalisierten Unternehmen
+• Methoden und Modelle des Prozessmanagements
+• Fallstudien zur Vertiefung und praktischen Anwendung der Lehrinhalte
+• Business Process Reengineering und alternative Ansätze der Prozessentwicklung
+• Prozesslebenszyklus- und Reifegradmodelle
+• Prozessoptimierung
+• Einführung in das Qualitätsmanagement
+• Modelle und Konzepte des Qualitätsmanagements
+• Operational Excellence

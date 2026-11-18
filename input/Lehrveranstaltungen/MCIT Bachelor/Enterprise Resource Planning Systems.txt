@@ -1,0 +1,10 @@
+Lehrziele
+
+Studierende kennen die Grundlagen moderner Business Suiten und können diese in Relation zu ERP Systemen erklären. Sie sind in der Lage die Vorteile und Nachteile der Nutzung von Business Suiten zu erklären und diese auch anzuwenden. Studierende wenden ihr Modell zur Anforderungsanalyse auf einen unternehmensweiten Kontext an. Sie können den gesamten IT Stack von IoT hin zu BI oder MIS erklären und verstehen die Zusammenhänge. Die Studierende erarbeiten die praktische Nutzung von einer Business Suite anhand konkreter Anwendungsfälle in einer modernen Business Suite
+
+Lehrinhalt
+
+• Grundlagen von ERP Systemen und Business Suites basierend auf der SOA Grundidee
+• Komponentenaufbau und Anpassung von Business Suites an die unternehmerischen Prozesse
+• In Memory Database basierte Systeme und deren Vorteile/Nachteile
+• ERP Systeme als SAAS in der Cloud

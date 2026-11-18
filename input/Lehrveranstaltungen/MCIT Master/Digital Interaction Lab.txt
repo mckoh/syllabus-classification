@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden verstehen den Einfluss von Technologie auf das alltägliche Informations- und Kommunikationsverhalten von Menschen. Sie lernen unterschiedliche Arten von Online-/Social Communities kennen und verstehen, wie diese aufgebaut sind, die Beweggründe und Motivatoren von Nutzern solcher Communities sowie die zielgruppen-orientiert Weiterentwicklung. Die Studierenden lernen ‚Digital Methods‘ theoretisch und angewandt kennen, um Kommunikationsdaten digitaler Plattformen zu erfassen und zu verarbeiten.
+
+Lehrinhalt
+
+• Technologie & Technologieakzeptanz
+• Arten von Communities, Besonderheiten von Online-Communities / Social Networking Sites
+• Benutzerverhalten in Online-Communities – Social Collective Action (Identitäten, Shitstorms, Aktivierungsmöglichkeiten der Benutzer, Vertrauen, etc.)
+• Gamification als Ansatz zur Motivations- & Nutzungssteigerung
+• Digital Methods als empirischer Ansatz
+• Visuelle Soziale Netzwerkanalyse

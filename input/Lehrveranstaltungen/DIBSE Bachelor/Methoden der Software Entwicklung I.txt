@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden erhalten eine Einführung in die Programmierung von Computern mit einer verbreiteten Hochsprache unter Verwendung einer modernen Entwicklungsumgebung (IDE). Aufbauend auf den grundlegenden Sprachelementen sind die Studierenden in der Lage praktische Aufgabenstellungen zu analysieren und mit Hilfe einer modernen Programmiersprache umzusetzen.
+
+Lehrinhalt
+
+• Einführung in eine moderne Entwicklungsumgebung (IDE)
+• Grundlegende Sprachelemente (Datentypen, Variablen, Operatoren
+• Steuerung des Programmablaufs mit Verzweigungen und Schleifen
+• Felder
+• Aufbau und Arbeitsweise von Funktionen
+• Einsatz von Systemobjekten und deren Eigenschaften und Methoden

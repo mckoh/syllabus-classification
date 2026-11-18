@@ -1,0 +1,7 @@
+Lehrziele
+
+Die Studierenden kennen die unterschiedlichen Ansätze der Softwareentwicklung (Prozedural, funktional, objekt-orientiert), gängige Kontrollstrukturen (z. B. while, for, if), Datentypen, sowie andere relevante Elemente (z. B. Variablen, Listen, Tupel) der Softwareentwicklung. Die Studierenden können selbst einfache Programmstrukturen entwerfen und in einer Programmiersprache umsetzen. Die Studierenden kennen grundlegende Bibliotheken und können diese bei der Konzeption und Umsetzung von Programmen einsetzen.
+
+Lehrinhalt
+
+Im Lab werden die Inhalte der VO "Coding" mit Hilfe von praktischen Übungen vertieft. Die dabei gewonnenen Erkenntnisse werden in der Gruppe diskutiert und erlauben so einen tiefen Einblick in die Materie und eine Festigung des Wissens, das in der VO theoretisch vermittelt wurde.

@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen die Grundlagen digitaler Geschäftsmodelle und Ökosysteme. Sie kennen die Bedeutung und den Wert von Daten in diesen Bereichen. Sie sind in der Lage, datengetriebene Services zu gestalten und in (digitale) Geschäftsmodelle integrieren. Sie kennen die zentralen Technologien und Werkzeuge, um Daten als wertsteigernde Komponente zu nutzen. Sie können diese Technologien auch in Grundzügen anwenden.
+
+Lehrinhalt
+
+• Grundlagen digitaler Ökosysteme bzw. digitaler Geschäftsmodelle
+• Grundlagen und Anwendungen von Artificial Intelligence
+• Data Science Pipeline
+• Data value streams
+• Data Monetization & Data Markets
+• Legal Aspects

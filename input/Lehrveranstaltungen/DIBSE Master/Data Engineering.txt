@@ -1,0 +1,14 @@
+Lehrziele
+
+Die Studierenden kennen die wichtigsten nicht-relationalen Datenmodelle und können diese typischen Anwendungsfällen zuordnen. Sie sind in der Lage, Daten nach unterschiedlichen Datenmodellen zu modellieren, kennen die zentralen Datenkategorien und können diese beschreiben und erläutern. Außerdem können sie verteilte Datenhaltungssysteme konfigurieren und implementieren. Die Studierenden können unterschiedliche Datenmodelle in unterschiedlichen Datenhaltungssystemen abbilden. Sie sind in der Lage Datenpipelines zu planen und zu implementieren. Sie kennen organisatorische Aspekte des Datenmanagements sowie einschlägige Frameworks für das Datenmanagement.
+
+Lehrinhalt
+
+• Datenstrukturen und Datenmodelle (Schwerpunkt: nicht-relationale Modelle)
+• Verschiedene Datenkategorien (Metadaten, Stammdaten usw.)
+• Verteilte Datenspeicherung (Data Warehouse, Data Lake, Data Fabric, Data Mesh, usw.) und Skalierungsmöglichkeiten
+• Nachhaltige Datenmodelle und -speicherung
+• Datenmodelle und Datenspeicherung mit zugehörigen Anwendungsfällen
+• Aufbau und Orchestrierung von Datenpipelines (ETL, ELT, Echtzeit, usw.)
+• Datenkultur, Datenstrategien und Datenarchitekturen (Frameworks, DataOps, etc.)
+• Verwendung aktueller Data-Engineering-Tools, KI-Tools und Ökosysteme

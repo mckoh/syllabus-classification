@@ -1,0 +1,8 @@
+Lehrziele
+
+Studierende sind in der Lage eine IT Architektur anhand best practice Frameworks zu entwerfen, implementieren und zu verwalten. Sie wissen wie IT Architekturen im laufenden Betrieb gewartet werden können und welche Standards dort Anwendung finden. Die Studierende wenden ihr Wissen über die Notwendigkeit zur Prozessunterstützung an um Operation Excellence zu unterstützen
+
+Lehrinhalt
+
+• Fallbeispiele aus der Praxis geben einen guten Einblick in die reale IT-Welt bei Unternehmen
+• Anwenden des gesamten aufgebauten Wissens anhand einer praxisnahen integrierten Case Study

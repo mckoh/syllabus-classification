@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden erhalten einen Überblick zu unterschiedlichen Programmiersprachen und kennen die unterschiedlichen Anwendungsgebiete. Sie kennen die Vor- und Nachteile der unterschiedlichen Programmierparadigmen und können diese den jeweiligen Sprachen zuordnen. Die Studierenden können Bereiche und Aufgaben der realen Welt modellieren und formal darstellen. Dazu erlangen sie Verständnis der abstrakten und praktischen Grundparadigmen von objektorientierten Programmiersprachen und beherrschen die Grundelemente einer modernen Programmiersprache.
+
+Lehrinhalt
+
+• Historischer Überblick der Entwicklung von Programmiersprachen
+• Unterschiede und Anwendungsgebiete von Programmiersprachen
+• Grundlegende Programmierparadigmen mit dem Schwerpunkt auf objektorientierter Programmierung
+• Grundelemente moderner Programmiersprachen (Typsystem, Variablen und Zuweisung, Operatoren, Kontrollstrukturen, Felder, Funktionen)
+• Lernen des Denkens in Algorithmen, um durch Zerlegung einer Aufgabe in einzelne Teilschritte zu einer Lösung zu kommen
+• Umsetzung von praktischen Aufgabenstellungen in Pseudocode

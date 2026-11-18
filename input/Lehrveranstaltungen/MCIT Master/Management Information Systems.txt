@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden verstehen die Grundlagen der IT-Unterstützung von Unternehmungen. Sie können Management Informationssysteme (MIS) in ihrer Funktionsweise verstehen und kennen deren Anwendungsfälle in digitalisierten Unternehmungen. Sie können mit strukturierten sowie unstrukturierten Daten umgehen und deren Generierung und Auswertung aus MIS Systemen planen und umsetzen. Sie kennen die Werkzeuge von Business Intelligence und Business Analytics und sind in der Lage integrierte Konzepte von der Datengenerierung bis hin zur Aufbereitung der Management Entscheidungen zu realisieren.
+
+Lehrinhalt
+
+• Datawarehouse Konzepte und Architekturen
+• MIS Begriffe und Definitionen
+• Praktische Anwendungen von MIS
+• Management von Informationssystemen
+• Aufbau der digitalen Unternehmung
+• Überblick über Business Intelligence (BI) Systems
+• Anwendungsbereiche und Herausforderungen von BI

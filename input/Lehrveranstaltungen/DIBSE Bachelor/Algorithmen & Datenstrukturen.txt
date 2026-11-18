@@ -1,0 +1,12 @@
+Lehrziele
+
+Die Studierenden kennen grundlegende Datenstrukturen und sind in der Lage diese entsprechend zu wählen. Sie sind in der Lage Probleme algorithmisch zu formulieren. Die Studierenden kennen die grundlegendsten Such- und Sortieralgorithmen und können diese implementieren. Die Studierenden können Probleme der Graphentheorie beschreiben und entsprechende Lösungskonzepte anwenden.
+
+Lehrinhalt
+
+• Grundlagen: Algorithmen und Programme
+• Grundlegende abstrakte Datenstrukturen und deren Anwendungen: Stacks, Queues, Listen, Bäume und Graphen
+• Einfache rekursive und iterative Algorithmen
+• Grundlegende Suchalgorithmen wie zum Beispiel: sequentielle Suche, binäre Suche, Hashing, etc.
+• Grundlegende Sortieralgorithmen wie zum Beispiel: Bubblesort, Heapsort, Mergesort, Quicksort etc.
+• Suchverfahren und andere Problemstellungen der Graphentheorie und deren praktische Bedeutung

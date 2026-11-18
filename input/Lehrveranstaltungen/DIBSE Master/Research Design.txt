@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden verstehen unterschiedliche Herangehensweisen im wissenschaftlichen Forschungs- und Schreibprozess. Sie kennen die Definition des Gegenstandsbereichs, die Forschungsstrategie und das Forschungsdesign (Forschungsziel, Theorie und Forschungsmethodik). Sie können relevante Themenstellungen identifizieren sowie eine wissenschaftliche Fragestellung formulieren um das Forschungsprojekt zu definieren. Die Studierenden kennen die wichtigsten quantitativen bzw. qualitativen Forschungsmethoden und können diese in Bezug auf ein Forschungsvorhaben auswählen und auf eine Fragestellung im Kontext des Software Engineerings und der Digitalen Transformation anwenden.
+
+Lehrinhalt
+
+• Forschungsstrategie und Forschungsdesign
+• Recherche, Auf- und Erarbeitung wissenschaftlicher Literatur
+• Angewandte Konzipierung von wissenschaftlich relevanten Problemstellungen
+• Entwicklung von Forschungsfragen, deren Umsetzung und Auswertung im Rahmen von empirischen Forschungsprojekten
+• Vertiefung des wissenschaftlichen Schreibprozesses
+• Einführung in die quantitative und qualitative Wissenschaftstheorie
+• Theoretische Positionierung der beiden Zugänge in unterschiedlichen Forschungsdesigns/-kontexten
+• Verfahren zur Erhebung und Analyse quantitativer und qualitativer Daten
+• Qualitätssicherung und Darstellung der Ergebnisse quantitativer und qualitativer Studien
+• Evaluierung und Bewertung von Forschungsergebnissen

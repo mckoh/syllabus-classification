@@ -1,0 +1,10 @@
+Lehrziele
+
+Die Lehrveranstaltung ermöglicht den Studierenden, komplexe Probleme systematisch zu lösen und mathematische Konzepte, Themen und Methoden praxisorientiert anzuwenden. Die Lernziele umfassen die Entwicklung von Fähigkeiten wie logischem Denken, Algorithmik, Mustererkennung und Abstraktion. Die Studierenden sind in der Lage, mathematisierbare Probleme zu zerlegen, effektive Lösungswege zu entwerfen und ihre Ergebnisse zu evaluieren. Durch kollaboratives Arbeiten und kreative Problemlösungsansätze werden sie auf die Anforderungen einer zunehmend digitalisierten Welt vorbereitet. Ziel ist es, dass die Studierenden Computational Thinking als wertvolles Werkzeug zur Bewältigung mathematisierbarer Herausforderungen verstehen und anwenden können und damit zukunftsfähig werden für Beruf und Alltag.
+
+Lehrinhalt
+
+• Konzepte und Themen: Logik und Logisches Denken, Algorithmik und algorithmisches Denken, Muster und Mustererkennung, Abstraktion und Generalisierung, Evaluation, Automatisierung
+• Mathematische Kerninhalte: Vektorräume, Matrizen, Gauß’scher Algorithmus und lineare Gleichungssysteme, Eigenwerte, Eigenvektoren und Basistransformationen Skalarprodukt und orthogonale Abbildungen, Grundbegriffe der Graphentheorie
+• Leitideen: Modellieren, Zuordnung und Veränderung, Methoden der Algorithmik
+• Anwendungen in Informatik, Marketing und Management von Unternehmen

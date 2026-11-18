@@ -1,0 +1,16 @@
+Lehrziele
+
+Die Studierenden bekommen ein grundlegendes Verständnis der mathematischen Grundlagen, insbesondere Transformationen, der Funktionsweise von Rastergrafik und den Aufbau der Rendering-Pipeline. Sie erwerben tiefgehende Kenntnisse im Bereich der 2D/3D-Geometrie und damit zusammenhängenden Datenstrukturen, Texturierung und in der Verwendung von gängigen Grafikschnittstellen. Des Weiteren sind sie in der Lage selbständig kleinere Softwareprojekte im Zusammenhang mit Computergrafik erfolgreich zu designen, planen und implementieren. Die Studenten erhalten ein sehr grundlegendes Verständnis von fortgeschrittenen Themen wie Shader-Programmierung, Animationen und Physically Based Rendering.
+
+Lehrinhalt
+
+• Mathematische Grundlagen
+• Raster und Vektorgrafik
+• Szenengraph
+• Rendering-Pipeline
+• 2D/3D-Geometrie und -Modellierung
+• Datenstrukturen für graphische Daten
+• Texturierung
+• Animationen
+• Shader-Programmierung
+• Physically Based Rendering

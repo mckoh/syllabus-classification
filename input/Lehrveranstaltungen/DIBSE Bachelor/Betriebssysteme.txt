@@ -1,0 +1,14 @@
+Lehrziele
+
+Studierende kennen typische Architekturmodelle und -mechanismen moderner Betriebssysteme für Single- und Multiprozessorsysteme. Studierende können die wichtigsten Systemkomponenten von Betriebssystem erklären und historisch einordnen. Studierende können mittels Shell Scripting einfache betriebssystemrelevante Aufgaben realisieren. Sie können typische Probleme paralleler Abläufe in Anwendungsprogrammen erkennen und optimieren. Studierende kennen typische Angriffsszenarien sowie typische betriebssysteminhärente Schutz- und Vorbeugemechanismen.
+
+Lehrinhalt
+
+• Architekturen für Betriebssysteme
+• Ressourcenverwaltung
+• Prozesse, Parallelität, Scheduling, Dead-Locks
+• Interprozesskommunikation, Mutual Exclusion und Synchronisation
+• Dateisysteme
+• Schutzmechanismen, Sicherheitsaspekte
+• Performance Aspekte
+• Virtualisierung

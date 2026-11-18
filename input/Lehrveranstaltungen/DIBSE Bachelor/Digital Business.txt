@@ -1,0 +1,14 @@
+Lehrziele
+
+Studierende kennen die Grundzüge von Digital Business und die darunter liegenden IT Systeme. Sie können einen Marktplatz analysieren und darauf aufbauend eine entsprechende Digitale Strategie erstellen. Dabei können die Studenten auch die dafür notwendige Infrastruktur planen. Es werden Details zu den Bereichen Digital Marketing, Supply Chain Management in Digital Businesses und Customer Relationship vermittelt und die Anwendung der Lerninhalte mit Cases unterstützt. Das Digital Business Projekt ermöglicht es Studierenden das Wissen in die Praxis umzusetzen. Es wird dabei in komplettes digitales Business entwickelt und von den Studierenden in einem Business Pitch und einer Präsentation vorgestellt und dabei kritisch hinterfragt.
+
+Lehrinhalt
+
+• Analyse eines Marktplatzes und der damit verbundenen Teilnehmer, um das Wissen über Kunden, Mitbewerber und anderen Teilenehmer in die Strategie einfließen zu lassen
+• Aufzeigen der Hard- und Software-Komponenten welche für eine erfolgreiche Strategieimplementierung notwendig sind
+• Entwicklung einer Digital Business Strategie basierend auf einem Prozessmodell
+• Supply Chain Management in Digital Businesses
+• Analyse verschiedener eProcurement Methoden und die Evaluierung dieser hinsichtlich der Anwendbarkeit, Vorteile und der Risiken
+• Basierend auf der Digitalen Strategie wird ein Digitales Marketing Konzept entwickelt
+• Die Umsetzung von CRM im Digitalen Business
+• Die Analyse, das Design und der Betrieb von Digital Business IT Systemen mit aktuellen technologischen Möglichkeiten

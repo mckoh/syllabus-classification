@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden kennen die zentralen Begriffe, Konzepte sowie die wesentlichen Teilbereiche von Supply Chains. Sie kennen die zentralen Managementaufgaben von Supply Chains und können diese exemplarisch anwenden. Sie können Herausforderungen in der betrieblichen Leistungserstellung sowie gesamter Supply Chains identifizieren. Sie sind sich der Bedeutung der Nachhaltigkeit im Rahmen des Supply Chain Managements bewusst. Sie sind in der Lage Informationsbedarfe entlang der gesamten Supply Chain zu identifizieren und können Konzepte zur digitalen Transformation von Supply Chains umreißen.
+
+Lehrinhalt
+
+• Überblick über das Supply Chain Management (Begriffe, Konzepte, wesentlichen Teilbereiche)
+• Aktuelle Entwicklungen und Herausforderungen
+• Managementaufgaben im Kontext von Supply Chains auf strategischer und operativer Ebene
+• Identifizieren von Informationsbedarfen und die damit verbundenen Anforderungen an Informationssysteme
+• Betrachtung von Nachhaltigkeitsaspekten entlang der gesamten Supply Chain
+• Transformation hin zu digitalen Supply Chains
+• Innerbetriebliche Supply Chains sowie Operations Management

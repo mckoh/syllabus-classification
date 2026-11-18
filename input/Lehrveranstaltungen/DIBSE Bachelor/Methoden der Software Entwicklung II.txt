@@ -1,0 +1,10 @@
+Lehrziele
+
+Die Studierenden verstehen die grundlegenden Konzepte der Objektorientierung. und sind befähigt, diese in einer modernen Programmiersprache umzusetzen. Sie kennen wichtige Erzeugungsmuster (Creational Design Patterns) und können diese erkennen und anwenden.
+
+Lehrinhalt
+
+• Grundelemente der objektorientierte Programmierung (Klassen und Objekte, Kapselung
+• Assoziationen zwischen Klassen und Objekten (Kardinalität, Navigierbarkeit)
+• Vererbung, Schnittstellen und Polymorphismus
+• Creational Design Patterns

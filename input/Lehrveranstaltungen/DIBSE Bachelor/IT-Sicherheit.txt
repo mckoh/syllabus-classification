@@ -1,0 +1,15 @@
+Lehrziele
+
+Die Studierenden erkennen die Notwendigkeit von Security by Design und die Anwendung von Sicherheitsmaßnahmen beim Entwickeln, dem Deployment und dem Betrieb von Applikationen. Die Studierenden können verschiedene gängige Absicherungsmaßnahmen und Technologien gegen unbefugten Datenzugriff und – manipulation in ihre Projekte integrieren.
+
+Lehrinhalt
+
+• Unterschied Zugriffssicherheit, Integrität und Schutz persönlicher Information
+• Konsequenzen rechtlicher Grundlagen wie der Datenschutzgrundverordnung auf die Entwicklung von Software
+• Verschlüsselungstechnologien wie AES
+• Sicherer Datentransfer, wie zum Beispiel TLS
+• Sichere Datenablage
+• Anmeldetechnologien, sichere Benutzeraccounts
+• Netzwerksicherheit, Firewalls
+• Sicherer Anwendungsschnittstellen, wie Web-Service Security
+• Security-Aspekte beim Programmieren von Software

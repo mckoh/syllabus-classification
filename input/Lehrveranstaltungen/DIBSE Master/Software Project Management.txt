@@ -1,0 +1,17 @@
+Lehrziele
+
+Die Studierenden erlangen die Fähigkeit, agile Methoden in der Softwareentwicklung anzuwenden und komplexe Multi-Projektumgebungen effektiv zu steuern. Sie lernen, Ressourcen effizient zu planen, Risiken zu managen und Teams in einem agilen Umfeld zu führen. Sie können zudem parallele Projekte koordinieren, Prioritäten setzen und kontinuierliche Prozessverbesserungen implementieren.
+
+Lehrinhalt
+
+• Grundlagen des Software-Projektmanagements
+• Agile Methoden (Scrum, Kanban, Lean)
+• Projektplanung und -steuerung in agilen Umgebungen
+• Multi-Projektmanagement: Priorisierung und Ressourcenmanagement
+• Tools für agiles Projektmanagement
+• Risikomanagement in agilen Projekten
+• Rollen und Verantwortlichkeiten im agilen Team
+• Führung und Teamentwicklung in agilen Projekten
+• Kommunikation und Stakeholder-Management
+• Skalierung von agilen Methoden: SAFe, LeSS
+• Nachhaltiges Projektmanagement

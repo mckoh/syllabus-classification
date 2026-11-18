@@ -1,0 +1,9 @@
+Lehrziele
+
+Studierende kennen die Grundlagen des Projektmanagements. Sie wenden klassisches oder agiles Projektmanagement anhand von konkreten Beispielen an und können das entsprechende Projektframework je nach den Eigenschaften des Projektes auswählen und dies begründen. Studierende kennen die Grundlagen des Prozessmanagements und können Prozesse mithilfe der BPMN in der aktuellen Version abbilden und Prozessverbesserungen ableiten. Sie sind in der Lage Prozessmanagement in konkreten Fällen anzuwenden und agieren dabei basierend auf den KVP Grundsätzen.
+
+Lehrinhalt
+
+• Grundlagen des klassischen als auch agilen Projektmanagement
+• Erarbeiten einer entsprechenden Projektdokumentation
+• Anwendung des Wissens anhand konkreter Fallbeispiele

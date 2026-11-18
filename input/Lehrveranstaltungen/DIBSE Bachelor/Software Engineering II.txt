@@ -1,0 +1,13 @@
+Lehrziele
+
+Die Studierenden können Konzepte und Techniken aus dem Bereich des Software Engineering für eine professionelle Entwicklung von Software anwenden. Sie können verschieden Werkzeuge zur Unterstützung des Softwareentwicklungsprozesses zielgerichtet einsetzen. Die Studierenden kennen verschiedene Entwurfsmuster der Softwareentwicklung und können diese in konkreten Implementierungen einsetzen. Die Studierenden können Techniken zur Einhaltung der Softwarequalität einsetzen. Die Studierenden können verschiedene Hilfsmittel und geeignete Technologien zur Unterstützung des professionellen Softwareentwicklungsprozesses einsetzen. Die Studierenden können Software mit Hilfe eines Softwareentwicklungsprozesses systematisch erstellen. Die Studierenden können den Einsatz verschiedener Software-Frameworks einschätzen und diese Software-Frameworks auch zur Entwicklung eigener Software nutzen.
+
+Lehrinhalt
+
+• System Modellierung
+• Weiterführende Software Architektur und Software Design Patterns
+• Techniken zur Qualitätssicherung bei der Softwareentwicklung (wie zum Beispiel Test-Driven-Development)
+• Fortgeschrittene Techniken und Werkzeuge der professionellen Softwareentwicklung
+• Implementierung Software mit Hilfe eines Softwareentwicklungsprozesses
+• Software-Frameworks
+• Automatisierung in der Softwareentwicklung
