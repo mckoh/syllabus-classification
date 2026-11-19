@@ -184,7 +184,7 @@ def extract(text: str) -> Extraction:
         options={
             "temperature": EXTRACT_TEMPERATURE,
             "num_ctx": CONTEXT_SIZE,
-            "num_predict": INFERENCE_LENGTH
+            #"num_predict": INFERENCE_LENGTH
         }
     )
 

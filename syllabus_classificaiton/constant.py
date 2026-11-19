@@ -8,7 +8,7 @@ EMBED_MODEL = "qwen3-embedding:0.6b"
 CONTEXT_SIZE = 8192
 EXTRACT_TEMPERATURE = 0.1  # 0 lets SMLs often go into greedy endless inferencing loops
 INFERENCE_TEMPERATUR = 0.2
-INFERENCE_LENGTH = 1024
+INFERENCE_LENGTH = 8000
 
 EXTRACTION_PROMPT = """
 # AUFGABE
