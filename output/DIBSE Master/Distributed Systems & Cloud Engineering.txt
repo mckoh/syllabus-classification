@@ -1,5 +1,7 @@
-Identifying and solving technical problems
-Identifying and assessing needs
-Identifying creative solutions using digital technologies
-Protecting devices
-Identifying and addressing digital competence needs
+1.1 Browsing, searching and filtering information
+5.2 Identifying needs and digital technological responses
+4.2 Protecting personal data and privacy
+4.1 Protecting devices
+4.3 Supporting wellbeing
+4.4 Environmental impacts of digital technologies
+5.1 Identifying and solving technical problems

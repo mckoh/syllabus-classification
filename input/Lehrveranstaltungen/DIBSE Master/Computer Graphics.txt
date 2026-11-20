@@ -4,13 +4,13 @@ Die Studierenden bekommen ein grundlegendes Verständnis der mathematischen Grun
 
 Lehrinhalt
 
-• Mathematische Grundlagen
-• Raster und Vektorgrafik
-• Szenengraph
-• Rendering-Pipeline
-• 2D/3D-Geometrie und -Modellierung
-• Datenstrukturen für graphische Daten
-• Texturierung
-• Animationen
-• Shader-Programmierung
-• Physically Based Rendering
+Mathematische Grundlagen
+Raster und Vektorgrafik
+Szenengraph
+Rendering-Pipeline
+2D/3D-Geometrie und -Modellierung
+Datenstrukturen für graphische Daten
+Texturierung
+Animationen
+Shader-Programmierung
+Physically Based Rendering
