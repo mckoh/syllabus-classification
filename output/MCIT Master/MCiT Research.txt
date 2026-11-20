@@ -1,0 +1,21 @@
+1.1 Browsing, searching and filtering information
+1.2 Evaluating information
+1.3 Managing information
+3.1 Developing digital content
+2.1 Interacting through and with digital technologies
+2.2 Sharing through digital technologies
+2.3 Engaging in citizenship through digital technologies
+2.4 Collaborating through digital technologies
+2.5 Digital behaviour
+2.6 Managing digital identity
+3.2 Integrating and re-elaborating digital content
+3.3 Copyright and licences
+3.4 Computational thinking and programming
+4.1 Protecting devices
+4.2 Protecting personal data and privacy
+4.3 Supporting wellbeing
+4.4 Environmental impacts of digital technologies
+5.1 Identifying and solving technical problems
+5.2 Identifying needs and digital technological responses
+5.3 Identifying creative solutions using digital technologies
+5.4 Identifying and addressing digital competence needs
