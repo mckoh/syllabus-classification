@@ -171,7 +171,7 @@ def extract(text: str) -> Extraction:
     )
 
     user_content = (
-        f"KURSBESCHREIBUNG (Deutsch):\n```text\n{text}\n```"
+        f"KURSBESCHREIBUNG (Deutsch):\n```text\n{clean(text)}\n```"
     )
 
     resp = chat(
@@ -211,3 +211,7 @@ def extract(text: str) -> Extraction:
 
     result.competences = verified_competences
     return result
+
+
+def clean(text: str) ->str:
+    return text.replace("•", "-")
